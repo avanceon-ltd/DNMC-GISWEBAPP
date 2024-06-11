@@ -1,0 +1,173 @@
+
+31 Jul 2023 11:05:23,426 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:10:36,837 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:10:43,263 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:10:44,983 [10] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004%2c30072023-0001%2c30072023-0002%2c10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:10:56,823 [10] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004%2c30072023-0001%2c30072023-0002%2c10072023-0017
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near ')'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.DuplicateSRAssignment.CheckIfComplaintIsNotQueuedOrResolved() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 80
+   at WebAppForm.DuplicateSRAssignment.DuplicateAssignment() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 136
+   at WebAppForm.DuplicateSRAssignment.btnOK_Click(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 131
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:c6756a62-daa1-451a-aa78-0cca01729739
+Error Number:102,State:1,Class:15
+
+31 Jul 2023 11:11:02,825 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:12:39,669 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:12:41,693 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004%2c30072023-0001%2c30072023-0002%2c10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:14:00,877 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:14:03,204 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment.aspx?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment.aspx localhost
+
+31 Jul 2023 11:14:05,001 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:14:09,307 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004%2c30072023-0001%2c30072023-0002%2c10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:19:01,838 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:19:01,909 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:19:08,910 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004%2c30072023-0001%2c30072023-0002%2c10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:38:55,179 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:38:58,396 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:39:19,977 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 11:39:36,525 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 12:07:26,264 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+31 Jul 2023 12:07:44,485 [8] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.DuplicateSRAssignment.CheckParentComplaint() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 116
+   at WebAppForm.DuplicateSRAssignment.Page_Load(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+31 Jul 2023 12:07:55,622 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004,30072023-0001,30072023-0002,10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 12:08:22,986 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004%2c30072023-0001%2c30072023-0002%2c10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 12:09:38,152 [8] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-07-31T12:09:36" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319766</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319328</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: e6MlpMEpHl
+
+31 Jul 2023 12:10:18,851 [8] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-07-31T12:10:14" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319767</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319328</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: wI1xZlv8JR
+
+31 Jul 2023 12:14:19,450 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment?pcrmsid=20062023-0007&ccrmsid=11062023-0004%2c30072023-0001%2c30072023-0002%2c10072023-0017 /DuplicateSRAssignment localhost
+
+31 Jul 2023 13:52:04,173 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+31 Jul 2023 13:52:20,060 [5] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.DuplicateSRAssignment.CheckParentComplaint() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 102
+   at WebAppForm.DuplicateSRAssignment.Page_Load(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)

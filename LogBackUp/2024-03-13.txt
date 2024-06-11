@@ -1,0 +1,42 @@
+
+13 Mar 2024 11:29:06,985 [5] INFO  
+http://localhost:1229/Asset.aspx /Asset.aspx localhost
+
+13 Mar 2024 11:29:12,745 [7] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 11:29:44,316 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 11:30:34,873 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 11:30:54,488 [10] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 11:31:02,993 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 11:31:03,256 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 11:31:03,456 [7] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 12:34:02,823 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 12:34:08,849 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 12:35:29,853 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 12:35:35,474 [7] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 12:47:44,391 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+13 Mar 2024 12:47:51,410 [5] INFO  
+http://localhost:1229/Asset /Asset localhost

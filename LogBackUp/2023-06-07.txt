@@ -1,0 +1,164 @@
+
+07 Jun 2023 12:32:08,851 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment.aspx /DuplicateSRAssignment.aspx localhost
+
+07 Jun 2023 12:32:14,005 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 15:43:42,493 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 15:56:12,466 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 15:56:16,528 [8] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx(140): error CS1061: 'duplicatesrassignment_aspx' does not contain a definition for 'gvDuplicateSR_PageIndexChanging' and no accessible extension method 'gvDuplicateSR_PageIndexChanging' accepting a first argument of type 'duplicatesrassignment_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+07 Jun 2023 16:06:35,366 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:06:38,547 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx(140): error CS1061: 'duplicatesrassignment_aspx' does not contain a definition for 'gvDuplicateSR_PageIndexChanging' and no accessible extension method 'gvDuplicateSR_PageIndexChanging' accepting a first argument of type 'duplicatesrassignment_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+07 Jun 2023 16:07:19,888 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:07:23,431 [8] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx(140): error CS1061: 'duplicatesrassignment_aspx' does not contain a definition for 'gvDuplicateSR_PageIndexChanging' and no accessible extension method 'gvDuplicateSR_PageIndexChanging' accepting a first argument of type 'duplicatesrassignment_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+07 Jun 2023 16:09:01,611 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:09:54,630 [5] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Web.HttpException (0x80004005): A field or property with the name 'Complaint' was not found on the selected data source.
+   at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at WebAppForm.DuplicateSRAssignment.BindData() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 33
+   at WebAppForm.DuplicateSRAssignment.Page_Load(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 21
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+07 Jun 2023 16:09:58,024 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:11:11,355 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:11:22,918 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:12:16,848 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:12:25,248 [5] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Web.HttpException (0x80004005): A field or property with the name 'Complaint' was not found on the selected data source.
+   at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at WebAppForm.DuplicateSRAssignment.BindData() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 33
+   at WebAppForm.DuplicateSRAssignment.Page_Load(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 21
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+07 Jun 2023 16:14:03,461 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:14:24,782 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:14:42,971 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:15:01,645 [17] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:15:20,366 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:15:35,000 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:15:42,948 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:17:29,693 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:19:17,681 [11] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:19:29,955 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:19:32,922 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:20:29,640 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:20:39,991 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:21:24,101 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:21:31,567 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+07 Jun 2023 16:21:36,875 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost

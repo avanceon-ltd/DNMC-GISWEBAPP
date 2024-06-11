@@ -1,0 +1,629 @@
+
+08 Jun 2023 09:46:05,385 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 09:46:36,444 [5] INFO  
+IP: ::1
+The namespace declaration attribute has an incorrect 'namespaceURI': 'http://www.w3.org/2000/xmlns/'.
+External Ref ID: w8QIHUfmk5
+
+08 Jun 2023 09:46:40,444 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 09:47:01,991 [5] INFO  
+IP: ::1
+The namespace declaration attribute has an incorrect 'namespaceURI': 'http://www.w3.org/2000/xmlns/'.
+External Ref ID: V2k6iFW9fu
+
+08 Jun 2023 09:47:04,871 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 09:48:21,579 [5] INFO  
+IP: ::1
+The namespace declaration attribute has an incorrect 'namespaceURI': 'http://www.w3.org/2000/xmlns/'.
+External Ref ID: wgluCTp8hg
+
+08 Jun 2023 09:48:24,279 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 09:51:56,734 [6] INFO  
+IP: ::1
+The namespace declaration attribute has an incorrect 'namespaceURI': 'http://www.w3.org/2000/xmlns/'.
+External Ref ID: 6OfkR9Y1Wd
+
+08 Jun 2023 09:51:58,668 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 09:54:47,809 [5] INFO  
+IP: ::1
+The namespace declaration attribute has an incorrect 'namespaceURI': 'http://www.w3.org/2000/xmlns/'.
+External Ref ID: 4WrNrNNMKX
+
+08 Jun 2023 09:54:55,834 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 09:57:08,385 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:02:19,320 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:02:59,216 [6] INFO  
+IP: ::1
+The attribute local name cannot be empty.
+External Ref ID: 2qSAfrUAvv
+
+08 Jun 2023 10:04:59,635 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:07:32,266 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:10:46,822 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:12:10,925 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T10:11:28" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10318917</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319023</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: DiEcFh19xS
+
+08 Jun 2023 10:13:05,688 [6] INFO  
+IP: ::1
+Object reference not set to an instance of an object.
+External Ref ID: DiEcFh19xS
+
+08 Jun 2023 10:13:26,135 [20] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:13:57,377 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:14:18,617 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:15:49,415 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:17:29,828 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:24:06,364 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:25:27,939 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:26:02,346 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:26:22,236 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:26:37,352 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 10:48:01,127 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:01:26,569 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:01:38,155 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:04:05,676 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:04:25,739 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:14:10,704 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:16:42,831 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:17:07,621 [9] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T11:17:06" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10318929</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319023</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: bNNEoW1B1p
+
+08 Jun 2023 11:20:37,619 [9] INFO  
+IP: ::1
+Object reference not set to an instance of an object.
+External Ref ID: bNNEoW1B1p
+
+08 Jun 2023 11:24:48,799 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:25:01,403 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:28:14,721 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:28:25,646 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T11:28:24" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10318928</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319023</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: TVARZns3rT
+
+08 Jun 2023 11:29:24,414 [6] INFO  
+IP: ::1
+Object reference not set to an instance of an object.
+External Ref ID: TVARZns3rT
+
+08 Jun 2023 11:45:01,016 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:45:10,025 [5] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T11:45:09" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319279</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319278</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: yNoi4peLN4
+
+08 Jun 2023 11:45:19,643 [5] INFO  
+IP: ::1
+Object reference not set to an instance of an object.
+External Ref ID: yNoi4peLN4
+
+08 Jun 2023 11:45:54,596 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:52:46,705 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 11:53:09,858 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T11:53:08" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319280</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319278</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: 8Spk41DHPs
+
+08 Jun 2023 11:53:14,683 [6] INFO  
+IP: ::1
+Object reference not set to an instance of an object.
+External Ref ID: 8Spk41DHPs
+
+08 Jun 2023 12:02:16,851 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:02:41,782 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:07:04,081 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:07:14,489 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:11:01,170 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:11:14,205 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:11:14,809 [5] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T12:11:14" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319286</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319278</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: s24v6Lvci5
+
+08 Jun 2023 12:12:07,663 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:12:07,703 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T12:12:07" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319286</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319278</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: 4tjRbFELF8
+
+08 Jun 2023 12:12:10,124 [6] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: 4tjRbFELF8
+
+08 Jun 2023 12:12:39,398 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 12:12:49,785 [5] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T12:12:49" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319286</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319278</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: 6dQPRjIO5O
+
+08 Jun 2023 12:12:52,238 [5] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: 6dQPRjIO5O
+
+08 Jun 2023 15:37:35,859 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:38:49,142 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:38:55,466 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T15:38:55" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10318983</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319032</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: 56K8b8LcdA
+
+08 Jun 2023 15:39:19,672 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:40:04,054 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:40:10,994 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:40:18,093 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:40:38,238 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:40:45,094 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:52:46,195 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:53:00,722 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:53:05,780 [5] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T15:53:05" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10318995</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319032</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: TLNph1HVVV
+
+08 Jun 2023 15:54:22,622 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:54:52,463 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:55:05,849 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:55:08,445 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T15:55:08" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10318996</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319032</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: fNL8yOrG59
+
+08 Jun 2023 15:55:38,486 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:57:31,903 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:58:56,897 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:59:14,620 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 15:59:16,923 [7] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T15:59:16" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319031</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319278</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: Fij1XfhG29
+
+08 Jun 2023 15:59:48,589 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:01:22,723 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:01:37,501 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:01:39,764 [5] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T16:01:39" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319161</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319278</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: JuyrfBxqyQ
+
+08 Jun 2023 16:02:12,964 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:02:23,514 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:02:48,626 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:04:18,143 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:04:24,234 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:04:25,417 [13] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:04:26,065 [14] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:04:47,392 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:05:03,417 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:05:05,362 [7] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-08T16:05:05" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319284</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319016</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: lxdnf4eCOc
+
+08 Jun 2023 16:05:16,834 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+08 Jun 2023 16:07:04,925 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+08 Jun 2023 16:07:32,651 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+08 Jun 2023 16:09:37,931 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+08 Jun 2023 16:41:45,395 [49] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost

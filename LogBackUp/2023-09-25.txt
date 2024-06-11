@@ -1,0 +1,678 @@
+
+25 Sep 2023 08:25:17,798 [9] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 08:25:22,765 [9] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 08:25:37,705 [9] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 08:27:18,250 [10] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 08:34:22,188 [17] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 08:34:28,200 [15] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:12:27,064 [38] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:12:29,741 [38] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:12:34,473 [38] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:13:16,757 [38] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:16:22,512 [39] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:16:27,504 [39] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:17:15,008 [39] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:17:16,989 [39] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:17:24,347 [39] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:19:15,030 [39] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:24:39,370 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:29:33,556 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:45:18,236 [24] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:46:10,965 [24] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:46:25,066 [32] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:46:27,681 [24] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:46:35,081 [31] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 09:47:06,118 [24] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:40:22,247 [13] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:40:25,618 [13] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:40:30,819 [13] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:41:02,337 [13] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:41:06,620 [13] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:43:57,480 [8] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:43:59,425 [12] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 10:44:02,110 [12] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:10:56,679 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:11:06,983 [8] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:11:08,943 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:11:11,429 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:11:15,379 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:53:54,928 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:56:44,094 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:56:58,801 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:59:36,364 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 11:59:44,022 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:05:34,259 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:05:37,653 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:05:46,442 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:25:42,109 [22] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:25:45,204 [23] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:27:06,182 [22] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:27:37,221 [22] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(String Name, String Description, String IPAddress, String status) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1279
+   at WebAppForm.ProActiveMonitorDashboard.Menu1_MenuItemClick(Object sender, MenuEventArgs e) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 226
+   at System.Web.UI.WebControls.Menu.OnMenuItemClick(MenuEventArgs e)
+   at System.Web.UI.WebControls.Menu.InternalRaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Menu.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Menu.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+25 Sep 2023 12:28:58,997 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:36:18,310 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:39:00,442 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:42:13,433 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:49:17,969 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:49:31,183 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:49:33,636 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:49:51,372 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:49:53,178 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:52:22,877 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:52:30,052 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:52:34,162 [8] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:52:51,226 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 12:54:54,937 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:06:20,262 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:06:27,866 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:06:32,076 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:08:02,499 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:08:09,646 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:08:15,419 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:18:43,832 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:20:13,807 [9] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:26:43,249 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:37:37,111 [9] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:38:41,858 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:43:54,532 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:45:52,707 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 13:51:09,281 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:01:37,384 [26] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:02:39,900 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:10:29,519 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:15:32,137 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:18:05,834 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:21:45,190 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:50:40,579 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:58:52,087 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 14:59:02,474 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 14:59:03,292 [6] INFO  
+
+ Name: CDMS 
+ Description: CDMS server 
+ IPAddress: 10.250.60.101 
+ Status: TimedOut
+
+25 Sep 2023 15:44:56,472 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:44:59,050 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 15:44:59,059 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 15:45:20,139 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1382
+
+25 Sep 2023 15:45:47,333 [13] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:45:53,403 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:45:59,674 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:46:15,133 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:46:15,150 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 15:46:15,158 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 15:46:36,217 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1382
+
+25 Sep 2023 15:49:36,270 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:49:38,626 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 15:49:38,634 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 15:49:59,716 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1384
+
+25 Sep 2023 15:50:25,449 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:50:28,281 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:50:31,041 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:50:33,739 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 15:50:33,755 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 15:50:33,764 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 15:50:54,824 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1384
+
+25 Sep 2023 16:13:22,740 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:13:26,853 [5] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:13:26,860 [5] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:13:47,953 [5] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1219
+
+25 Sep 2023 16:14:16,265 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:19:16,357 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:19:16,376 [5] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:19:16,384 [5] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:19:37,408 [5] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1219
+
+25 Sep 2023 16:24:58,686 [27] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:24:58,706 [27] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:24:58,714 [27] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:25:19,737 [27] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1219
+
+25 Sep 2023 16:30:40,807 [43] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:30:40,825 [43] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:30:40,834 [43] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:31:01,855 [43] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1219
+
+25 Sep 2023 16:37:07,066 [8] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:37:09,698 [8] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:37:09,706 [8] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:37:30,787 [8] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1220
+
+25 Sep 2023 16:41:27,023 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:41:29,310 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:41:29,318 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:41:50,396 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1220
+
+25 Sep 2023 16:49:18,746 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:49:21,087 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:49:21,095 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:49:42,183 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1221
+
+25 Sep 2023 16:55:04,068 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 16:55:04,090 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 16:55:04,098 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 16:55:25,122 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1221
+
+25 Sep 2023 17:02:42,471 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 17:02:42,908 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 17:02:42,917 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 17:03:04,003 [6] ERROR 
+System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.250.50.203:25
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at WebAppForm.ProActiveMonitorDashboard.SendEmail(StringBuilder table, String tableName, String module) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 1221
+
+25 Sep 2023 17:05:12,052 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 17:06:58,143 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+25 Sep 2023 17:07:00,475 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+25 Sep 2023 17:07:00,483 [6] INFO  
+
+ Table: <table border = '1'><tr><th>Fetch Date</th><th>Name</th><th>Description</th><th>Ip Address</th><th>Status</th></tr><tr style='background-color:#FFC7CE'><td>9/25/2023 12:26:41 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.101</td><td>TimedOut</td></tr><tr><td>9/25/2023 12:25:27 PM</td><td>CDMS</td><td>CDMS server</td><td>10.250.60.100</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>AVLS</td><td>AVLS Application Server</td><td>10.110.201.164</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>ESB_PROD_NEW</td><td>ESB Create/Update WO Server</td><td>10.110.201.179</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMSDBP01</td><td>EAMS STG Database Server</td><td>10.250.60.42</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>CRMS_PROD</td><td>CRMS STG Database Server</td><td>10.250.70.162</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>EAMS</td><td>EAMS File Server</td><td>10.110.201.189</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SharePoint</td><td>SharePoint Portal Server</td><td>10.110.201.8</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMTP</td><td>ISD EMail Server</td><td>10.250.50.203</td><td>Success</td></tr><tr><td>9/25/2023 12:26:36 PM</td><td>SMS</td><td>ISD SMS Server</td><td>10.110.201.20</td><td>Success</td></tr></table>
+
+25 Sep 2023 17:07:04,166 [6] INFO  
+Email Send Successfully!

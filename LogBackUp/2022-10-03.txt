@@ -1,0 +1,360 @@
+
+03 Oct 2022 09:44:25,864 [5] INFO  
+http://localhost:1228/CreateWOCustomer /CreateWOCustomer localhost
+
+03 Oct 2022 09:44:27,646 [6] INFO  
+http://localhost:1228/createwocustomer?crmsid=26052022-0001 /createwocustomer localhost
+
+03 Oct 2022 09:44:40,041 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=26052022-0001 /createwocustomer localhost
+
+03 Oct 2022 09:45:01,470 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=03102022-0001 /createwocustomer localhost
+
+03 Oct 2022 09:45:24,960 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=03102022-0001 /createwocustomer localhost
+
+03 Oct 2022 09:45:25,184 [5] INFO  
+IP: ::1
+WorkOrder request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:CreateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-10-03T09:45:24Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrder>
+      <esb:Description>03102022-0001 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>kPxk4Lew4w</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-10-03T09:45:24</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>WAPPR</esb:Status>
+      <esb:TargetCompletionDate>2022-10-03T13:45:01</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-10-03T09:45:01</esb:TargetStartDate>
+      <esb:OrigRecordID>10317341</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317341</esb:OrigTKID>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>03102022-0001</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderServiceAddress>
+        <esb:AddressLine3>0</esb:AddressLine3>
+        <esb:LatitudeY>25.291361776478233</esb:LatitudeY>
+        <esb:LongitudeX>51.50573074469297</esb:LongitudeX>
+      </esb:WorkOrderServiceAddress>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:CreateWorkOrderRequest>
+External Ref ID: kPxk4Lew4w
+
+03 Oct 2022 09:45:26,303 [5] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: kPxk4Lew4w
+
+03 Oct 2022 09:45:26,312 [5] INFO  
+IP: ::1
+WorkOrder response: 
+<?xml version="1.0" encoding="UTF-8"?><NS1:CreateWorkOrderReply xmlns:NS1="esb.ashghal.gov.qa"><NS1:eAI_HEADER><NS1:referenceNum>a</NS1:referenceNum><NS1:clientChannel>DSS</NS1:clientChannel><NS1:requestTime>2022-10-03T09:45:24Z</NS1:requestTime><NS1:retryFlag>N</NS1:retryFlag><NS1:sucessfulReversalFlag>N</NS1:sucessfulReversalFlag></NS1:eAI_HEADER><NS1:eAI_STATUS><NS1:returnStatus><NS1:returnCode>ESB1009901E</NS1:returnCode><NS1:returnCodeDesc>General System Error</NS1:returnCodeDesc></NS1:returnStatus><NS1:returnStatusProvider><NS1:returnCodeProvider>500</NS1:returnCodeProvider><NS1:returnCodeDescProvider>Error 500: BMXZZ0024E - CRM Service Request is in INPROG status, EAM System Cannot create Work Order.
+</NS1:returnCodeDescProvider></NS1:returnStatusProvider></NS1:eAI_STATUS></NS1:CreateWorkOrderReply>
+External Ref ID: kPxk4Lew4w
+
+03 Oct 2022 09:45:26,321 [5] ERROR 
+IP: ::1
+ECC_Comp_Create_WO response: 
+IP: ::1
+URL: http://localhost:1228/createwocustomer?crmsid=03102022-0001
+Error Detail: Error 500: BMXZZ0024E - CRM Service Request is in INPROG status, EAM System Cannot create Work Order.
+
+External Ref ID: kPxk4Lew4w
+XML:
+<?xml version="1.0" encoding="UTF-8"?><esb:CreateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-10-03T09:45:24Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrder>
+      <esb:Description>03102022-0001 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>kPxk4Lew4w</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-10-03T09:45:24</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>WAPPR</esb:Status>
+      <esb:TargetCompletionDate>2022-10-03T13:45:01</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-10-03T09:45:01</esb:TargetStartDate>
+      <esb:OrigRecordID>10317341</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317341</esb:OrigTKID>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>03102022-0001</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderServiceAddress>
+        <esb:AddressLine3>0</esb:AddressLine3>
+        <esb:LatitudeY>25.291361776478233</esb:LatitudeY>
+        <esb:LongitudeX>51.50573074469297</esb:LongitudeX>
+      </esb:WorkOrderServiceAddress>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:CreateWorkOrderRequest>
+
+03 Oct 2022 09:46:32,862 [5] INFO  
+IP: ::1
+WorkOrder request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:CreateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-10-03T09:46:32Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrder>
+      <esb:Description>03102022-0001 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>kE86RQrxSS</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-10-03T09:45:24</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>WAPPR</esb:Status>
+      <esb:TargetCompletionDate>2022-10-03T13:45:01</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-10-03T09:45:01</esb:TargetStartDate>
+      <esb:OrigRecordID>10317341</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317341</esb:OrigTKID>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>03102022-0001</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderServiceAddress>
+        <esb:AddressLine3>0</esb:AddressLine3>
+        <esb:LatitudeY>25.291361776478233</esb:LatitudeY>
+        <esb:LongitudeX>51.50573074469297</esb:LongitudeX>
+      </esb:WorkOrderServiceAddress>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:CreateWorkOrderRequest>
+External Ref ID: kE86RQrxSS
+
+03 Oct 2022 09:46:33,768 [5] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: kE86RQrxSS
+
+03 Oct 2022 09:46:33,777 [5] INFO  
+IP: ::1
+WorkOrder response: 
+<?xml version="1.0" encoding="UTF-8"?><NS1:CreateWorkOrderReply xmlns:NS1="esb.ashghal.gov.qa"><NS1:eAI_HEADER><NS1:referenceNum>a</NS1:referenceNum><NS1:clientChannel>DSS</NS1:clientChannel><NS1:requestTime>2022-10-03T09:46:32Z</NS1:requestTime><NS1:retryFlag>N</NS1:retryFlag><NS1:sucessfulReversalFlag>N</NS1:sucessfulReversalFlag></NS1:eAI_HEADER><NS1:eAI_STATUS><NS1:returnStatus><NS1:returnCode>ESB1009901E</NS1:returnCode><NS1:returnCodeDesc>General System Error</NS1:returnCodeDesc></NS1:returnStatus><NS1:returnStatusProvider><NS1:returnCodeProvider>500</NS1:returnCodeProvider><NS1:returnCodeDescProvider>Error 500: BMXZZ0024E - CRM Service Request is in INPROG status, EAM System Cannot create Work Order.
+</NS1:returnCodeDescProvider></NS1:returnStatusProvider></NS1:eAI_STATUS></NS1:CreateWorkOrderReply>
+External Ref ID: kE86RQrxSS
+
+03 Oct 2022 09:46:33,785 [5] ERROR 
+IP: ::1
+ECC_Comp_Create_WO response: 
+IP: ::1
+URL: http://localhost:1228/createwocustomer?crmsid=03102022-0001
+Error Detail: Error 500: BMXZZ0024E - CRM Service Request is in INPROG status, EAM System Cannot create Work Order.
+
+External Ref ID: kE86RQrxSS
+XML:
+<?xml version="1.0" encoding="UTF-8"?><esb:CreateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-10-03T09:46:32Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrder>
+      <esb:Description>03102022-0001 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>kE86RQrxSS</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-10-03T09:45:24</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>WAPPR</esb:Status>
+      <esb:TargetCompletionDate>2022-10-03T13:45:01</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-10-03T09:45:01</esb:TargetStartDate>
+      <esb:OrigRecordID>10317341</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317341</esb:OrigTKID>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>03102022-0001</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderServiceAddress>
+        <esb:AddressLine3>0</esb:AddressLine3>
+        <esb:LatitudeY>25.291361776478233</esb:LatitudeY>
+        <esb:LongitudeX>51.50573074469297</esb:LongitudeX>
+      </esb:WorkOrderServiceAddress>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:CreateWorkOrderRequest>
+
+03 Oct 2022 09:49:19,281 [5] INFO  
+IP: ::1
+WorkOrder request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:CreateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-10-03T09:49:19Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrder>
+      <esb:Description>03102022-0001 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>41W5rWtVnt</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-10-03T09:45:24</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>WAPPR</esb:Status>
+      <esb:TargetCompletionDate>2022-10-03T13:45:01</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-10-03T09:45:01</esb:TargetStartDate>
+      <esb:OrigRecordID>10317341</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317341</esb:OrigTKID>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>03102022-0001</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderServiceAddress>
+        <esb:AddressLine3>0</esb:AddressLine3>
+        <esb:LatitudeY>25.291361776478233</esb:LatitudeY>
+        <esb:LongitudeX>51.50573074469297</esb:LongitudeX>
+      </esb:WorkOrderServiceAddress>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:CreateWorkOrderRequest>
+External Ref ID: 41W5rWtVnt
+
+03 Oct 2022 09:49:20,317 [5] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: 41W5rWtVnt
+
+03 Oct 2022 09:49:20,324 [5] INFO  
+IP: ::1
+WorkOrder response: 
+<?xml version="1.0" encoding="UTF-8"?><NS1:CreateWorkOrderReply xmlns:NS1="esb.ashghal.gov.qa"><NS1:eAI_HEADER><NS1:referenceNum>a</NS1:referenceNum><NS1:clientChannel>DSS</NS1:clientChannel><NS1:requestTime>2022-10-03T09:49:19Z</NS1:requestTime><NS1:retryFlag>N</NS1:retryFlag><NS1:sucessfulReversalFlag>N</NS1:sucessfulReversalFlag></NS1:eAI_HEADER><NS1:eAI_STATUS><NS1:returnStatus><NS1:returnCode>ESB1009901E</NS1:returnCode><NS1:returnCodeDesc>General System Error</NS1:returnCodeDesc></NS1:returnStatus><NS1:returnStatusProvider><NS1:returnCodeProvider>500</NS1:returnCodeProvider><NS1:returnCodeDescProvider>Error 500: BMXZZ0024E - CRM Service Request is in INPROG status, EAM System Cannot create Work Order.
+</NS1:returnCodeDescProvider></NS1:returnStatusProvider></NS1:eAI_STATUS></NS1:CreateWorkOrderReply>
+External Ref ID: 41W5rWtVnt
+
+03 Oct 2022 09:49:20,333 [5] ERROR 
+IP: ::1
+ECC_Comp_Create_WO response: 
+IP: ::1
+URL: http://localhost:1228/createwocustomer?crmsid=03102022-0001
+Error Detail: Error 500: BMXZZ0024E - CRM Service Request is in INPROG status, EAM System Cannot create Work Order.
+
+External Ref ID: 41W5rWtVnt
+XML:
+<?xml version="1.0" encoding="UTF-8"?><esb:CreateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-10-03T09:49:19Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrder>
+      <esb:Description>03102022-0001 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>41W5rWtVnt</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-10-03T09:45:24</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>WAPPR</esb:Status>
+      <esb:TargetCompletionDate>2022-10-03T13:45:01</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-10-03T09:45:01</esb:TargetStartDate>
+      <esb:OrigRecordID>10317341</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317341</esb:OrigTKID>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>03102022-0001</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderServiceAddress>
+        <esb:AddressLine3>0</esb:AddressLine3>
+        <esb:LatitudeY>25.291361776478233</esb:LatitudeY>
+        <esb:LongitudeX>51.50573074469297</esb:LongitudeX>
+      </esb:WorkOrderServiceAddress>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:CreateWorkOrderRequest>
+
+03 Oct 2022 09:56:52,901 [6] INFO  
+http://localhost:1228/ECCAttachByWo.aspx /ECCAttachByWo.aspx localhost
+
+03 Oct 2022 09:56:56,630 [7] INFO  
+http://localhost:1228/ECCAttachByWo /ECCAttachByWo localhost
+
+03 Oct 2022 09:57:06,844 [6] INFO  
+http://localhost:1228/ECCAttachByWo?id=13081570 /ECCAttachByWo localhost
+
+03 Oct 2022 09:57:23,576 [6] INFO  
+http://localhost:1228/ECCAttachByWo?id=13081570 /ECCAttachByWo localhost

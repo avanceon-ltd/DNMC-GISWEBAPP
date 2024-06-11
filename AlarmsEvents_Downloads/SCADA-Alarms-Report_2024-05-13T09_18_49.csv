@@ -1,0 +1,324 @@
+TagName,Date,Description,Priority,Alarm State,Asset,Alarm_DurationMs,User,Current State,Previous State,CZF_ODW_Filter,Network_ODW,IsSilenced?,Asset Group_ODW,Severity,Attribute
+PS40_1_SG01.FaultS,5/13/2024 8:18:06 AM,Main Inlet Penstock Fault Status,400,ACK_RTN,PS_40_1,523020390,Anandaraj Jpandian,Faulty,Normal,Other,FWN,True,PS,High,FaultS
+PS37A_LT07.PV1_FaultS,5/13/2024 8:17:58 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_RTN,PS_37,57799,,true,false,Other,FWN,True,PS,Medium,PV1_FaultS
+VCIC3_PT002.PV,5/13/2024 8:17:58 AM,Chamber Pressure High,600,UNACK_RTN,VC_IC3,,,6.5,6.496,Qatar West,TWN,False,VC,Medium,PV
+PSDUHLYT_RTU01.CommFailS,5/13/2024 8:17:56 AM,Communication Failure Status,100,UNACK_ALM,PS_DUHLYT,,,true,true,Other,SGW,False,PS,Critical,CommFailS
+VCIC3_PT002.PV,5/13/2024 8:17:53 AM,Chamber Pressure High,600,UNACK_ALM,VC_IC3,,,6.5,6.543,Qatar West,TWN,False,VC,Medium,PV
+STWIA2A_SBR_LSH501A.Alm,5/13/2024 8:17:27 AM,ASBR Basin 3 Level Switch High Alarm,600,UNACK_RTN,STW_IndustrialArea2A,,,Alarm,Normal,Qatar South,FWN,True,STW,Medium,Alm
+PS14_2A_P01.FaultS,5/13/2024 8:17:25 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_RTN,PS_14_2A,626031,,true,false,Other,FWN,True,PS,Medium,FaultS
+PS14_1_NRV01.FaultS,5/13/2024 8:17:15 AM,Wetwell 1 Line 1 Non Return Valve Fault Status,600,UNACK_ALM,PS_14_1,,,Faulty,Faulty,Other,FWN,True,PS,Medium,FaultS
+STWDW_472H_AIT310.LoAlm,5/13/2024 8:17:13 AM,Aeration tank H - Dissolved oxygen Analyzer Low Alarm,600,UNACK_ALM,STW_DohaWest,,,true,true,Qatar West,FWN,False,STW,Medium,LoAlm
+PS37A_LT07.PV1_FaultS,5/13/2024 8:17:00 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_ALM,PS_37,,,true,true,Other,FWN,True,PS,Medium,PV1_FaultS
+STWDW_589B_AIT306.LoAlm,5/13/2024 8:16:59 AM,Treated Water Free Chlorine Analyzer Low Alarm,600,UNACK_RTN,STW_DohaWest,,,true,false,Qatar West,FWN,False,STW,Medium,LoAlm
+STWDW_921C_LIT352.HiAlm,5/13/2024 8:15:51 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDW_921C_LIT352.LoAlm,5/13/2024 8:15:51 AM,921 GBT Site Drainage tank level Low Alarm,600,UNACK_RTN,STW_DohaWest,,,Low,Normal,Qatar West,FWN,False,STW,Medium,LoAlm
+STWDW_921C_LIT352.HiAlm,5/13/2024 8:15:37 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDW_921C_LIT352.LoAlm,5/13/2024 8:15:37 AM,921 GBT Site Drainage tank level Low Alarm,600,UNACK_ALM,STW_DohaWest,,,Low,Low,Qatar West,FWN,False,STW,Medium,LoAlm
+STWDW_921C_LIT352.HiHiAlm,5/13/2024 8:15:37 AM,921 GBT Site Drainage tank level High High Alarm,400,UNACK_RTN,STW_DohaWest,,,High High,Normal,Qatar West,FWN,False,STW,High,HiHiAlm
+PTPAlShamal_LSL202.Alm,5/13/2024 8:15:30 AM,Sewage Lift Station Sump Pit (TK-202) Low Level Switch Alarm,600,UNACK_RTN,PTP_AlShamal,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+PSJW_P03.EstopS,5/13/2024 8:15:24 AM,Wetwell 2 Line1 Pump Emergency Stop Status,600,UNACK_ALM,PS_JW,,,EmergencyStop,EmergencyStop,Other,SGWUP,True,PS,Medium,EstopS
+PSTSE05_ExFan03.FaultS,5/13/2024 8:15:23 AM,Exhaust Fan 03 Fault Status,600,UNACK_ALM,PS_TSE05,,,Fault,Fault,Other,TWN,True,PS,Medium,FaultS
+STWDW_921C_LIT352.HiHiAlm,5/13/2024 8:15:23 AM,921 GBT Site Drainage tank level High High Alarm,400,UNACK_ALM,STW_DohaWest,,,High High,High High,Qatar West,FWN,False,STW,High,HiHiAlm
+PSJW_P03.FeedBrkrOffS,5/13/2024 8:15:20 AM,Wetwell 2 Line1 Pump Feeder Breaker Off Status,600,UNACK_ALM,PS_JW,,,OFF,OFF,Other,SGWUP,True,PS,Medium,FeedBrkrOffS
+STWDW_589B_AIT303.LoAlm,5/13/2024 8:15:07 AM,Treated Water Phosphate Analyzer Low Alarm,600,UNACK_RTN,STW_DohaWest,,,true,false,Qatar West,FWN,False,STW,Medium,LoAlm
+VCC1_007_FMC1_008_RTU01.PanelTempHiAlm,5/13/2024 8:15:05 AM,RTU Panel Temperature High Status,600,UNACK_ALM,VC_C1_007,,,High,High,Qatar South,TWN,False,VC,Medium,PanelTempHiAlm
+STWDW_488A_LIT308.HiAlm,5/13/2024 8:14:27 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDN_LS6503.Alm,5/13/2024 8:13:47 AM,Storm Water Pumpsultrasonic Level Tx & Float Level Switchprimary Start Level Alarm,600,UNACK_ALM,STW_DohaNorth,,,Alarm,Alarm,Qatar North,FWN,False,STW,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:13:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PSJW_P02.FaultS,5/13/2024 8:13:30 AM,Wetwell Line 2 Pump 2 Fault Status,600,UNACK_RTN,PS_JW,,,true,false,Other,SGWUP,True,PS,Medium,FaultS
+PSJW_P02.EstopS,5/13/2024 8:13:28 AM,Wetwell Line 2 Pump 2 Emergency Stop Status,600,UNACK_RTN,PS_JW,,,EmergencyStop,Normal,Other,SGWUP,True,PS,Medium,EstopS
+PSJW_P02.FaultS,5/13/2024 8:13:28 AM,Wetwell Line 2 Pump 2 Fault Status,600,UNACK_ALM,PS_JW,,,true,true,Other,SGWUP,True,PS,Medium,FaultS
+DWUEG31.RTU_Temp_HiAlm,5/13/2024 8:12:44 AM,Dewatering Station RTU High Temperature Status,600,UNACK_ALM,DW_UEG31,,,Alarm,Alarm,Other,SGW,False,DW,Medium,RTU_Temp_HiAlm
+PS14_1_NRV01.FaultS,5/13/2024 8:12:37 AM,Wetwell 1 Line 1 Non Return Valve Fault Status,600,UNACK_RTN,PS_14_1,1284615,,Faulty,Healthy,Other,FWN,True,PS,Medium,FaultS
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:12:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PS37A_LT07.PV1_FaultS,5/13/2024 8:12:28 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_RTN,PS_37,414148,,true,false,Other,FWN,True,PS,Medium,PV1_FaultS
+STWIA2A_3_LSH803.Alm,5/13/2024 8:11:27 AM,Effluent Sand Filter 3 Level Switch High Alarm,600,UNACK_ALM,STW_IndustrialArea2A,,,Alarm,Alarm,Qatar South,FWN,True,STW,Medium,Alm
+STWDW_488A_LIT308.LoAlm,5/13/2024 8:11:19 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_RTN,STW_DohaWest,,,Low,Normal,Qatar West,FWN,False,STW,Medium,LoAlm
+PS14_2A_Deo01.FaultS,5/13/2024 8:11:05 AM,Deodorizer Fault Status,600,UNACK_ALM,PS_14_2A,,,Fault,Fault,Other,FWN,True,PS,Medium,FaultS
+PSTSE05_SW04_P01.FaultS,5/13/2024 8:09:39 AM,Storm Water Tank 04 Pump 01 Fault Status,600,UNACK_RTN,PS_TSE05,,,true,false,Other,TWN,True,PS,Medium,FaultS
+PSTSE05_SW04_P01.FaultS,5/13/2024 8:09:25 AM,Storm Water Tank 04 Pump 01 Fault Status,600,UNACK_ALM,PS_TSE05,,,true,true,Other,TWN,True,PS,Medium,FaultS
+PTPAlShamal_LSL202.Alm,5/13/2024 8:09:18 AM,Sewage Lift Station Sump Pit (TK-202) Low Level Switch Alarm,600,UNACK_ALM,PTP_AlShamal,,,Alarm,Alarm,Qatar North,FWN,False,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:09:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:08:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+STWDW_488A_LIT308.LoAlm,5/13/2024 8:08:21 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_ALM,STW_DohaWest,,,Low,Low,Qatar West,FWN,False,STW,Medium,LoAlm
+STWIA2A_2_LSL216.Alm,5/13/2024 8:07:27 AM,WPS Wet Well Level Switch Low Alarm,600,UNACK_RTN,STW_IndustrialArea2A,,,Alarm,Normal,Qatar South,FWN,True,STW,Medium,Alm
+PS14_2A_P01.FaultS,5/13/2024 8:06:59 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_ALM,PS_14_2A,,,true,true,Other,FWN,True,PS,Medium,FaultS
+PSW9_1.CurrentDayFlowTotExceed,5/13/2024 8:06:31 AM,Totalized Flow Exceeds Last month Avg. Flow,600,UNACK_ALM,PS_W9_1,,,true,true,Other,FWN,False,PS,Medium,CurrentDayFlowTotExceed
+STWDW_488A_LIT308.HiAlm,5/13/2024 8:05:43 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDW_921C_LIT352.HiAlm,5/13/2024 8:05:43 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+PS37A_LT07.PV1_FaultS,5/13/2024 8:05:34 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_ALM,PS_37,,,true,true,Other,FWN,True,PS,Medium,PV1_FaultS
+STWDW_921C_LIT352.HiAlm,5/13/2024 8:05:29 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+PSJW_P02.EstopS,5/13/2024 8:05:24 AM,Wetwell Line 2 Pump 2 Emergency Stop Status,600,UNACK_ALM,PS_JW,,,EmergencyStop,EmergencyStop,Other,SGWUP,False,PS,Medium,EstopS
+PTPAlShamal_LSL202.Alm,5/13/2024 8:05:02 AM,Sewage Lift Station Sump Pit (TK-202) Low Level Switch Alarm,600,UNACK_RTN,PTP_AlShamal,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:05:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PTPALGhazal_LSH03.Alm,5/13/2024 8:05:00 AM,SBR TANK-2 HI LEVEL SWITCH Alarm,600,UNACK_ALM,PTP_AlGhazal,,,Alarm,Alarm,Qatar North,FWN,False,PTP,Medium,Alm
+STWIA2A_2_LSL216.Alm,5/13/2024 8:04:27 AM,WPS Wet Well Level Switch Low Alarm,600,UNACK_ALM,STW_IndustrialArea2A,,,Alarm,Alarm,Qatar South,FWN,True,STW,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:04:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBarwaVillage_SCR_LSH.Alm,5/13/2024 8:04:00 AM,Screening Unit High Level Switch Alarm,600,UNACK_RTN,PTP_BarwaVillage,,,Alarm,Normal,Qatar South,FWN,False,PTP,Medium,Alm
+PTPAlGhazal_LSL06.Alm,5/13/2024 8:04:00 AM,Disinfection Tank Low Level Switch Alarm,600,UNACK_ALM,PTP_AlGhazal,,,Alarm,Alarm,Qatar North,FWN,False,PTP,Medium,Alm
+PSG_34_R6UP3_P02.EstopS,5/13/2024 8:03:53 AM,Wetwell Line 2 Pump Emergency Stop Status,600,UNACK_ALM,PS_G_34_R6UP3,,,EmergencyStop,EmergencyStop,Other,SGWUP,True,PS,Medium,EstopS
+PTPBC_I_732AFISL001.Alm,5/13/2024 8:03:31 AM,OCU Scrubber A Flow Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBC_I_732AFISL001.Alm,5/13/2024 8:03:01 AM,OCU Scrubber A Flow Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:00:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:00:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 8:00:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+STWDW_592_PIT302.HiAlm,5/13/2024 7:59:25 AM,High Alarm,600,UNACK_ALM,STW_DohaWest,,,true,true,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDW_488A_LIT308.HiAlm,5/13/2024 7:59:21 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDW_592B_PIT309B.LoAlm,5/13/2024 7:59:19 AM,Low Alarm,600,UNACK_RTN,STW_DohaWest,,,true,false,Qatar West,FWN,False,STW,Medium,LoAlm
+STWIA2A_SBR_LSH501A.Alm,5/13/2024 7:58:57 AM,ASBR Basin 3 Level Switch High Alarm,600,UNACK_ALM,STW_IndustrialArea2A,,,Alarm,Alarm,Qatar South,FWN,True,STW,Medium,Alm
+PS32A_Deo02_B2.FaultS,5/13/2024 7:58:00 AM,Deodorizer 02 Blower 02 Deodorizer Fault Status,600,UNACK_RTN,PS_32A,8016,,Fault,Normal,Other,FWN,True,PS,Medium,FaultS
+PS32A_Deo02_B2.FaultS,5/13/2024 7:57:52 AM,Deodorizer 02 Blower 02 Deodorizer Fault Status,600,UNACK_ALM,PS_32A,,,Fault,Fault,Other,FWN,True,PS,Medium,FaultS
+FM6_PT001.PV,5/13/2024 7:56:58 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.752,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:56:52 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.72,Qatar South,TWN,False,FM,Medium,PV
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:56:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+STWDW_488A_LIT308.LoAlm,5/13/2024 7:56:27 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_RTN,STW_DohaWest,,,Low,Normal,Qatar West,FWN,False,STW,Medium,LoAlm
+STWDW_921C_LIT352.LoAlm,5/13/2024 7:55:47 AM,921 GBT Site Drainage tank level Low Alarm,600,UNACK_RTN,STW_DohaWest,,,Low,Normal,Qatar West,FWN,False,STW,Medium,LoAlm
+PS37A_LT07.PV1_FaultS,5/13/2024 7:55:34 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_RTN,PS_37,53876,,true,false,Other,FWN,True,PS,Medium,PV1_FaultS
+STWDW_921C_LIT352.LoAlm,5/13/2024 7:55:33 AM,921 GBT Site Drainage tank level Low Alarm,600,UNACK_ALM,STW_DohaWest,,,Low,Low,Qatar West,FWN,False,STW,Medium,LoAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:55:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PTPALGhazal_LSL09.Alm,5/13/2024 7:55:30 AM,BREAK TANK LOW LEVEL SWITCH Alarm,600,UNACK_RTN,PTP_AlGhazal,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+FM6_PT001.PV,5/13/2024 7:55:24 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7504,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:55:20 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7344,Qatar South,TWN,False,FM,Medium,PV
+PS37A_LT07.PV1_FaultS,5/13/2024 7:54:40 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_ALM,PS_37,,,true,true,Other,FWN,True,PS,Medium,PV1_FaultS
+STWDW_488A_LIT308.LoAlm,5/13/2024 7:54:01 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_ALM,STW_DohaWest,,,Low,Low,Qatar West,FWN,False,STW,Medium,LoAlm
+DWUEG31.RTU_Temp_HiAlm,5/13/2024 7:53:18 AM,Dewatering Station RTU High Temperature Status,600,UNACK_RTN,DW_UEG31,,,Alarm,Normal,Other,SGW,False,DW,Medium,RTU_Temp_HiAlm
+PTPBarwaVillage_SCR_LSH.Alm,5/13/2024 7:52:30 AM,Screening Unit High Level Switch Alarm,600,UNACK_ALM,PTP_BarwaVillage,,,Alarm,Alarm,Qatar South,FWN,False,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:52:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+VCC1_001_FMC1_306_RTU01.PanelTempHiAlm,5/13/2024 7:51:55 AM,RTU Panel Temperature High Status,600,UNACK_ALM,VC_C1_001,,,High,High,Qatar South,TWN,False,VC,Medium,PanelTempHiAlm
+DWUEG31.RTU_Temp_HiAlm,5/13/2024 7:51:50 AM,Dewatering Station RTU High Temperature Status,600,UNACK_ALM,DW_UEG31,,,Alarm,Alarm,Other,SGW,False,DW,Medium,RTU_Temp_HiAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:51:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+STWDS_RTU01.HumidityS,5/13/2024 7:51:16 AM,Humidity Status,600,UNACK_RTN,STW_DohaSouth,,,true,false,Qatar South,FWN,True,STW,Medium,HumidityS
+PS14_1_NRV01.FaultS,5/13/2024 7:51:12 AM,Wetwell 1 Line 1 Non Return Valve Fault Status,600,UNACK_ALM,PS_14_1,,,Faulty,Faulty,Other,FWN,True,PS,Medium,FaultS
+STWDW_488A_LIT308.HiAlm,5/13/2024 7:51:05 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+PTPBarwaVillage_T104_LSL.Alm,5/13/2024 7:50:30 AM,ChlorinationTank Low Level Switch Alarm,600,UNACK_ALM,PTP_BarwaVillage,,,Alarm,Alarm,Qatar South,FWN,False,PTP,Medium,Alm
+PTPALGhazal_LEH05.Alm,5/13/2024 7:49:00 AM,Equalization Tank High Level Switch Alarm,600,UNACK_RTN,PTP_AlGhazal,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+PSS_81_MOV201C.FaultS,5/13/2024 7:48:53 AM,Valve Fault Status,400,UNACK_RTN,PS_S_81,16182254,,Fault,Healthy,Other,FWN,True,PS,High,FaultS
+PSS_81_MOV203.FaultS,5/13/2024 7:48:52 AM,Valve Fault Status,400,UNACK_RTN,PS_S_81,16180286,,Fault,Healthy,Other,FWN,True,PS,High,FaultS
+PSS_81_MOV204.FaultS,5/13/2024 7:48:52 AM,Valve Fault Status,400,UNACK_RTN,PS_S_81,16180286,,Fault,Healthy,Other,FWN,True,PS,High,FaultS
+PSS_81_IG202A.FaultS,5/13/2024 7:48:49 AM,Screen 01 Inlet Penstock Fault Status,400,UNACK_RTN,PS_S_81,16178254,,Faulty,Normal,Other,FWN,True,PS,High,FaultS
+PSS_81_IG202D.FaultS,5/13/2024 7:48:49 AM,Screen 02 Outlet Penstock Fault Status,400,UNACK_RTN,PS_S_81,16178254,,Faulty,Normal,Other,FWN,True,PS,High,FaultS
+PSS_81_IG202C.FaultS,5/13/2024 7:48:49 AM,Screen 01 Outlet Penstock Fault Status,400,UNACK_RTN,PS_S_81,16178254,,Faulty,Normal,Other,FWN,True,PS,High,FaultS
+PSS_81_IG202B.FaultS,5/13/2024 7:48:49 AM,Screen 02 Inlet Penstock Fault Status,400,UNACK_RTN,PS_S_81,16178254,,Faulty,Normal,Other,FWN,True,PS,High,FaultS
+PSS_81_MOV201B.FaultS,5/13/2024 7:48:49 AM,Valve Fault Status,400,UNACK_RTN,PS_S_81,16178254,,Fault,Healthy,Other,FWN,True,PS,High,FaultS
+PSS_81_IG201.FaultS,5/13/2024 7:48:49 AM,Main Inlet Penstock Fault Status,400,UNACK_RTN,PS_S_81,16178254,,Faulty,Normal,Other,FWN,True,PS,High,FaultS
+PSS_81_MOV201A.FaultS,5/13/2024 7:48:49 AM,Valve Fault Status,400,UNACK_RTN,PS_S_81,16178254,,Fault,Healthy,Other,FWN,True,PS,High,FaultS
+PTPALGhazal_LSH01.Alm,5/13/2024 7:48:30 AM,SBR TANK-1 HI LEVEL SWITCH Alarm,600,UNACK_RTN,PTP_AlGhazal,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+FM6_PT001.PV,5/13/2024 7:48:18 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7504,Qatar South,TWN,False,FM,Medium,PV
+PSS_81_UPS01.FaultS,5/13/2024 7:48:17 AM,UPS Fault ,600,UNACK_RTN,PS_S_81,16146252,,Fault,Normal,Other,FWN,True,PS,Medium,FaultS
+FM6_PT001.PV,5/13/2024 7:48:11 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7344,Qatar South,TWN,False,FM,Medium,PV
+PSS_81_P201C.FaultS,5/13/2024 7:48:05 AM,Wetwell Line 1 Pump Fault Status,600,UNACK_RTN,PS_S_81,16134251,,true,false,Other,FWN,True,PS,Medium,FaultS
+PSS_81_P201A.EstopS,5/13/2024 7:48:05 AM,Wetwell Line 1 Pump Emergency Stop Status,600,UNACK_RTN,PS_S_81,16134251,,EmergencyStop,Normal,Other,FWN,True,PS,Medium,EstopS
+PSS_81_P201C.EstopS,5/13/2024 7:48:05 AM,Wetwell Line 1 Pump Emergency Stop Status,600,UNACK_RTN,PS_S_81,16134251,,EmergencyStop,Normal,Other,FWN,True,PS,Medium,EstopS
+PSS_81_P201A.FaultS,5/13/2024 7:48:05 AM,Wetwell Line 1 Pump Fault Status,600,UNACK_RTN,PS_S_81,16134251,,true,false,Other,FWN,True,PS,Medium,FaultS
+PSS_81_P201B.EstopS,5/13/2024 7:48:05 AM,Wetwell Line 1 Pump Emergency Stop Status,600,UNACK_RTN,PS_S_81,16134251,,EmergencyStop,Normal,Other,FWN,True,PS,Medium,EstopS
+PSS_81.MCCPwrS,5/13/2024 7:48:05 AM,Pumping Station MCC Power Fault Status,200,UNACK_RTN,PS_S_81,4000,,true,false,Other,FWN,True,PS,Critical,MCCPwrS
+PSS_81_P201B.FaultS,5/13/2024 7:48:05 AM,Wetwell Line 1 Pump Fault Status,600,UNACK_RTN,PS_S_81,16134251,,true,false,Other,FWN,True,PS,Medium,FaultS
+PSS_81.MCCPwrS,5/13/2024 7:48:01 AM,Pumping Station MCC Power Fault Status,200,UNACK_ALM,PS_S_81,,,true,true,Other,FWN,True,PS,Critical,MCCPwrS
+PSS_81.InPwrS,5/13/2024 7:48:01 AM,Pumping Station Main Incomer Power Fault Status,200,UNACK_RTN,PS_S_81,36506503,,true,false,Other,FWN,True,PS,Critical,InPwrS
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:48:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PTPALGhazal_LSH01.Alm,5/13/2024 7:48:00 AM,SBR TANK-1 HI LEVEL SWITCH Alarm,600,UNACK_ALM,PTP_AlGhazal,,,Alarm,Alarm,Qatar North,FWN,False,PTP,Medium,Alm
+PTPALGhazal_LSH01.Alm,5/13/2024 7:47:30 AM,SBR TANK-1 HI LEVEL SWITCH Alarm,600,UNACK_RTN,PTP_AlGhazal,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+STWDW_488A_LIT308.HiAlm,5/13/2024 7:47:27 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+PSABM_P201A.FaultS,5/13/2024 7:47:20 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_RTN,PS_ABM,,,true,false,Other,TWN,False,PS,Medium,FaultS
+PSABM_P201B.FaultS,5/13/2024 7:47:18 AM,Wetwell Line 2 Pump 2 Fault Status,600,UNACK_RTN,PS_ABM,,,true,false,Other,TWN,False,PS,Medium,FaultS
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:47:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PSTSE05_SW04_P01.FaultS,5/13/2024 7:46:51 AM,Storm Water Tank 04 Pump 01 Fault Status,600,UNACK_RTN,PS_TSE05,,,true,false,Other,TWN,True,PS,Medium,FaultS
+PSTSE05_SW04_P01.FaultS,5/13/2024 7:46:43 AM,Storm Water Tank 04 Pump 01 Fault Status,600,UNACK_ALM,PS_TSE05,,,true,true,Other,TWN,True,PS,Medium,FaultS
+PS14_1_NRV01.FaultS,5/13/2024 7:46:31 AM,Wetwell 1 Line 1 Non Return Valve Fault Status,600,UNACK_RTN,PS_14_1,1360028,,Faulty,Healthy,Other,FWN,True,PS,Medium,FaultS
+FM6_PT001.PV,5/13/2024 7:45:56 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.752,Qatar South,TWN,False,FM,Medium,PV
+STWDW_921C_LIT352.HiAlm,5/13/2024 7:45:41 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDW_921C_LIT352.HiAlm,5/13/2024 7:45:29 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+FM6_PT001.PV,5/13/2024 7:45:28 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.736,Qatar South,TWN,False,FM,Medium,PV
+PS14_2A_LT01.HiAlm,5/13/2024 7:45:19 AM,Wetwell Level High Alarm,600,UNACK_RTN,PS_14_2A,1026074,,High,Normal,Other,FWN,True,PS,Medium,HiAlm
+FM6_PT001.PV,5/13/2024 7:45:17 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.752,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:45:03 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.736,Qatar South,TWN,False,FM,Medium,PV
+PS37A_LT07.PV1_FaultS,5/13/2024 7:45:02 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_RTN,PS_37,55939,,true,false,Other,FWN,True,PS,Medium,PV1_FaultS
+FM6_PT001.PV,5/13/2024 7:44:53 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.752,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:44:46 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.736,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:44:41 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.752,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:44:34 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.736,Qatar South,TWN,False,FM,Medium,PV
+PS37A_LT07.PV1_FaultS,5/13/2024 7:44:06 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_ALM,PS_37,,,true,true,Other,FWN,True,PS,Medium,PV1_FaultS
+PSTSE05_SW04_P01.FaultS,5/13/2024 7:44:03 AM,Storm Water Tank 04 Pump 01 Fault Status,600,UNACK_RTN,PS_TSE05,,,true,false,Other,TWN,True,PS,Medium,FaultS
+PSTSE05_SW04_P01.FaultS,5/13/2024 7:43:51 AM,Storm Water Tank 04 Pump 01 Fault Status,600,UNACK_ALM,PS_TSE05,,,true,true,Other,TWN,True,PS,Medium,FaultS
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:43:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+STWDW_488A_LIT308.LoAlm,5/13/2024 7:43:25 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_RTN,STW_DohaWest,,,Low,Normal,Qatar West,FWN,False,STW,Medium,LoAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:43:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+FM6_PT001.PV,5/13/2024 7:42:56 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.752,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:42:51 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.736,Qatar South,TWN,False,FM,Medium,PV
+PSW9_2.CurrentDayFlowTotExceed,5/13/2024 7:42:02 AM,Totalized Flow Exceeds Last month Avg. Flow,600,UNACK_ALM,PS_W9_2,,,true,true,Other,FWN,False,PS,Medium,CurrentDayFlowTotExceed
+STWDW_488A_LIT308.LoAlm,5/13/2024 7:41:35 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_ALM,STW_DohaWest,,,Low,Low,Qatar West,FWN,False,STW,Medium,LoAlm
+FM6_PT001.PV,5/13/2024 7:40:01 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.752,Qatar South,TWN,False,FM,Medium,PV
+PS37A_LT07.PV1_FaultS,5/13/2024 7:39:54 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_RTN,PS_37,358055,,true,false,Other,FWN,True,PS,Medium,PV1_FaultS
+FM6_PT001.PV,5/13/2024 7:39:52 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.736,Qatar South,TWN,False,FM,Medium,PV
+PSABM_LT201.HiAlm,5/13/2024 7:39:46 AM,Wetwell Level High Alarm,600,UNACK_ALM,PS_ABM,,,High,High,Other,TWN,False,PS,Medium,HiAlm
+PSABM_P201A.FaultS,5/13/2024 7:39:46 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_ALM,PS_ABM,,,true,true,Other,TWN,False,PS,Medium,FaultS
+PSABM_P201B.FaultS,5/13/2024 7:39:46 AM,Wetwell Line 2 Pump 2 Fault Status,600,UNACK_ALM,PS_ABM,,,true,true,Other,TWN,False,PS,Medium,FaultS
+PS14_2A_P01.FaultS,5/13/2024 7:39:17 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_RTN,PS_14_2A,8000,,true,false,Other,FWN,True,PS,Medium,FaultS
+PS14_2A_Fire.FireAlm,5/13/2024 7:39:09 AM,Fire Alarm Activated,200,UNACK_RTN,PS_14_2A,450028,,Alarm,Normal,Other,FWN,True,PS,Critical,FireAlm
+PS14_2A_P01.FaultS,5/13/2024 7:39:09 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_ALM,PS_14_2A,,,true,true,Other,FWN,True,PS,Medium,FaultS
+PS14_2A_P01.FaultS,5/13/2024 7:39:05 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_RTN,PS_14_2A,1186070,,true,false,Other,FWN,True,PS,Medium,FaultS
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:39:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:38:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+FM6_PT001.PV,5/13/2024 7:38:06 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7568,Qatar South,TWN,False,FM,Medium,PV
+STWDW_472H_AIT310.HiAlm,5/13/2024 7:38:03 AM,Aeration tank H - Dissolved oxygen Analyzer High Alarm,600,UNACK_RTN,STW_DohaWest,,,true,false,Qatar West,FWN,False,STW,Medium,HiAlm
+PS32A_H2S02.HiAlm,5/13/2024 7:37:46 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_32A,,,Alarm,Alarm,Other,FWN,True,PS,High,HiAlm
+STWDW_488A_LIT308.HiAlm,5/13/2024 7:37:45 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+FM6_PT001.PV,5/13/2024 7:37:40 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7408,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:37:32 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7568,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:37:08 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7408,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:37:00 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7568,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:36:52 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7408,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:36:42 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7568,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:36:28 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7408,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:35:45 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7584,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:35:36 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7424,Qatar South,TWN,False,FM,Medium,PV
+STWDW_488A_LIT308.HiAlm,5/13/2024 7:35:13 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:35:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+FM6_PT001.PV,5/13/2024 7:34:57 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7584,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:34:53 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7424,Qatar South,TWN,False,FM,Medium,PV
+PS34T_P05.FaultS,5/13/2024 7:34:38 AM,Wetwell 2 Line 2 Pump Fault Status,600,UNACK_RTN,PS_34T,31972,,true,false,Other,FWN,False,PS,Medium,FaultS
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:34:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PS34T_P05.FaultS,5/13/2024 7:34:06 AM,Wetwell 2 Line 2 Pump Fault Status,600,UNACK_ALM,PS_34T,,,true,true,Other,FWN,False,PS,Medium,FaultS
+PS37A_LT07.PV1_FaultS,5/13/2024 7:33:56 AM,PS37A Surge Vessel Differential Level Transmitter Fault,600,UNACK_ALM,PS_37,,,true,true,Other,FWN,True,PS,Medium,PV1_FaultS
+VCQPMC_FMQPMC_RTU01.CommFailS,5/13/2024 7:33:04 AM,Communication Failure Status,200,UNACK_RTN,VC_QPMC,,,Failed,Healthy,Qatar West,TWN,False,VC,Critical,CommFailS
+FM6_PT001.PV,5/13/2024 7:33:02 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7744,Qatar South,TWN,False,FM,Medium,PV
+PTPBarwaVillage_SCR_LSH.Alm,5/13/2024 7:33:00 AM,Screening Unit High Level Switch Alarm,600,UNACK_RTN,PTP_BarwaVillage,,,Alarm,Normal,Qatar South,FWN,False,PTP,Medium,Alm
+FM6_PT001.PV,5/13/2024 7:32:57 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7424,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:32:49 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7744,Qatar South,TWN,False,FM,Medium,PV
+PS30_H2S02.HiAlm,5/13/2024 7:32:44 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,4000,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:32:40 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+FM6_PT001.PV,5/13/2024 7:32:40 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7264,Qatar South,TWN,False,FM,Medium,PV
+PS30_H2S02.HiAlm,5/13/2024 7:32:34 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,8003,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:32:26 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+VCQPMC_FMQPMC_RTU01.GPRSSignal,5/13/2024 7:32:21 AM,RTU Signal Strength is in Lo Alarm,400,UNACK_RTN,VC_QPMC,,,5.0,55,Qatar West,TWN,False,VC,High,GPRSSignal
+PS30_H2S02.HiAlm,5/13/2024 7:32:18 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,21987,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_P05.VibAlm,5/13/2024 7:31:56 AM,Wetwell 2 Line 2 Pump Vibration Alarm,600,UNACK_RTN,PS_30,3969,,Alarm,Normal,Other,FWN,False,PS,Medium,VibAlm
+PS30_H2S02.HiAlm,5/13/2024 7:31:56 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+FM6_PT001.PV,5/13/2024 7:31:56 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7584,Qatar South,TWN,False,FM,Medium,PV
+STWDW_472H_AIT304.LoAlm,5/13/2024 7:31:55 AM,Aeration tank H - Dissolved oxygen Analyzer Low Alarm,600,UNACK_ALM,STW_DohaWest,,,true,true,Qatar West,FWN,False,STW,Medium,LoAlm
+PS30_P05.VibAlm,5/13/2024 7:31:52 AM,Wetwell 2 Line 2 Pump Vibration Alarm,600,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,Medium,VibAlm
+FM6_PT001.PV,5/13/2024 7:31:51 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7424,Qatar South,TWN,False,FM,Medium,PV
+PS14_2A_Fire.FireAlm,5/13/2024 7:31:39 AM,Fire Alarm Activated,200,UNACK_ALM,PS_14_2A,,,Alarm,Alarm,Other,FWN,True,PS,Critical,FireAlm
+PS30_H2S02.HiAlm,5/13/2024 7:31:38 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,3985,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:31:34 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:31:26 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,1922,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:31:24 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:31:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:31:00 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,4005,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:30:56 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:30:44 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,12017,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:30:32 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:30:16 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,1984,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:30:14 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+STWDW_581_AIT302.HiAlm,5/13/2024 7:30:13 AM,Inlet Water of Balancing Tank Unit Dissolved Oxygen Analyzer High Alarm,600,UNACK_RTN,STW_DohaWest,,,true,false,Qatar West,FWN,False,STW,Medium,HiAlm
+PTPBC_I_732AFISL001.Alm,5/13/2024 7:30:01 AM,OCU Scrubber A Flow Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:30:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+STWDW_488A_LIT308.LoAlm,5/13/2024 7:29:47 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_RTN,STW_DohaWest,,,Low,Normal,Qatar West,FWN,False,STW,Medium,LoAlm
+PS30_H2S02.HiAlm,5/13/2024 7:29:42 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,5937,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:29:36 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PTPBC_I_732AFISL001.Alm,5/13/2024 7:29:31 AM,OCU Scrubber A Flow Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PSNDIA_T_LSH01.Alm,5/13/2024 7:29:18 AM,Wetwell High Level Switch Alarm,600,UNACK_ALM,PS_NDIA_T,,,Alarm,Alarm,Other,SGWUP,False,PS,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:29:14 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,12032,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+VC611_PT002.PV,5/13/2024 7:29:06 AM,Chamber Pressure Low,600,UNACK_ALM,VC_611,,,3.0,2.945,Qatar West,TWN,False,VC,Medium,PV
+STWDW_488A_LIT308.LoAlm,5/13/2024 7:29:05 AM,Activated Sludge Recirculation Tank A Level Low Alarm,600,UNACK_ALM,STW_DohaWest,,,Low,Low,Qatar West,FWN,False,STW,Medium,LoAlm
+PS30_H2S02.HiAlm,5/13/2024 7:29:02 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:28:56 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,19673,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+STWDN_LS6502.Alm,5/13/2024 7:28:47 AM,Storm Water Float Level Switch Low Low Level Alarm,600,UNACK_RTN,STW_DohaNorth,,,Alarm,Normal,Qatar North,FWN,False,STW,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:28:36 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:28:30 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,27986,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+STWDW_472E_AIT304.LoAlm,5/13/2024 7:28:25 AM,Aeration tank E - Dissolved oxygen Analyzer Low Alarm,600,UNACK_RTN,STW_DohaWest,,,true,false,Qatar West,FWN,False,STW,Medium,LoAlm
+STWDN_LS6502.Alm,5/13/2024 7:28:18 AM,Storm Water Float Level Switch Low Low Level Alarm,600,UNACK_ALM,STW_DohaNorth,,,Alarm,Alarm,Qatar North,FWN,False,STW,Medium,Alm
+PS14_2A_LT01.HiAlm,5/13/2024 7:28:13 AM,Wetwell Level High Alarm,600,UNACK_ALM,PS_14_2A,,,High,High,Other,FWN,True,PS,Medium,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:28:02 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+FM6_PT001.PV,5/13/2024 7:28:02 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7568,Qatar South,TWN,False,FM,Medium,PV
+FM6_PT001.PV,5/13/2024 7:27:54 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7392,Qatar South,TWN,False,FM,Medium,PV
+PS30_H2S02.HiAlm,5/13/2024 7:27:54 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,56020,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PTPAlKhuraib_LSL13.Alm,5/13/2024 7:27:54 AM,SBR-3.02 Tank Low Level Switch Alarm,600,UNACK_RTN,PTP_AlKhuraib,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+STWDN_LS6503.Alm,5/13/2024 7:27:17 AM,Storm Water Pumpsultrasonic Level Tx & Float Level Switchprimary Start Level Alarm,600,UNACK_RTN,STW_DohaNorth,,,Alarm,Normal,Qatar North,FWN,False,STW,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:26:58 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+FMFSH_PT001.PV,5/13/2024 7:26:58 AM,Chamber Pressure Low,600,UNACK_ALM,FM_FSH,,,2.0,1.9,Qatar West,TWN,False,FM,Medium,PV
+PS30_H2S02.HiAlm,5/13/2024 7:26:52 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,18001,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+FM6_PT001.PV,5/13/2024 7:26:47 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7712,Qatar South,TWN,False,FM,Medium,PV
+PTPAlShahaniyah_WT_LSH07.Alm,5/13/2024 7:26:42 AM,Wash Tank High Level Switch Alarm,600,UNACK_RTN,PTP_ALShahaniyah,,,Alarm,Normal,Qatar North,FWN,False,PTP,Medium,Alm
+FM6_PT001.PV,5/13/2024 7:26:41 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7392,Qatar South,TWN,False,FM,Medium,PV
+PS30_H2S02.HiAlm,5/13/2024 7:26:34 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:26:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:26:28 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,4000,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+STWIA2A_2_LSL216.Alm,5/13/2024 7:26:27 AM,WPS Wet Well Level Switch Low Alarm,600,UNACK_RTN,STW_IndustrialArea2A,,,Alarm,Normal,Qatar South,FWN,True,STW,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:26:24 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:26:16 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,17969,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:26:01 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:25:58 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:25:50 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,10000,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+STWDW_921C_LIT352.HiHiAlm,5/13/2024 7:25:43 AM,921 GBT Site Drainage tank level High High Alarm,400,UNACK_RTN,STW_DohaWest,,,High High,Normal,Qatar West,FWN,False,STW,High,HiHiAlm
+STWDW_921C_LIT352.HiAlm,5/13/2024 7:25:43 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:25:40 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:25:32 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,2031,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:25:30 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+STWDW_921C_LIT352.HiAlm,5/13/2024 7:25:29 AM,921 GBT Site Drainage tank level High Alarm,600,UNACK_ALM,STW_DohaWest,,,High,High,Qatar West,FWN,False,STW,Medium,HiAlm
+STWDW_921C_LIT352.HiHiAlm,5/13/2024 7:25:29 AM,921 GBT Site Drainage tank level High High Alarm,400,UNACK_ALM,STW_DohaWest,,,High High,High High,Qatar West,FWN,False,STW,High,HiHiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:25:26 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,8031,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:25:18 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:58 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,4000,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:54 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:50 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,14047,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:36 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:32 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,9986,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:22 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:08 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,7957,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:24:00 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+STWIA2A_2_LSL216.Alm,5/13/2024 7:23:57 AM,WPS Wet Well Level Switch Low Alarm,600,UNACK_ALM,STW_IndustrialArea2A,,,Alarm,Alarm,Qatar South,FWN,True,STW,Medium,Alm
+VCC1_135_FMC1_136_RTU01.PanelTempHiAlm,5/13/2024 7:23:53 AM,RTU Panel Temperature High Status,600,UNACK_ALM,VC_C1_135,,,High,High,Qatar South,TWN,False,VC,Medium,PanelTempHiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:23:52 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,8001,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS14_1_NRV01.FaultS,5/13/2024 7:23:51 AM,Wetwell 1 Line 1 Non Return Valve Fault Status,600,UNACK_ALM,PS_14_1,,,Faulty,Faulty,Other,FWN,True,PS,Medium,FaultS
+PS30_H2S02.HiAlm,5/13/2024 7:23:44 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:23:38 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,2016,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:23:36 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:23:30 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,7997,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:23:22 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+STWDW_472E_AIT304.LoAlm,5/13/2024 7:23:15 AM,Aeration tank E - Dissolved oxygen Analyzer Low Alarm,600,UNACK_ALM,STW_DohaWest,,,true,true,Qatar West,FWN,False,STW,Medium,LoAlm
+PS30_H2S02.HiAlm,5/13/2024 7:23:08 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,2000,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:23:06 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:22:58 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,17991,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:22:40 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:22:36 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,11814,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:22:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_RTN,PTP_BarwaCity,,,true,false,Qatar South,FWN,True,PTP,Medium,Alm
+STWIA2A_2_LSH217.Alm,5/13/2024 7:22:27 AM,WPS Wet Well Level Switch High Alarm,600,UNACK_RTN,STW_IndustrialArea2A,,,Alarm,Normal,Qatar South,FWN,True,STW,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:22:24 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:22:20 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,22001,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+STWDN_LS6503.Alm,5/13/2024 7:22:18 AM,Storm Water Pumpsultrasonic Level Tx & Float Level Switchprimary Start Level Alarm,600,UNACK_ALM,STW_DohaNorth,,,Alarm,Alarm,Qatar North,FWN,False,STW,Medium,Alm
+PS30_H2S02.HiAlm,5/13/2024 7:21:58 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:21:48 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,6032,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+FM6_PT001.PV,5/13/2024 7:21:44 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7616,Qatar South,TWN,False,FM,Medium,PV
+PS30_H2S02.HiAlm,5/13/2024 7:21:42 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:21:38 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,2016,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+FM6_PT001.PV,5/13/2024 7:21:38 AM,Chamber Pressure Low,600,UNACK_ALM,FM_6,,,1.75,1.7296,Qatar South,TWN,False,FM,Medium,PV
+PS30_H2S02.HiAlm,5/13/2024 7:21:36 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PTPBC_I_475BFISL001A.Alm,5/13/2024 7:21:31 AM,Cyclor B Shovel Air Low Flow Indicator Switch Alarm,600,UNACK_ALM,PTP_BarwaCity,,,true,true,Qatar South,FWN,True,PTP,Medium,Alm
+PTPBarwaVillage_SCR_LSH.Alm,5/13/2024 7:21:30 AM,Screening Unit High Level Switch Alarm,600,UNACK_ALM,PTP_BarwaVillage,,,Alarm,Alarm,Qatar South,FWN,False,PTP,Medium,Alm
+STWIA2A_2_LSH217.Alm,5/13/2024 7:21:27 AM,WPS Wet Well Level Switch High Alarm,600,UNACK_ALM,STW_IndustrialArea2A,,,Alarm,Alarm,Qatar South,FWN,True,STW,Medium,Alm
+VCQPMC_FMQPMC_RTU01.GPRSSignal,5/13/2024 7:21:22 AM,RTU Signal Strength is in Lo Alarm,400,UNACK_ALM,VC_QPMC,,,5.0,0,Qatar West,TWN,False,VC,High,GPRSSignal
+PS30_H2S02.HiAlm,5/13/2024 7:21:20 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,10032,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:21:10 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:21:04 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,10297,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+STWDW_488A_LIT308.HiAlm,5/13/2024 7:21:01 AM,Activated Sludge Recirculation Tank A Level High Alarm,600,UNACK_RTN,STW_DohaWest,,,High,Normal,Qatar West,FWN,False,STW,Medium,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:20:54 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:20:48 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,49986,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:19:58 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:19:44 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,5985,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:19:38 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS14_2A_P02.FaultS,5/13/2024 7:19:35 AM,Wetwell Line 2 Pump 2 Fault Status,600,UNACK_ALM,PS_14_2A,,,true,true,Other,FWN,True,PS,Medium,FaultS
+PS14_2A_P01.FaultS,5/13/2024 7:19:19 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_ALM,PS_14_2A,,,true,true,Other,FWN,True,PS,Medium,FaultS
+PS32A_H2S02.HiAlm,5/13/2024 7:19:14 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_32A,3114056,,Alarm,Normal,Other,FWN,True,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:19:12 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,12016,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS14_1_NRV01.FaultS,5/13/2024 7:19:05 AM,Wetwell 1 Line 1 Non Return Valve Fault Status,600,UNACK_RTN,PS_14_1,1230475,,Faulty,Healthy,Other,FWN,True,PS,Medium,FaultS
+PS14_2A_P02.FaultS,5/13/2024 7:19:01 AM,Wetwell Line 2 Pump 2 Fault Status,600,UNACK_RTN,PS_14_2A,1458049,,true,false,Other,FWN,True,PS,Medium,FaultS
+PS14_2A_Deo01.FaultS,5/13/2024 7:19:01 AM,Deodorizer Fault Status,600,UNACK_RTN,PS_14_2A,32000,,Fault,Normal,Other,FWN,True,PS,Medium,FaultS
+PS14_2A_P01.FaultS,5/13/2024 7:19:01 AM,Wetwell Line 1 Pump 1 Fault Status,600,UNACK_RTN,PS_14_2A,1486050,,true,false,Other,FWN,True,PS,Medium,FaultS
+PS30_H2S02.HiAlm,5/13/2024 7:19:00 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:18:54 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,19987,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+PS30_H2S02.HiAlm,5/13/2024 7:18:34 AM,H2S Transmitter 02 High Alarm,400,UNACK_ALM,PS_30,,,Alarm,Alarm,Other,FWN,False,PS,High,HiAlm
+FMFSH_PT001.PV,5/13/2024 7:18:31 AM,Chamber Pressure Low,600,UNACK_RTN,FM_FSH,,,2.0,2.0,Qatar West,TWN,False,FM,Medium,PV
+PS14_2A_Deo01.FaultS,5/13/2024 7:18:29 AM,Deodorizer Fault Status,600,UNACK_ALM,PS_14_2A,,,Fault,Fault,Other,FWN,True,PS,Medium,FaultS
+PS30_H2S02.HiAlm,5/13/2024 7:18:26 AM,H2S Transmitter 02 High Alarm,400,UNACK_RTN,PS_30,55993,,Alarm,Normal,Other,FWN,False,PS,High,HiAlm
+FM6_PT001.PV,5/13/2024 7:18:14 AM,Chamber Pressure Low,600,UNACK_RTN,FM_6,,,1.75,1.7632,Qatar South,TWN,False,FM,Medium,PV

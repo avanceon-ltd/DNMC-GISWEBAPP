@@ -1,0 +1,209 @@
+
+11 Jun 2024 07:38:38,418 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:39:08,299 [5] INFO  
+http://localhost/WebAppForm/Asset.aspx?LocationId=&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset.aspx localhost
+
+11 Jun 2024 07:39:08,307 [7] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:39:08,342 [8] INFO  
+http://localhost/WebAppForm/Asset?LocationId=&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset localhost
+
+11 Jun 2024 07:39:16,379 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:41:33,438 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:42:46,283 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:42:49,210 [5] ERROR 
+IP: ::1
+URL: http://localhost/WebAppForm/CreateBAUFRWO
+Error Occured
+Message: Cannot create an object of type 'System.Int32' from its string representation '130px' for the 'MaxLength' property.
+Inner Exception: System.Web.HttpParseException (0x80004005): Cannot create an object of type 'System.Int32' from its string representation '130px' for the 'MaxLength' property. ---> System.Web.HttpException (0x80004005): Cannot create an object of type 'System.Int32' from its string representation '130px' for the 'MaxLength' property.
+   at System.Web.UI.PropertyConverter.ObjectFromString(Type objType, MemberInfo propertyInfo, String value)
+   at System.Web.UI.ControlBuilder.AddProperty(String filter, String name, String value, Boolean mainDirectiveMode)
+   at System.Web.UI.ControlBuilder.PreprocessAttribute(String filter, String attribname, String attribvalue, Boolean mainDirectiveMode, Int32 line, Int32 column)
+   at System.Web.UI.ControlBuilder.PreprocessAttributes(ParsedAttributeCollection attribs)
+   at System.Web.UI.ControlBuilder.Init(TemplateParser parser, ControlBuilder parentBuilder, Type type, String tagName, String id, IDictionary attribs)
+   at System.Web.UI.ControlBuilder.CreateBuilderFromType(TemplateParser parser, ControlBuilder parentBuilder, Type type, String tagName, String id, IDictionary attribs, Int32 line, String sourceFileName)
+   at System.Web.UI.ControlBuilder.CreateChildBuilder(String filter, String tagName, IDictionary attribs, TemplateParser parser, ControlBuilder parentBuilder, String id, Int32 line, VirtualPath virtualPath, Type& childType, Boolean defaultProperty)
+   at System.Web.UI.TemplateParser.ProcessBeginTag(Match match, String inputText)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+11 Jun 2024 07:43:25,741 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:44:50,473 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:44:57,696 [6] INFO  
+http://localhost/WebAppForm/Asset?LocationId=&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset localhost
+
+11 Jun 2024 07:44:57,715 [7] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:45:03,940 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:45:05,967 [6] INFO  
+http://localhost/WebAppForm/Location.aspx?AssetNum=10261277 /WebAppForm/Location.aspx localhost
+
+11 Jun 2024 07:45:05,973 [7] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:45:06,000 [8] INFO  
+http://localhost/WebAppForm/Location?AssetNum=10261277 /WebAppForm/Location localhost
+
+11 Jun 2024 07:45:20,232 [13] INFO  
+http://localhost/WebAppForm/Location?AssetNum=10261277 /WebAppForm/Location localhost
+
+11 Jun 2024 07:45:21,725 [6] INFO  
+http://localhost/WebAppForm/Location?AssetNum=10261277 /WebAppForm/Location localhost
+
+11 Jun 2024 07:45:26,998 [6] INFO  
+http://localhost/WebAppForm/Asset?LocationId=&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset localhost
+
+11 Jun 2024 07:45:27,007 [7] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:45:40,703 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:51:25,939 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:51:32,963 [5] INFO  
+http://localhost/WebAppForm/Asset?LocationId=&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset localhost
+
+11 Jun 2024 07:51:32,970 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:51:36,651 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:51:41,999 [5] INFO  
+http://localhost/WebAppForm/Asset.aspx?LocationId=QATAR&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset.aspx localhost
+
+11 Jun 2024 07:51:42,007 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:51:42,034 [7] INFO  
+http://localhost/WebAppForm/Asset?LocationId=QATAR&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset localhost
+
+11 Jun 2024 07:56:06,001 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:56:18,207 [5] INFO  
+http://localhost/WebAppForm/Asset?LocationId=&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset localhost
+
+11 Jun 2024 07:56:18,218 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:56:22,962 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:56:28,503 [7] INFO  
+http://localhost/WebAppForm/Location?AssetNum=10261277 /WebAppForm/Location localhost
+
+11 Jun 2024 07:56:28,509 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:57:08,897 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 07:57:16,083 [6] INFO  
+http://localhost/WebAppForm/Asset?LocationId=&IsLocation=0&IsFrameWorkZone=1 /WebAppForm/Asset localhost
+
+11 Jun 2024 07:57:16,098 [7] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 09:07:03,102 [8] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 09:35:37,306 [5] INFO  
+http://localhost/WebAppForm/DispatchWO /WebAppForm/DispatchWO localhost
+
+11 Jun 2024 09:35:46,265 [5] INFO  
+http://localhost/WebAppForm/DispatchWO /WebAppForm/DispatchWO localhost
+
+11 Jun 2024 09:39:39,585 [6] INFO  
+http://localhost/WebAppForm/DispatchWO /WebAppForm/DispatchWO localhost
+
+11 Jun 2024 09:39:44,484 [6] ERROR 
+IP: ::1
+URL: http://localhost/WebAppForm/DispatchWO
+Error Occured
+Message: The client disconnected.
+Inner Exception: System.Web.UI.ViewStateException: Invalid viewstate. 
+	Client IP: ::1
+	Port: 53674
+	Referer: http://localhost/WebAppForm/DispatchWO
+	Path: /WebAppForm/DispatchWO
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+	ViewState: xJkAwis2F129fUEbIJQRSzWjlN4HiOPEMnA8ovY5NpCYMqqPSIniumfanAbC+QqFDCqi0pQFD7A+7U86Q+jn+8jabsvWt404w4KHcab5lMtujB02zI0naCy8Tzg3Yfd0OAc47BoQfm/PqEXZo1AAZgwXCtJplO3aqeLlytyW4r9K0P2kzGG3JjxjWV1W82TGyltVf2wr14zLDZXjLfA4z0fj8HqhJ8gjUExpENemkoSn6uhXv7CifVwXvFKDQo+o3Jzx/BllabTu3D23K7H6fqACoI5thoEbRCl3vrH3DDMr4E5+ILTuNFFkGtZlwyivKVCFTr3BHmLwVXd2/UR0NN1X22Fdxe3hc8ZsFEmLzaMYO5TyqxQ6rKKyFB4Os7GOA3LvieLkOGomvxNupD8S9naPz1aTBcXdfAMBmlhBXqrPkys4dKeuNuupwJk+axIg/5uP5i6iEK/hChCNI/c8iRH7hJ5Qs7AhqewQDDLtC5UTgHmbEyABRAbbztjUp1z2MvDmwvbHzg8gC+MLXlPazeCV6DO9JsJw/JE+XHbc7ePy4ig9qAE0lrl2jTNa0xY3fZxY+N3tapnn9dzqyBLXZ7c6HDC47kXYtKhGn6hv+/RE60ScnnMWasK/bSvp3octRmlig9g2Iml3pomfodscP3jpu0c0EqZ3u1645OnvfBg=
+
+11 Jun 2024 09:40:42,823 [5] INFO  
+http://localhost/WebAppForm/FIFAKPI.aspx /WebAppForm/FIFAKPI.aspx localhost
+
+11 Jun 2024 09:40:47,402 [6] INFO  
+http://localhost/WebAppForm/FIFAKPI /WebAppForm/FIFAKPI localhost
+
+11 Jun 2024 09:41:17,675 [6] INFO  
+http://localhost/WebAppForm/FIFAKPI /WebAppForm/FIFAKPI localhost
+
+11 Jun 2024 09:41:47,728 [5] INFO  
+http://localhost/WebAppForm/FIFAKPI /WebAppForm/FIFAKPI localhost
+
+11 Jun 2024 09:42:54,165 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 09:44:16,000 [6] INFO  
+http://localhost/WebAppForm /WebAppForm localhost
+
+11 Jun 2024 09:44:37,009 [7] INFO  
+http://localhost/WebAppForm/DispatchWO /WebAppForm/DispatchWO localhost
+
+11 Jun 2024 09:46:32,153 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 09:58:39,524 [5] INFO  
+http://localhost/WebAppForm/FIFAKPI /WebAppForm/FIFAKPI localhost
+
+11 Jun 2024 09:59:16,026 [5] INFO  
+http://localhost/WebAppForm/FIFAKPI /WebAppForm/FIFAKPI localhost
+
+11 Jun 2024 10:04:11,709 [5] INFO  
+http://localhost/WebAppForm/FIFAKPI /WebAppForm/FIFAKPI localhost
+
+11 Jun 2024 10:15:12,702 [5] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 10:15:12,750 [7] INFO  
+http://localhost/WebAppForm /WebAppForm localhost
+
+11 Jun 2024 10:16:10,842 [5] INFO  
+http://localhost/WebAppForm/AssetFailure.aspx /WebAppForm/AssetFailure.aspx localhost
+
+11 Jun 2024 10:16:14,971 [7] INFO  
+http://localhost/WebAppForm/AssetFailure /WebAppForm/AssetFailure localhost
+
+11 Jun 2024 10:21:56,826 [6] INFO  
+http://localhost/WebAppForm/CreateBAUFRWO /WebAppForm/CreateBAUFRWO localhost
+
+11 Jun 2024 10:22:29,336 [5] INFO  
+http://localhost/WebAppForm/AssetFailure /WebAppForm/AssetFailure localhost
+
+11 Jun 2024 10:22:55,513 [5] INFO  
+http://localhost/WebAppForm/AssetFailureList.aspx /WebAppForm/AssetFailureList.aspx localhost
+
+11 Jun 2024 10:22:56,981 [7] INFO  
+http://localhost/WebAppForm/AssetFailureList /WebAppForm/AssetFailureList localhost

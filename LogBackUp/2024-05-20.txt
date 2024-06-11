@@ -1,0 +1,55 @@
+
+20 May 2024 08:52:51,251 [6] INFO  
+http://localhost/WebAppForm/SCADAAlarms.aspx /WebAppForm/SCADAAlarms.aspx localhost
+
+20 May 2024 08:52:53,402 [6] ERROR 
+IP: ::1
+URL: http://localhost/WebAppForm/SCADAAlarms.aspx
+Error Occured
+Message: The server tag is not well formed.
+Inner Exception: System.Web.HttpException (0x80004005): The server tag is not well formed.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+20 May 2024 09:36:16,931 [6] INFO  
+http://localhost/WebAppForm/SCADAAlarms.aspx /WebAppForm/SCADAAlarms.aspx localhost
+
+20 May 2024 09:45:00,333 [25] INFO  
+http://localhost/WebAppForm /WebAppForm localhost
+
+20 May 2024 09:45:09,756 [33] INFO  
+http://localhost/WebAppForm/SCADAAlarms.aspx /WebAppForm/SCADAAlarms.aspx localhost
+
+20 May 2024 09:45:09,775 [11] INFO  
+http://localhost/WebAppForm/SCADAAlarms /WebAppForm/SCADAAlarms localhost
+
+20 May 2024 09:45:56,397 [21] INFO  
+http://localhost/WebAppForm/SCADAAlarms /WebAppForm/SCADAAlarms localhost
+
+20 May 2024 09:46:18,404 [25] INFO  
+http://localhost/WebAppForm/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZE34vzvDXQaqQG1Jkx1tFPzgEHuKs6EzzYZ2_jDBGyaD4iELXTxpfyvTFRKQvOtodw2&t=637029511449518396 /WebAppForm/WebResource.axd localhost
+
+20 May 2024 09:46:18,419 [26] INFO  
+http://localhost/WebAppForm/ScriptResource.axd?d=nv7asgRUU0tRmHNR2D6t1LOakai221UOcU5q2CABBrNeoRMqFUsgDYacMrTlZc_BbJXhv-sX3rjqHcGmqJP73pEmHX_yCXoXx0T8ojl61mUaE8Hu7ylF9HMspXYfb8BS7aMD8idQ1xw7U2ckUIBmLQ2&t=33e90bc4 /WebAppForm/ScriptResource.axd localhost
+
+20 May 2024 09:46:18,422 [9] INFO  
+http://localhost/WebAppForm/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQn58_xqlutVZM5BP52MoUNS6WwVulAg96APSECqP3ilspaSVRymax4HQbPB6O_o0VoxEVg8-EFTgIgmLovOUUiK6HRUPQxeL4_lQ3W0bnANhNZIVRaN9ZSHqKWarlitV0-iy4fL-u7zJuYJvsSgLlWk1&t=10c151ff /WebAppForm/ScriptResource.axd localhost
+
+20 May 2024 09:46:18,422 [11] INFO  
+http://localhost/WebAppForm/ScriptResource.axd?d=JnUc-DEDOM5KzzVKtsL1tWlXKBsMxcVjV783_uQ2RFtgRfDJksaFcXw3bsxfLpIeAt4kO5TBcFK2eex8WJZy7yBXgNJmFUkdXwnrs2ZLPoaLaXN7QeyjQUez9CuE0Idu4ES_JPvtRTPh00D89zqn1bxOqM3PGdinFZ3XMdxwWu53WO6zjX2goXkXaLjutw_60&t=10c151ff /WebAppForm/ScriptResource.axd localhost
+
+20 May 2024 10:09:00,652 [10] INFO  
+http://localhost/WebAppForm/SCADAAlarms.aspx /WebAppForm/SCADAAlarms.aspx localhost
+
+20 May 2024 15:15:18,194 [7] INFO  
+http://localhost/WebAppForm/SCADAAlarms.aspx /WebAppForm/SCADAAlarms.aspx localhost
+
+20 May 2024 15:15:18,457 [7] INFO  
+http://localhost/WebAppForm/SCADAAlarms /WebAppForm/SCADAAlarms localhost
+
+20 May 2024 15:21:26,907 [15] INFO  
+http://localhost/WebAppForm/SCADAAlarms /WebAppForm/SCADAAlarms localhost
+
+20 May 2024 15:33:07,502 [85] INFO  
+http://localhost/WebAppForm/SCADAAlarms /WebAppForm/SCADAAlarms localhost

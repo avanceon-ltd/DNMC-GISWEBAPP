@@ -1,0 +1,1019 @@
+
+09 May 2023 14:47:18,439 [5] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:47:28,738 [10] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:47:35,886 [5] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:47:36,675 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:47:57,731 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492263
+@NAME: Azzizi Sophiane
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Customer Service Director 
+@PERSONAL: 0
+
+09 May 2023 14:47:57,753 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:547,State:0,Class:16
+
+09 May 2023 14:48:18,782 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:48:39,801 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492263
+@NAME: Azzizi Sophiane
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Customer Service Director 
+@PERSONAL: 0
+
+09 May 2023 14:48:39,823 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:547,State:0,Class:16
+
+09 May 2023 14:49:00,849 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:49:21,869 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970700736
+@NAME: Vijayakumar Ramkumar
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Dy. Customer Service Manager/ Rainy Season ECC Coordinator
+@PERSONAL: 0
+
+09 May 2023 14:49:21,891 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:49:42,919 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:50:03,936 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970700736
+@NAME: Vijayakumar Ramkumar
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Dy. Customer Service Manager/ Rainy Season ECC Coordinator
+@PERSONAL: 0
+
+09 May 2023 14:50:03,960 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:50:24,998 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:50:46,014 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970008294
+@NAME: Mahesan Chandrasekaran
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: TW Networks Manager
+@PERSONAL: 0
+
+09 May 2023 14:50:46,036 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:51:07,063 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:51:28,082 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970005193
+@NAME: Vijayakumar Gunasekaran
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: SGW Networks Manager/ Rainy Season ECC Coordinator
+@PERSONAL: 0
+
+09 May 2023 14:51:28,104 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:51:49,131 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:52:10,148 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492225
+@NAME: Mohan Raj Kaliyamurthy
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: PS Manager
+@PERSONAL: 0
+
+09 May 2023 14:52:10,172 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:52:46,703 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:53:13,953 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492225
+@NAME: Mohan Raj Kaliyamurthy
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: PS Manager
+@PERSONAL: 0
+
+09 May 2023 14:53:13,977 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:53:35,003 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:53:56,020 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492225
+@NAME: Mohan Raj Kaliyamurthy
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: PS Manager
+@PERSONAL: 0
+
+09 May 2023 14:53:56,042 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:54:17,082 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:54:38,101 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 933619311
+@NAME: Mohamed Arsath
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Dewatering Inspector
+@PERSONAL: 0
+
+09 May 2023 14:54:38,126 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:547,State:0,Class:16
+
+09 May 2023 14:54:59,164 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:55:20,183 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 931128227
+@NAME: Jinoj Babu
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Network Engineer/Rainy Season Zone 4 (Al Khor, Al Thakira & Al Shamal) Coordinator
+@PERSONAL: 0
+
+09 May 2023 14:55:20,205 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:55:39,380 [10] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:55:41,234 [5] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:55:46,539 [20] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:56:02,251 [5] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970700735
+@NAME: Aswin Ramesh
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Network Engineer
+@PERSONAL: 0
+
+09 May 2023 14:56:02,277 [5] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:221d0cfd-6d30-40cc-b1af-445493be8ef1
+Error Number:547,State:0,Class:16
+
+09 May 2023 14:56:09,605 [10] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:56:32,399 [9] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:56:34,771 [9] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:56:39,586 [10] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 14:56:40,408 [9] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:57:01,466 [9] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492263
+@NAME: Azzizi Sophiane
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Customer Service Director 
+@PERSONAL: 0
+
+09 May 2023 14:57:01,492 [9] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:3d932237-8b63-431e-90f8-a9c36a4bb8f6
+Error Number:547,State:0,Class:16
+
+09 May 2023 14:57:22,521 [9] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:57:43,537 [9] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492263
+@NAME: Azzizi Sophiane
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Customer Service Director 
+@PERSONAL: 0
+
+09 May 2023 14:57:43,560 [9] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_TELEPHONE_DETAILS_TELEPHONE_CATEGORY". The conflict occurred in database "TELEPHONE_DIRECTORY", table "dbo.TELEPHONE_CATEGORY", column 'ID'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:3d932237-8b63-431e-90f8-a9c36a4bb8f6
+Error Number:547,State:0,Class:16
+
+09 May 2023 14:58:04,589 [9] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:58:25,607 [9] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970700736
+@NAME: Vijayakumar Ramkumar
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Dy. Customer Service Manager/ Rainy Season ECC Coordinator
+@PERSONAL: 0
+
+09 May 2023 14:58:25,629 [9] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:3d932237-8b63-431e-90f8-a9c36a4bb8f6
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:58:46,657 [9] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:59:07,673 [9] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970700736
+@NAME: Vijayakumar Ramkumar
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: Dy. Customer Service Manager/ Rainy Season ECC Coordinator
+@PERSONAL: 0
+
+09 May 2023 14:59:07,698 [9] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:3d932237-8b63-431e-90f8-a9c36a4bb8f6
+Error Number:8152,State:13,Class:16
+
+09 May 2023 14:59:28,726 [9] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 14:59:49,746 [9] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970008294
+@NAME: Mahesan Chandrasekaran
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: TW Networks Manager
+@PERSONAL: 0
+
+09 May 2023 14:59:49,767 [9] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:3d932237-8b63-431e-90f8-a9c36a4bb8f6
+Error Number:8152,State:13,Class:16
+
+09 May 2023 15:00:14,197 [9] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 15:00:20,297 [14] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 15:00:27,504 [10] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+09 May 2023 15:01:01,268 [9] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 970005193
+@NAME: Vijayakumar Gunasekaran
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: SGW Networks Manager/ Rainy Season ECC Coordinator
+@PERSONAL: 0
+
+09 May 2023 15:01:57,943 [9] ERROR 
+ICCSList Exception
+Service 
+Message: ICCSList
+Inner Exception: String or binary data would be truncated.
+The statement has been terminated.
+System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WebAppForm.ICCSList.SaveData(String region, DataRow dataRow, String categoryID, Int32 count) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 334
+ClientConnectionId:0fd3cb0d-7244-4cc5-be17-40cb10954057
+Error Number:8152,State:13,Class:16
+
+09 May 2023 15:02:27,347 [9] ERROR 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSList.CheckContactExist(String region, String name, String categoryID) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ICCSList.aspx.cs:line 273
+
+09 May 2023 15:03:04,029 [9] INFO  
+Add ICCS Contact
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 143
+@PHONE_NUMBER: 974492225
+@NAME: Mohan Raj Kaliyamurthy
+@CATEGORY_ID: 
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: 
+@NUMBER2: 
+@NUMBER_ALIAS2: 
+@TITLE: PS Manager
+@PERSONAL: 0

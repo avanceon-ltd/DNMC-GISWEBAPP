@@ -1,0 +1,138 @@
+
+13 May 2024 08:43:35,535 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 08:44:24,184 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 08:57:14,753 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 08:57:47,962 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 08:57:55,475 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 08:58:58,588 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 08:59:05,097 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 09:18:07,932 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 09:18:48,694 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 09:19:03,363 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 09:20:55,886 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 09:21:27,182 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:11:58,415 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:12:39,118 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:13:31,967 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:29:57,593 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:31:26,470 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:31:28,872 [9] ERROR 
+An error occurred during file copy operation.
+System.IO.IOException: The network name cannot be found.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at WebAppForm.SCADAAlarms.DownloadDataToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 415
+
+13 May 2024 10:31:32,112 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:32:11,544 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:32:40,951 [12] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:32:42,380 [8] ERROR 
+An error occurred during file copy operation.
+System.IO.IOException: The network name cannot be found.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at WebAppForm.SCADAAlarms.DownloadDataToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 415
+
+13 May 2024 10:32:51,918 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:46:41,476 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:47:46,681 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 10:48:57,495 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:21:01,470 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:21:40,736 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:21:42,889 [7] ERROR 
+An error occurred during file copy operation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDataToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 413
+
+13 May 2024 13:22:44,163 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:23:04,706 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:23:06,838 [11] ERROR 
+An error occurred during file copy operation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDataToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 413
+
+13 May 2024 13:27:06,712 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:34:21,013 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:34:49,741 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+13 May 2024 13:34:51,374 [8] ERROR 
+An error occurred during file copy operation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDataToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 413
+
+13 May 2024 13:34:56,709 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost

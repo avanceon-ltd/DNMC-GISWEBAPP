@@ -1,0 +1,116 @@
+
+19 Mar 2024 09:40:39,125 [9] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 09:41:36,384 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 09:41:38,710 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 09:45:04,305 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 09:45:22,040 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:01:14,007 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:01:24,133 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:01:45,444 [5] ERROR 
+IP: ::1
+URL: http://localhost:1229/Asset
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.InvalidCastException: Unable to cast object of type 'System.Web.UI.WebControls.GridViewRow' to type 'System.Data.DataRow'.
+   at WebAppForm.Asset.btnDownload_Click(Object sender, EventArgs e) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\Asset.aspx.cs:line 158
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+19 Mar 2024 10:01:48,563 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:01:50,898 [7] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:04:34,540 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:04:41,436 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:07:44,072 [9] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:07:47,311 [9] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:10:11,121 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:10:22,288 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:12:01,220 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:12:09,097 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 10:12:46,507 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 11:42:30,879 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 11:42:37,518 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 11:51:14,311 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 11:51:21,325 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 14:56:41,433 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 14:56:50,981 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 14:59:26,589 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 14:59:34,486 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:00:02,673 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:00:08,695 [5] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:01:16,831 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:01:22,801 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:05:54,834 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:06:00,147 [7] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:07:04,579 [6] INFO  
+http://localhost:1229/Asset /Asset localhost
+
+19 Mar 2024 15:07:33,611 [6] INFO  
+http://localhost:1229/Asset /Asset localhost

@@ -1,0 +1,291 @@
+
+06 Dec 2022 15:57:02,977 [35] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 15:57:16,041 [35] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 15:57:22,598 [35] INFO  
+http://localhost:1228/AddICCSContact?isEdit=1&id=628 /AddICCSContact localhost
+
+06 Dec 2022 16:42:21,423 [17] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 16:46:33,260 [46] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 16:58:12,503 [46] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 16:58:13,578 [46] ERROR 
+IP: ::1
+URL: http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\Development\DNMC-GISWebApp\ICCSAlarm.aspx(411): error CS1061: 'iccsalarm_aspx' does not contain a definition for 'ddlscada_SelectedIndexChanged' and no accessible extension method 'ddlscada_SelectedIndexChanged' accepting a first argument of type 'iccsalarm_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+06 Dec 2022 16:58:57,333 [46] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 16:58:58,304 [46] ERROR 
+IP: ::1
+URL: http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\Development\DNMC-GISWebApp\ICCSAlarm.aspx(411): error CS1061: 'iccsalarm_aspx' does not contain a definition for 'ddlscada_SelectedIndexChanged' and no accessible extension method 'ddlscada_SelectedIndexChanged' accepting a first argument of type 'iccsalarm_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+06 Dec 2022 16:59:25,677 [46] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 16:59:26,901 [46] ERROR 
+IP: ::1
+URL: http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir
+Error Occured
+Message: Server tags cannot contain <% ... %> constructs.
+Inner Exception: System.Web.HttpException (0x80004005): Server tags cannot contain <% ... %> constructs.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.DetectSpecialServerTagError(String text, Int32 textPos)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+06 Dec 2022 16:59:55,373 [6] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 17:00:00,870 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/ICCSAlarm
+Error Occured
+Message: Server tags cannot contain <% ... %> constructs.
+Inner Exception: System.Web.HttpException (0x80004005): Server tags cannot contain <% ... %> constructs.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.DetectSpecialServerTagError(String text, Int32 textPos)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+06 Dec 2022 17:02:43,318 [6] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 17:03:46,969 [6] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 17:08:24,105 [5] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 17:08:53,174 [5] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 17:09:48,414 [5] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 17:26:14,542 [6] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 17:26:27,198 [6] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 17:26:38,223 [10] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 17:27:28,906 [9] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 18:07:42,837 [5] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:07:58,472 [5] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:08:01,157 [6] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:12:45,171 [5] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:13:09,390 [5] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:17:21,642 [5] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:17:35,899 [5] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:18:51,052 [6] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:18:59,381 [7] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:19:06,108 [6] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:20:01,013 [6] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:20:01,094 [6] ERROR 
+AddICCSContact Exception
+Service 
+Message: AddICCSContact
+Inner Exception: Input string was not in a correct format.
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at WebAppForm.AddICCSContact.AddData() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\Development\DNMC-GISWebApp\AddICCSContact.aspx.cs:line 315
+
+06 Dec 2022 18:20:25,982 [6] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:20:40,813 [11] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:23:16,326 [6] INFO  
+Add DW Site
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 1
+@PHONE_NUMBER: 77889409
+@NAME: Hamza Abdo
+@CATEGORY_ID: 1
+@NUMBER_ALIAS:  1 - Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1:  1 - Mobile
+@NUMBER2: 
+@NUMBER_ALIAS2:  1 - Mobile
+@TITLE: System.Web.UI.HtmlControls.HtmlInputText
+@PERSONAL: 0
+
+06 Dec 2022 18:23:35,612 [6] INFO  
+Add DW Site
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 1
+@PHONE_NUMBER: 77889409
+@NAME: Hamza Abdo
+@CATEGORY_ID: 1
+@NUMBER_ALIAS:  1 - Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1:  1 - Mobile
+@NUMBER2: 
+@NUMBER_ALIAS2:  1 - Mobile
+@TITLE: System.Web.UI.HtmlControls.HtmlInputText
+@PERSONAL: 0
+
+06 Dec 2022 18:25:44,917 [6] INFO  
+Add DW Site
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 1
+@PHONE_NUMBER: 77889409
+@NAME: Hamza Abdo
+@CATEGORY_ID: 1
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: Mobile
+@NUMBER2: 
+@NUMBER_ALIAS2: Mobile
+@TITLE: System.Web.UI.HtmlControls.HtmlInputText
+@PERSONAL: 0
+
+06 Dec 2022 18:26:36,273 [6] INFO  
+Add DW Site
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 1
+@PHONE_NUMBER: 77889409
+@NAME: Hamza Abdo
+@CATEGORY_ID: 1
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: Mobile
+@NUMBER2: 
+@NUMBER_ALIAS2: Mobile
+@TITLE: System.Web.UI.HtmlControls.HtmlInputText
+@PERSONAL: 0
+
+06 Dec 2022 18:29:38,356 [6] INFO  
+Add DW Site
+Query
+INSERT INTO [dbo].[TELEPHONE_DETAILS] ([ID],[PHONE_NUMBER],[NAME],[CATEGORY_ID],[NUMBER_ALIAS],[NUMBER1],[NUMBER_ALIAS1],[NUMBER2],[NUMBER_ALIAS2],[TITLE],[PERSONAL]) VALUES(@ID, @PHONE_NUMBER, @NAME, @CATEGORY_ID,@NUMBER_ALIAS,@NUMBER1,@NUMBER_ALIAS1,@NUMBER2,@NUMBER_ALIAS2,@TITLE,@PERSONAL)
+params
+@ID: 1
+@PHONE_NUMBER: 77889409
+@NAME: Hamza Abdo
+@CATEGORY_ID: 1
+@NUMBER_ALIAS: Mobile
+@NUMBER1: 
+@NUMBER_ALIAS1: Mobile
+@NUMBER2: 
+@NUMBER_ALIAS2: Mobile
+@TITLE: Customer Service Engineer
+@PERSONAL: 0
+
+06 Dec 2022 18:29:41,626 [6] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:29:44,713 [6] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:29:44,734 [29] INFO  
+http://localhost:1228/ICCSList.aspx /ICCSList.aspx localhost
+
+06 Dec 2022 18:29:52,769 [6] INFO  
+http://localhost:1228/ICCSList /ICCSList localhost
+
+06 Dec 2022 18:30:25,065 [6] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 18:51:50,293 [5] INFO  
+http://localhost:1228/AddICCSContact /AddICCSContact localhost
+
+06 Dec 2022 18:52:31,753 [9] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 18:53:51,189 [9] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 18:55:34,475 [6] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 18:56:20,053 [6] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 18:58:13,708 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Unclosed quotation mark after the character string 'PS37'.
+Incorrect syntax near 'PS37'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at WebAppForm.ICCSAlarm.FillICCSContacts(String siteName)
+   at WebAppForm.ICCSAlarm.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:81dd14ff-f1be-441d-95c7-61cb6647f8ed
+Error Number:105,State:1,Class:15
+
+06 Dec 2022 18:58:33,663 [7] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost
+
+06 Dec 2022 19:13:27,220 [5] INFO  
+http://localhost:1228/ICCSAlarm /ICCSAlarm localhost
+
+06 Dec 2022 19:14:11,031 [5] INFO  
+http://localhost:1228/ICCSAlarm?sitename=PS37&reportedby=Yasir /ICCSAlarm localhost

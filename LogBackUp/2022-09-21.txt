@@ -1,0 +1,533 @@
+
+21 Sep 2022 20:39:56,124 [5] INFO  
+http://localhost:1228/DispatchWO.aspx /DispatchWO.aspx localhost
+
+21 Sep 2022 20:40:02,939 [7] INFO  
+http://localhost:1228/DispatchWO /DispatchWO localhost
+
+21 Sep 2022 20:40:03,319 [8] INFO  
+http://localhost:1228/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZJbXSJv9hdhP4u7CLQ91QpugvjeCSXUuiY21GoeY3IscocvsK0ZYkPrBt4-65HPqpA2&t=637029511449553488 /WebResource.axd localhost
+
+21 Sep 2022 20:40:03,322 [5] INFO  
+http://localhost:1228/ScriptResource.axd?d=nv7asgRUU0tRmHNR2D6t1JhoX61UQLfThGpJB5GkXIqRQ1ClD4rnmbJPPqzxRutL0XyFVKmkOEQYdbvr_7MEMh9fGBjFHCESS88FI4tn4V4E4yoW7nP4yawrbKdwbyKbd9FiSX6A1mjO7_BIW_egFg2&t=3ee86f5f /ScriptResource.axd localhost
+
+21 Sep 2022 20:40:03,322 [7] INFO  
+http://localhost:1228/ScriptResource.axd?d=JnUc-DEDOM5KzzVKtsL1tRc7LVXCLGgN3joaKkW9oHA820AgvnHyMabPqpo4AVBp6CgfctFpyq5lhn5VEqEJcOryc0clUtd2UEKBFTPgfgH62GmfJIXl8Nn768ScrDSxYdgbFpxdnzYXP-eMlVOSESuo0MeoSFJL5XWQqOxSQb-pN9-pxWVJrQfQzrE5AS850&t=10c151ff /ScriptResource.axd localhost
+
+21 Sep 2022 20:40:03,324 [9] INFO  
+http://localhost:1228/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQm3YBt7hh91KRgcXlmW2Fr0FAOYPv3j_3y8X7ATbGyO4_6bY3ANTBRtB_Jwt_sWPWP2Z2otBZKiCAfz87qHGcXJ_-jJQAAPChBxtp6UFSfp1GGEHZZ9xtvnrEZJIG_QLtaEGy0xXiuwl_pIwUeMAB901&t=10c151ff /ScriptResource.axd localhost
+
+21 Sep 2022 20:40:39,179 [5] INFO  
+http://localhost:1228/DispatchWO?wonum=13081509 /DispatchWO localhost
+
+21 Sep 2022 20:41:48,573 [5] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 20:42:00,003 [5] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 20:42:47,900 [5] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 20:43:21,095 [5] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 20:43:58,359 [5] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 20:46:28,558 [5] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 20:51:16,953 [6] INFO  
+http://localhost:1228/DispatchWO /DispatchWO localhost
+
+21 Sep 2022 20:51:31,741 [6] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 20:55:01,522 [6] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 21:15:14,865 [18] INFO  
+http://localhost:1228/DispatchWO?wonum=13081501 /DispatchWO localhost
+
+21 Sep 2022 22:10:08,589 [5] INFO  
+http://localhost:1228/DispatchWO /DispatchWO localhost
+
+21 Sep 2022 22:12:55,640 [6] INFO  
+http://localhost:1228/createwocustomer?crmsid=18092022-0002 /createwocustomer localhost
+
+21 Sep 2022 22:13:02,993 [5] INFO  
+http://localhost:1228/ScriptResource.axd?d=LkSbRRtTbnpvh0g927IxkGUldVrrDfk9NT3xHwOMYC1cTO5MclxwAj9n5zAMk7a066XBeLlpOJE_0MHxQlwT4WI07QH8EmD7dVMAg6BTzvWsVcRTejwiJEKFaTWoRaonuBJDoJt_5uLYyz6CRKLMlg2&t=730e90d3 /ScriptResource.axd localhost
+
+21 Sep 2022 22:13:02,993 [12] INFO  
+http://localhost:1228/ScriptResource.axd?d=8CjII1v0OLoMNKf5zGXmekwvHqq7BnbUmTgD0Bz0QRDFtia6eMuaeDoNYy194aKcvbJDTlF363h_yp3FC64Dj-cyo5cFtKW72ktEIVdK3A5KkO-M_wFVGSsEIC1yMf6tADMk3t0vLjea-unQDgVsWTJss3hsOBbZVpG8VTy_Lv01&t=730e90d3 /ScriptResource.axd localhost
+
+21 Sep 2022 22:13:02,994 [6] INFO  
+http://localhost:1228/ScriptResource.axd?d=qiCbui8_q4m0BAPh1b3lI75n2g-s7N9H6nWd4Hqfce_S8dENqGzYDftPA8vQAoaXGbFk0w9utcZ_YsAYVKSo6M6jSOWe3chb307mu_ZC1EbBcPSOoD6nyr1pVBubNbURRtztFlSIFFi3vxS4Q_KlQZvTHNfAbpXo0FDRM0OA_4o5XZiIMUWElg5gaeXQXFS70&t=730e90d3 /ScriptResource.axd localhost
+
+21 Sep 2022 22:13:34,370 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=18092022-0002 /createwocustomer localhost
+
+21 Sep 2022 22:13:34,538 [5] INFO  
+IP: ::1
+WorkOrder request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:CreateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-09-21T22:13:34Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrder>
+      <esb:Description>18092022-0002 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>Cv6RCITcnh</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-09-21T22:13:34</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>WAPPR</esb:Status>
+      <esb:TargetCompletionDate>2022-09-22T02:13:02</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-09-21T22:13:02</esb:TargetStartDate>
+      <esb:OrigRecordID>10317185</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317185</esb:OrigTKID>
+      <esb:OnBehalfOf>Yasir Miraj</esb:OnBehalfOf>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>18092022-0002</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderServiceAddress>
+        <esb:AddressLine3>157</esb:AddressLine3>
+        <esb:LatitudeY>25.34083969388168</esb:LatitudeY>
+        <esb:LongitudeX>51.49502317016673</esb:LongitudeX>
+      </esb:WorkOrderServiceAddress>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129479</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>AVG_FLOOD_DEPTH</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129487</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>DUPLICATE</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Arab Cup</esb:ALNValue>
+        <esb:ClassSpecID>129522</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>EVENT</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129482</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>EXPT_RESOL_TIME</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Underpass</esb:ALNValue>
+        <esb:ClassSpecID>129488</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>FLODLOC</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129485</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>FLOOD_EXTNT</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129486</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>HOTSPOT NUMBER</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129489</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>LOSS_ROAD_AVL</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129490</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>NO_OF_LANE</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129491</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>NO_OF_LANE_BLOCK</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129492</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>NO_TANKER_TRIP</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129498</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>PARENT_CRMS_SR_NO</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129499</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>PROJECT ID</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129493</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>PROPERTY_DMG</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129500</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>PUMP_RUN_HRS</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129501</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>PUMP_USED</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>DRAINAGE</esb:ALNValue>
+        <esb:ClassSpecID>129509</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>RELATED_TO</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ClassSpecID>129523</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>RESTRICTEDAREA</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Primary</esb:ALNValue>
+        <esb:ClassSpecID>129502</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>ROOD_CLASS</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>YES</esb:ALNValue>
+        <esb:ClassSpecID>129503</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>SGW_NETWRK_AVL</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Positive</esb:ALNValue>
+        <esb:ClassSpecID>129504</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>SGW_NETWRK_TYPE</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>CFZ North</esb:ALNValue>
+        <esb:ClassSpecID>129505</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>THRDP</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:CreateWorkOrderRequest>
+External Ref ID: Cv6RCITcnh
+
+21 Sep 2022 22:13:55,127 [5] INFO  
+IP: ::1
+WorkOrder request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:UpdateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-09-21T22:13:55Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrderNumber>13081546</esb:WorkOrderNumber>
+    <esb:WorkOrder>
+      <esb:Description>18092022-0002 – Rainwater Flooding</esb:Description>
+      <esb:ExternalRefID>X0xhZRZbiY</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/47</esb:ExternalContractID>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalFrameZone>Qatar North</esb:ExternalFrameZone>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:Location>QATAR</esb:Location>
+      <esb:ReportDate>2022-09-21T22:13:34</esb:ReportDate>
+      <esb:ReportedBy>Administrator</esb:ReportedBy>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>APPR</esb:Status>
+      <esb:TargetCompletionDate>2022-09-22T02:13:02</esb:TargetCompletionDate>
+      <esb:TargetStartDate>2022-09-21T22:13:02</esb:TargetStartDate>
+      <esb:OrigRecordID>10317185</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317185</esb:OrigTKID>
+      <esb:OnBehalfOf>Yasir Miraj</esb:OnBehalfOf>
+      <esb:ExternalCSRGroup>DR_CSRL2</esb:ExternalCSRGroup>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalDefectType>RNWFLOOD</esb:ExternalDefectType>
+      <esb:ExternalCRMSRID>18092022-0002</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>3</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>CFZ North</esb:ALNValue>
+        <esb:ClassSpecID>129505</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>THRDP</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:UpdateWorkOrderRequest>
+External Ref ID: X0xhZRZbiY
+
+21 Sep 2022 22:14:04,500 [5] INFO  
+IP: ::1
+WorkOrder response: 
+<?xml version="1.0" encoding="UTF-8"?><NS1:UpdateWorkOrderReply xmlns:NS1="esb.ashghal.gov.qa"><NS1:eAI_HEADER><NS1:referenceNum>a</NS1:referenceNum><NS1:clientChannel>DSS</NS1:clientChannel><NS1:requestTime>2022-09-21T22:13:55Z</NS1:requestTime><NS1:retryFlag>N</NS1:retryFlag><NS1:sucessfulReversalFlag>N</NS1:sucessfulReversalFlag></NS1:eAI_HEADER><NS1:eAI_BODY><NS1:SiteID>101</NS1:SiteID><NS1:WorkOrderNumber>13081546</NS1:WorkOrderNumber><NS1:WorkOrderID>30173975</NS1:WorkOrderID></NS1:eAI_BODY><NS1:eAI_STATUS><NS1:returnStatus><NS1:returnCode>ESB00000000</NS1:returnCode><NS1:returnCodeDesc>Service Success</NS1:returnCodeDesc></NS1:returnStatus></NS1:eAI_STATUS></NS1:UpdateWorkOrderReply>
+External Ref ID: X0xhZRZbiY
+
+21 Sep 2022 22:14:04,658 [5] INFO  
+IP: ::1
+WorkOrder response: 
+<?xml version="1.0" encoding="UTF-8"?><NS1:CreateWorkOrderReply xmlns:NS1="esb.ashghal.gov.qa"><NS1:eAI_HEADER><NS1:referenceNum>a</NS1:referenceNum><NS1:clientChannel>DSS</NS1:clientChannel><NS1:requestTime>2022-09-21T22:13:34Z</NS1:requestTime><NS1:retryFlag>N</NS1:retryFlag><NS1:sucessfulReversalFlag>N</NS1:sucessfulReversalFlag></NS1:eAI_HEADER><NS1:eAI_BODY><NS1:SiteID>101</NS1:SiteID><NS1:WorkOrderNumber>13081546</NS1:WorkOrderNumber><NS1:WorkOrderID>30173975</NS1:WorkOrderID></NS1:eAI_BODY><NS1:eAI_STATUS><NS1:returnStatus><NS1:returnCode>ESB00000000</NS1:returnCode><NS1:returnCodeDesc>Service Success</NS1:returnCodeDesc></NS1:returnStatus></NS1:eAI_STATUS></NS1:CreateWorkOrderReply>
+External Ref ID: X0xhZRZbiY
+
+21 Sep 2022 22:14:34,680 [5] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:14:59,432 [5] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:15:01,028 [6] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:15:03,531 [5] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:15:04,381 [12] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:15:08,437 [5] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:15:09,740 [12] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:15:59,249 [5] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:17:07,696 [5] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:17:29,362 [5] INFO  
+http://localhost:1228/Hotspot.aspx /Hotspot.aspx localhost
+
+21 Sep 2022 22:17:29,367 [6] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:17:29,404 [6] INFO  
+http://localhost:1228/Hotspot /Hotspot localhost
+
+21 Sep 2022 22:17:39,490 [5] INFO  
+http://localhost:1228/PABoundaries.aspx /PABoundaries.aspx localhost
+
+21 Sep 2022 22:17:39,494 [6] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:17:39,511 [12] INFO  
+http://localhost:1228/PABoundaries /PABoundaries localhost
+
+21 Sep 2022 22:18:01,786 [8] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:18:01,820 [8] INFO  
+IP: ::1
+WorkOrder request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:UpdateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-09-21T22:18:01Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrderNumber>13081546</esb:WorkOrderNumber>
+    <esb:WorkOrder>
+      <esb:ExternalRefID>DNGsj5E6wh</esb:ExternalRefID>
+      <esb:ExternalCrewLead>ECC_SZ_Z1_CR1</esb:ExternalCrewLead>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalScheduler>ECC_SZ_COO</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>DISPATCH</esb:Status>
+      <esb:OrigRecordID>10317185</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317185</esb:OrigTKID>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalCRMSRID>18092022-0002</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>1</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>FIFA Related</esb:ALNValue>
+        <esb:ClassSpecID>129522</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>EVENT</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Main Road</esb:ALNValue>
+        <esb:ClassSpecID>129488</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>FLODLOC</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Hotspot 1008</esb:ALNValue>
+        <esb:ClassSpecID>129486</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>HOTSPOT NUMBER</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>BC-010-P009 - Park beside TV intersection - Operation - Contractor_ BOOM</esb:ALNValue>
+        <esb:ClassSpecID>129499</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>PROJECT ID</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Secondary</esb:ALNValue>
+        <esb:ClassSpecID>129502</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>ROOD_CLASS</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>NO</esb:ALNValue>
+        <esb:ClassSpecID>129503</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>SGW_NETWRK_AVL</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Negative</esb:ALNValue>
+        <esb:ClassSpecID>129504</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>SGW_NETWRK_TYPE</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:UpdateWorkOrderRequest>
+External Ref ID: DNGsj5E6wh
+
+21 Sep 2022 22:18:04,331 [8] INFO  
+IP: ::1
+WorkOrder response: 
+<?xml version="1.0" encoding="UTF-8"?><NS1:UpdateWorkOrderReply xmlns:NS1="esb.ashghal.gov.qa"><NS1:eAI_HEADER><NS1:referenceNum>a</NS1:referenceNum><NS1:clientChannel>DSS</NS1:clientChannel><NS1:requestTime>2022-09-21T22:18:01Z</NS1:requestTime><NS1:retryFlag>N</NS1:retryFlag><NS1:sucessfulReversalFlag>N</NS1:sucessfulReversalFlag></NS1:eAI_HEADER><NS1:eAI_BODY><NS1:SiteID>101</NS1:SiteID><NS1:WorkOrderNumber>13081546</NS1:WorkOrderNumber><NS1:WorkOrderID>30173975</NS1:WorkOrderID></NS1:eAI_BODY><NS1:eAI_STATUS><NS1:returnStatus><NS1:returnCode>ESB00000000</NS1:returnCode><NS1:returnCodeDesc>Service Success</NS1:returnCodeDesc></NS1:returnStatus></NS1:eAI_STATUS></NS1:UpdateWorkOrderReply>
+External Ref ID: DNGsj5E6wh
+
+21 Sep 2022 22:18:11,323 [21] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:18:56,810 [12] INFO  
+http://localhost:1228/dispatchWO?wonum=13081546 /dispatchWO localhost
+
+21 Sep 2022 22:19:18,188 [5] INFO  
+http://localhost:1228/returntoschduler?wonum=13081546 /returntoschduler localhost
+
+21 Sep 2022 22:19:24,267 [5] INFO  
+http://localhost:1228/ / localhost
+
+21 Sep 2022 22:19:31,887 [12] INFO  
+http://localhost:1228/ReturnWOToScheduler.aspx /ReturnWOToScheduler.aspx localhost
+
+21 Sep 2022 22:19:31,908 [5] INFO  
+http://localhost:1228/ReturnWOToScheduler /ReturnWOToScheduler localhost
+
+21 Sep 2022 22:19:40,580 [5] INFO  
+http://localhost:1228/ReturnWOToScheduler?wonum=13081546 /ReturnWOToScheduler localhost
+
+21 Sep 2022 22:20:18,198 [5] INFO  
+http://localhost:1228/ReturnWOToScheduler?wonum=13081546 /ReturnWOToScheduler localhost
+
+21 Sep 2022 22:20:39,232 [5] INFO  
+http://localhost:1228/ReturnWOToScheduler?wonum=13081546 /ReturnWOToScheduler localhost
+
+21 Sep 2022 22:20:39,269 [6] INFO  
+IP: ::1
+WorkOrder request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:UpdateWorkOrderRequest xmlns:esb="esb.ashghal.gov.qa">
+  <esb:eAI_HEADER>
+    <esb:referenceNum>a</esb:referenceNum>
+    <esb:clientChannel>DSS</esb:clientChannel>
+    <esb:requestTime>2022-09-21T22:20:39Z</esb:requestTime>
+    <esb:retryFlag>N</esb:retryFlag>
+    <esb:sucessfulReversalFlag>N</esb:sucessfulReversalFlag>
+  </esb:eAI_HEADER>
+  <esb:eAI_BODY>
+    <esb:WorkOrderNumber>13081546</esb:WorkOrderNumber>
+    <esb:WorkOrder>
+      <esb:ExternalRefID>3gxVmDTBmn</esb:ExternalRefID>
+      <esb:ExternalContractID>C/2020/28</esb:ExternalContractID>
+      <esb:ExternalCrewLead>ECC_MET_Z1_CR11</esb:ExternalCrewLead>
+      <esb:ExternalDepartment>DRAINAGE</esb:ExternalDepartment>
+      <esb:ExternalScheduler>ECC_MET_SCH</esb:ExternalScheduler>
+      <esb:ExternalSource>CRM</esb:ExternalSource>
+      <esb:SiteID>101</esb:SiteID>
+      <esb:Status>DISPATCH</esb:Status>
+      <esb:OrigRecordID>10317185</esb:OrigRecordID>
+      <esb:OrigRecordClass>SR</esb:OrigRecordClass>
+      <esb:OrigTKID>10317185</esb:OrigTKID>
+      <esb:ExternalDNMC>DNMC</esb:ExternalDNMC>
+      <esb:ExternalCRMSRID>18092022-0002</esb:ExternalCRMSRID>
+      <esb:ClassStructureID>5144</esb:ClassStructureID>
+      <esb:WorkOrderPriority>5</esb:WorkOrderPriority>
+      <esb:WorkType>FR</esb:WorkType>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Arab Cup</esb:ALNValue>
+        <esb:ClassSpecID>129522</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>EVENT</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>External</esb:ALNValue>
+        <esb:ClassSpecID>129488</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>FLODLOC</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Tertiary</esb:ALNValue>
+        <esb:ClassSpecID>129502</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>ROOD_CLASS</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>YES</esb:ALNValue>
+        <esb:ClassSpecID>129503</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>SGW_NETWRK_AVL</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>Positive</esb:ALNValue>
+        <esb:ClassSpecID>129504</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>SGW_NETWRK_TYPE</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+      <esb:WorkOrderSpec>
+        <esb:ALNValue>CFZ South</esb:ALNValue>
+        <esb:ClassSpecID>129505</esb:ClassSpecID>
+        <esb:ClassStructureId>5144</esb:ClassStructureId>
+        <esb:AssetAttrId>THRDP</esb:AssetAttrId>
+      </esb:WorkOrderSpec>
+    </esb:WorkOrder>
+  </esb:eAI_BODY>
+</esb:UpdateWorkOrderRequest>
+External Ref ID: 3gxVmDTBmn
+
+21 Sep 2022 22:20:41,476 [6] INFO  
+IP: ::1
+WorkOrder response: 
+<?xml version="1.0" encoding="UTF-8"?><NS1:UpdateWorkOrderReply xmlns:NS1="esb.ashghal.gov.qa"><NS1:eAI_HEADER><NS1:referenceNum>a</NS1:referenceNum><NS1:clientChannel>DSS</NS1:clientChannel><NS1:requestTime>2022-09-21T22:20:39Z</NS1:requestTime><NS1:retryFlag>N</NS1:retryFlag><NS1:sucessfulReversalFlag>N</NS1:sucessfulReversalFlag></NS1:eAI_HEADER><NS1:eAI_BODY><NS1:SiteID>101</NS1:SiteID><NS1:WorkOrderNumber>13081546</NS1:WorkOrderNumber><NS1:WorkOrderID>30173975</NS1:WorkOrderID></NS1:eAI_BODY><NS1:eAI_STATUS><NS1:returnStatus><NS1:returnCode>ESB00000000</NS1:returnCode><NS1:returnCodeDesc>Service Success</NS1:returnCodeDesc></NS1:returnStatus></NS1:eAI_STATUS></NS1:UpdateWorkOrderReply>
+External Ref ID: 3gxVmDTBmn
+
+21 Sep 2022 22:20:55,960 [6] INFO  
+http://localhost:1228/ReturnWOToScheduler?wonum=13081546 /ReturnWOToScheduler localhost

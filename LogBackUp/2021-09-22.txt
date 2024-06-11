@@ -1,0 +1,147 @@
+
+22 Sep 2021 11:03:46,060 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:04:48,389 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:04:48,601 [6] INFO  
+http://localhost:1227/ChambersAssetInfo /ChambersAssetInfo localhost
+
+22 Sep 2021 11:04:54,714 [6] ERROR 
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.Asset.BindGridView(String text1, String column1, String text2, String column2, Int32 pageNo) in D:\GIS WEBAPP\DNMC-GISWebApp\Asset.aspx.cs:line 40
+   at WebAppForm.Asset.Page_Load(Object sender, EventArgs e) in D:\GIS WEBAPP\DNMC-GISWebApp\Asset.aspx.cs:line 29
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+22 Sep 2021 11:05:43,848 [5] INFO  
+http://localhost:1227/CreateWOCustomer?CRMSId=05032016-0001 /CreateWOCustomer localhost
+
+22 Sep 2021 11:05:46,881 [6] INFO  
+http://localhost:1227/CreateWOCustomer /CreateWOCustomer localhost
+
+22 Sep 2021 11:05:52,802 [6] INFO  
+http://localhost:1227/CreateWOCustomer /CreateWOCustomer localhost
+
+22 Sep 2021 11:05:52,966 [7] INFO  
+http://localhost:1227/Asset?LocationId=&IsLocation=0 /Asset localhost
+
+22 Sep 2021 11:06:23,216 [5] ERROR 
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at WebAppForm.CreateWOCustomer.FillFrameworkZone() in D:\GIS WEBAPP\DNMC-GISWebApp\CreateWOCustomer.aspx.cs:line 169
+   at WebAppForm.CreateWOCustomer.Page_Load(Object sender, EventArgs e) in D:\GIS WEBAPP\DNMC-GISWebApp\CreateWOCustomer.aspx.cs:line 46
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+
+22 Sep 2021 11:06:31,541 [6] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:06:31,562 [7] INFO  
+http://localhost:1227/ChambersAssetInfo /ChambersAssetInfo localhost
+
+22 Sep 2021 11:06:54,104 [7] ERROR 
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.Asset.BindGridView(String text1, String column1, String text2, String column2, Int32 pageNo) in D:\GIS WEBAPP\DNMC-GISWebApp\Asset.aspx.cs:line 40
+   at WebAppForm.Asset.Page_Load(Object sender, EventArgs e) in D:\GIS WEBAPP\DNMC-GISWebApp\Asset.aspx.cs:line 29
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+22 Sep 2021 11:10:11,112 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:10:13,166 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:10:13,422 [6] INFO  
+http://localhost:1227/ChambersAssetInfo /ChambersAssetInfo localhost
+
+22 Sep 2021 11:10:17,659 [6] ERROR 
+Error Occured
+Message: Could not load type 'WebAppForm'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Sep 2021 11:12:58,022 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:13:06,102 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:13:06,163 [6] INFO  
+http://localhost:1227/ChambersAssetInfo /ChambersAssetInfo localhost
+
+22 Sep 2021 11:13:07,776 [6] ERROR 
+Error Occured
+Message: Could not load type 'WebAppForm.WebForm1'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm.WebForm1'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm.WebForm1'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Sep 2021 11:17:23,640 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:17:28,015 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:17:28,264 [6] INFO  
+http://localhost:1227/ChambersAssetInfo /ChambersAssetInfo localhost
+
+22 Sep 2021 11:17:30,213 [6] ERROR 
+Error Occured
+Message: D:\GIS WEBAPP\DNMC-GISWebApp\ChambersAssetInfo.aspx(164): error CS1061: 'chambersassetinfo_aspx' does not contain a definition for 'gvCustomers_PageIndexChanging' and no accessible extension method 'gvCustomers_PageIndexChanging' accepting a first argument of type 'chambersassetinfo_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+22 Sep 2021 11:23:42,389 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:23:46,824 [5] INFO  
+http://localhost:1227/AssetDetailByLocation /AssetDetailByLocation localhost
+
+22 Sep 2021 11:23:46,873 [6] INFO  
+http://localhost:1227/ChambersAssetInfo /ChambersAssetInfo localhost
+
+22 Sep 2021 11:24:22,713 [5] INFO  
+http://localhost:1227/CreateWOCustomer /CreateWOCustomer localhost
+
+22 Sep 2021 11:24:26,618 [5] INFO  
+http://localhost:1227/CreateWOCustomer /CreateWOCustomer localhost
+
+22 Sep 2021 11:24:26,786 [6] INFO  
+http://localhost:1227/Asset?LocationId=&IsLocation=0 /Asset localhost

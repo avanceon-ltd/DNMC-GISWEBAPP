@@ -1,0 +1,6 @@
+
+29 Sep 2022 07:43:49,637 [5] INFO  
+http://localhost:1228/WODetailsByAsset_FIFA /WODetailsByAsset_FIFA localhost
+
+29 Sep 2022 07:43:56,549 [5] INFO  
+http://localhost:1228/WODetailsByAsset_FIFA?id=10230597 /WODetailsByAsset_FIFA localhost

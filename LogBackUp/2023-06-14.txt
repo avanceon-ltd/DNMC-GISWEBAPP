@@ -1,0 +1,108 @@
+
+14 Jun 2023 12:38:58,836 [13] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:39:11,038 [13] INFO  
+http://localhost:1228/CRMSComplaintDetail.aspx?id=07062023-0007 /CRMSComplaintDetail.aspx localhost
+
+14 Jun 2023 12:39:11,071 [15] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:39:47,129 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:39:53,201 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?crmsid=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:39:59,895 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?crmsid=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:40:16,035 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:43:31,700 [25] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:44:43,200 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 12:47:04,411 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/CRMSComplaintDetail?id=07062023-0007
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.FormatException: String was not recognized as a valid Boolean.
+   at System.Boolean.Parse(String value)
+   at ASP.crmscomplaintdetail_aspx.__DataBind__control11(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\CRMSComplaintDetail.aspx:line 329
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.Repeater.CreateItem(Int32 itemIndex, ListItemType itemType, Boolean dataBind, Object dataItem)
+   at System.Web.UI.WebControls.Repeater.AddDataItemsIntoItemsArray(IEnumerable dataSource, Boolean useDataSource)
+   at System.Web.UI.WebControls.Repeater.PostGetDataAction(IEnumerable dataSource)
+   at System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   at System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.Repeater.DataBind()
+   at WebAppForm.CRMSComplaintDetail.BindEAMSData() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\CRMSComplaintDetail.aspx.cs:line 150
+   at WebAppForm.CRMSComplaintDetail.Page_Load(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\CRMSComplaintDetail.aspx.cs:line 31
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+14 Jun 2023 15:48:40,892 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:48:51,971 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:50:34,146 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/CRMSComplaintDetail?id=07062023-0007
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.InvalidCastException: Specified cast is not valid.
+   at WebAppForm.CRMSComplaintDetail.ConvertNullableBoolToYesNo(Object pBool) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\CRMSComplaintDetail.aspx.cs:line 158
+   at ASP.crmscomplaintdetail_aspx.__DataBind__control11(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\CRMSComplaintDetail.aspx:line 329
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.Repeater.CreateItem(Int32 itemIndex, ListItemType itemType, Boolean dataBind, Object dataItem)
+   at System.Web.UI.WebControls.Repeater.AddDataItemsIntoItemsArray(IEnumerable dataSource, Boolean useDataSource)
+   at System.Web.UI.WebControls.Repeater.PostGetDataAction(IEnumerable dataSource)
+   at System.Web.UI.WebControls.Repeater.CreateControlHierarchy(Boolean useDataSource)
+   at System.Web.UI.WebControls.Repeater.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.Repeater.DataBind()
+   at WebAppForm.CRMSComplaintDetail.BindEAMSData() in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\CRMSComplaintDetail.aspx.cs:line 150
+   at WebAppForm.CRMSComplaintDetail.Page_Load(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\CRMSComplaintDetail.aspx.cs:line 31
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+14 Jun 2023 15:51:37,463 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:53:03,847 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:53:14,519 [7] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:54:44,689 [7] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=11062023-0001 /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:55:22,944 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=11062023-0001 /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:55:46,514 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=09052023-0003 /CRMSComplaintDetail localhost
+
+14 Jun 2023 15:57:28,435 [15] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=11062023-0004 /CRMSComplaintDetail localhost

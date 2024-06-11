@@ -1,0 +1,18 @@
+
+06 Oct 2022 08:34:03,592 [5] INFO  
+http://localhost:1228/CreateWOCustomer /CreateWOCustomer localhost
+
+06 Oct 2022 08:34:21,406 [6] INFO  
+http://localhost:1228/createwocustomer?crmsid=26052022-0001 /createwocustomer localhost
+
+06 Oct 2022 08:34:55,612 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=26052022-0001 /createwocustomer localhost
+
+06 Oct 2022 08:35:16,480 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=26052022-0001 /createwocustomer localhost
+
+06 Oct 2022 08:36:50,761 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=26052022-0001 /createwocustomer localhost
+
+06 Oct 2022 08:37:00,087 [5] INFO  
+http://localhost:1228/createwocustomer?crmsid=26052022-0001 /createwocustomer localhost

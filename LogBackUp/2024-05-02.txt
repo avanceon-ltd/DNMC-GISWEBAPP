@@ -1,0 +1,273 @@
+
+02 May 2024 08:02:23,526 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:03:09,089 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:03:28,181 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:05:26,381 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:05:58,247 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:06:16,897 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:06:46,351 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:19:35,984 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:20:08,810 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:20:28,064 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:20:48,278 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:30:42,123 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:31:26,983 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:36:38,708 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:37:00,574 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 08:37:20,917 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:13:43,508 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:14:22,571 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:14:38,846 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:15:47,488 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:17:51,065 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:18:18,786 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:19:38,524 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:19:59,136 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:21:15,229 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:21:36,797 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:24:25,659 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:24:47,429 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:25:18,295 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:28:28,829 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:28:47,569 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:29:31,237 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:29:48,711 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:32:11,993 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:32:34,892 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:33:27,359 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:33:50,179 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 09:34:27,990 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:06:20,812 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:13:40,603 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:14:16,275 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:14:33,733 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:21:13,477 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:21:52,211 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:22:10,069 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:22:26,629 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:38:31,337 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:38:58,406 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 10:39:16,925 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 12:40:03,124 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 12:41:18,477 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 12:59:16,269 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 12:59:56,502 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:00:49,982 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:01:55,931 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:04:36,055 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:05:12,831 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:06:00,892 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:07:51,256 [10] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:11:30,978 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:13:20,506 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:35:53,695 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 13:51:26,838 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 13:52:36,136 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 13:53:05,005 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:21:33,165 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:22:44,911 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:26:52,570 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:27:16,047 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:28:20,934 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:28:38,013 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:32:18,971 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:32:58,102 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:33:22,458 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:34:08,815 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:34:41,729 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 14:34:58,508 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 15:00:49,148 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 15:01:48,148 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 20:18:19,943 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+02 May 2024 20:20:23,353 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 20:21:26,092 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 20:22:21,255 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 20:22:48,524 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 20:23:23,912 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 20:37:18,699 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 20:37:46,138 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 20:38:08,556 [11] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 21:02:58,923 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 21:03:25,247 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+02 May 2024 21:03:45,249 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost

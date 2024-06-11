@@ -1,0 +1,674 @@
+
+29 Apr 2024 07:35:04,053 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 07:36:03,881 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 07:37:19,546 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 07:52:08,254 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 07:56:38,199 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:03:57,871 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:09:07,293 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:12:50,389 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:13:55,986 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:28:50,768 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:31:14,236 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:33:13,546 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:42:40,992 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:43:14,215 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:46:51,756 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:47:28,310 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:48:49,529 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:49:12,629 [11] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:53:56,164 [13] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:54:25,321 [12] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:58:03,154 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:58:22,952 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:58:33,051 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:59:03,645 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 08:59:21,355 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:01:33,485 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:01:46,298 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:02:31,898 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:02:40,355 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:02:45,833 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:04:37,122 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:04:46,111 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:08:12,869 [10] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:08:19,850 [10] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:11:22,113 [10] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:11:26,620 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:16:18,951 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:16:25,041 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:17:03,015 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:20:14,647 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:20:26,011 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:22:03,176 [6] ERROR 
+IP: ::1
+URL: http://localhost:1229/file:/dasst/Reports/SCADA_Alarms_Events_Report/Alarms
+Error Occured
+Message: A potentially dangerous Request.Path value was detected from the client (:).
+Inner Exception: 
+
+29 Apr 2024 09:22:03,605 [6] INFO  
+http://localhost:1229/file:/dasst/Reports/SCADA_Alarms_Events_Report/Alarms /file:/dasst/Reports/SCADA_Alarms_Events_Report/Alarms localhost
+
+29 Apr 2024 09:24:50,589 [9] ERROR 
+IP: ::1
+URL: http://localhost:1229/file:/dasst/Reports/SCADA_Alarms_Events_Report/Alarms
+Error Occured
+Message: A potentially dangerous Request.Path value was detected from the client (:).
+Inner Exception: 
+
+29 Apr 2024 09:24:50,786 [9] INFO  
+http://localhost:1229/file:/dasst/Reports/SCADA_Alarms_Events_Report/Alarms /file:/dasst/Reports/SCADA_Alarms_Events_Report/Alarms localhost
+
+29 Apr 2024 09:40:05,962 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:40:39,407 [6] INFO  
+http://localhost:1229/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZBjldB3AwMtLi-AWtqSkwxC6IDnstUVbunxEJg_G2qDpq2sKmVLF34gSJLoo1oYUmQ2&t=637029511449553488 /WebResource.axd localhost
+
+29 Apr 2024 09:40:39,410 [5] INFO  
+http://localhost:1229/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQowOjcwd5fMZUgMg1M33CCCsq3sS0FWh_alFFAgwNUdbIZbj8RVkRgWrfO4tovihAiIUGPQm7_X1uxrsnd99HGRdV-4URvKTu9-BVkvbs7edr5h1c1zJxhhHTL7KiAPJnkRtzhw-zrLSnOv-Fh8IMNM1&t=10c151ff /ScriptResource.axd localhost
+
+29 Apr 2024 09:40:39,414 [7] INFO  
+http://localhost:1229/ScriptResource.axd?d=JnUc-DEDOM5KzzVKtsL1tRjixC5723IQ-Mbu4_uuHUyICvnNopezh7P-ECtnHCe8zRDz4fmeRzFCuyF_4VE0mjoQyL0Rp7JigdcTO8b1FVDu1BujZqb3IStnNNWkw_PHPUjCF4jHYBPpL9qpWZzM0i74ggxjvV_9pCP21OpmnSOsYssEI1EeLRfFrIDHWu-60&t=10c151ff /ScriptResource.axd localhost
+
+29 Apr 2024 09:40:45,702 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:50:21,244 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:52:17,592 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:53:12,593 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:55:19,241 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:56:15,514 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 09:56:48,090 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 10:30:29,952 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 10:31:04,439 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 10:42:25,680 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 10:51:02,339 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 10:51:05,135 [5] ERROR 
+IP: ::1
+URL: http://localhost:1229/SCADAAlarms
+Error Occured
+Message: D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx(299): error CS1061: 'scadaalarms_aspx' does not contain a definition for 'btnSearch_Click' and no accessible extension method 'btnSearch_Click' accepting a first argument of type 'scadaalarms_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+29 Apr 2024 10:53:53,944 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 10:55:35,263 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:06:37,577 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:08:14,930 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:09:09,990 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:14:10,880 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:16:42,594 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:24:22,960 [23] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:26:29,810 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:35:00,774 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:35:50,218 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:36:27,110 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:38:07,409 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:41:16,882 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:52:05,690 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:52:08,663 [5] ERROR 
+IP: ::1
+URL: http://localhost:1229/SCADAAlarms
+Error Occured
+Message: D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx(337): error CS1061: 'scadaalarms_aspx' does not contain a definition for 'StartEndDiffValidator_ServerValidate' and no accessible extension method 'StartEndDiffValidator_ServerValidate' accepting a first argument of type 'scadaalarms_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+29 Apr 2024 11:52:47,000 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:53:36,962 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:53:38,452 [6] ERROR 
+IP: ::1
+URL: http://localhost:1229/SCADAAlarms
+Error Occured
+Message: D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx(337): error CS1061: 'scadaalarms_aspx' does not contain a definition for 'StartEndDiffValidator_ServerValidate' and no accessible extension method 'StartEndDiffValidator_ServerValidate' accepting a first argument of type 'scadaalarms_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+29 Apr 2024 11:54:38,016 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:54:42,272 [6] ERROR 
+IP: ::1
+URL: http://localhost:1229/SCADAAlarms
+Error Occured
+Message: D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx(337): error CS1061: 'scadaalarms_aspx' does not contain a definition for 'StartEndDiffValidator_ServerValidate' and no accessible extension method 'StartEndDiffValidator_ServerValidate' accepting a first argument of type 'scadaalarms_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+29 Apr 2024 11:55:46,839 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:55:48,332 [6] ERROR 
+IP: ::1
+URL: http://localhost:1229/SCADAAlarms
+Error Occured
+Message: D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx(337): error CS1061: 'scadaalarms_aspx' does not contain a definition for 'StartEndDiffValidator_ServerValidate' and no accessible extension method 'StartEndDiffValidator_ServerValidate' accepting a first argument of type 'scadaalarms_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+29 Apr 2024 11:56:15,497 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:57:47,067 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 11:59:31,739 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:01:10,732 [11] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:06:19,887 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:07:52,981 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:10:40,803 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:11:24,310 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:12:00,752 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:12:24,663 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:12:56,368 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:13:16,108 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:13:17,112 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:13:51,095 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:13:51,835 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:17:09,959 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:25:27,607 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:26:18,662 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:26:41,479 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:26:58,791 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:28:26,415 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:32:06,616 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:32:53,963 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:35:32,802 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:36:27,028 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:36:42,250 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:39:37,057 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:40:48,926 [16] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:44:17,029 [10] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:47:56,622 [16] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:48:41,670 [22] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:51:29,301 [22] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:51:53,197 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:52:13,204 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:52:35,285 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:56:56,880 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:57:31,320 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 12:57:52,539 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:08:21,066 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:09:07,088 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:09:41,470 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:10:26,621 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:10:58,762 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:11:16,049 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:11:48,455 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:12:42,426 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:13:07,959 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:13:17,482 [18] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:13:32,385 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:14:38,809 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:15:08,458 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:15:16,645 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:15:19,796 [25] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:15:23,090 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:18:20,024 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:18:23,524 [18] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:18:51,421 [18] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 13:18:55,407 [18] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 14:55:03,227 [42] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 14:55:53,174 [42] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 14:56:01,199 [12] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 14:56:20,515 [42] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 14:56:56,984 [42] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 14:57:23,385 [12] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:27:14,898 [95] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:32:48,028 [102] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:38:07,941 [101] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:39:58,106 [97] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:46:38,764 [94] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:47:46,156 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:48:05,026 [10] INFO  
+http://localhost:1229/ScriptResource.axd?d=nv7asgRUU0tRmHNR2D6t1FQuqEuN_1nAALqYr7YlMrubJm9XfgTUufnLgyIvGMk3XQP40k53bbvyCF0DCic2aaqaQqUf2gfaBEx_QURFU_JWrl32z0irx_Rj0nxYgFMhWynOlRW4AJJBkDFZzqGvwQ2&t=3ee86f5f /ScriptResource.axd localhost
+
+29 Apr 2024 16:55:06,277 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:55:44,550 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 16:56:05,294 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:00:40,492 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:01:30,424 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:02:03,283 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:03:17,410 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:03:44,946 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:05:47,781 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:06:09,690 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:06:39,934 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:09:10,235 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:09:26,014 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:10:46,140 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:13:59,480 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:14:22,407 [15] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:31:01,663 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:31:04,769 [5] ERROR 
+IP: ::1
+URL: http://localhost:1229/SCADAAlarms
+Error Occured
+Message: D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx(330): error CS1061: 'scadaalarms_aspx' does not contain a definition for 'btnDownload_Click' and no accessible extension method 'btnDownload_Click' accepting a first argument of type 'scadaalarms_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+29 Apr 2024 17:32:15,076 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:33:05,156 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:34:15,854 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:36:24,260 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:36:48,051 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:37:05,693 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:44:55,852 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:45:34,466 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:46:03,101 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:46:25,921 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:55:23,765 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:55:50,653 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:56:12,765 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:58:29,397 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:58:55,403 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 17:59:35,697 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:08:02,943 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:12:56,700 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:14:57,351 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:16:11,809 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:17:37,530 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:19:25,168 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:21:25,144 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:22:30,803 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:28:34,027 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:30:29,229 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:36:12,377 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:37:16,625 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:37:36,530 [17] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:38:01,852 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:41:53,268 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:42:28,515 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:42:50,378 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:43:17,536 [12] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:45:13,759 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 18:59:26,950 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 19:01:07,603 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 19:07:20,615 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 19:07:56,089 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 19:08:13,926 [12] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+29 Apr 2024 19:08:40,499 [8] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost

@@ -1,0 +1,598 @@
+
+21 Sep 2023 09:39:47,177 [9] INFO  
+http://localhost:1228/Pro-ActiveMonitorDashboard.aspx /Pro-ActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 09:39:58,706 [9] ERROR 
+IP: ::1
+URL: http://localhost:1228/Pro-ActiveMonitorDashboard.aspx
+Error Occured
+Message: Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+21 Sep 2023 09:40:19,801 [17] INFO  
+http://localhost:1228/Pro-ActiveMonitorDashboard /Pro-ActiveMonitorDashboard localhost
+
+21 Sep 2023 09:40:20,860 [17] ERROR 
+IP: ::1
+URL: http://localhost:1228/Pro-ActiveMonitorDashboard
+Error Occured
+Message: Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+21 Sep 2023 09:40:46,333 [6] INFO  
+http://localhost:1228/Pro-ActiveMonitorDashboard /Pro-ActiveMonitorDashboard localhost
+
+21 Sep 2023 09:40:48,388 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/Pro-ActiveMonitorDashboard
+Error Occured
+Message: Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm.Pro_ActiveMonitorDashboard'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+21 Sep 2023 09:41:22,416 [14] INFO  
+http://localhost:1228/Pro-ActiveMonitorDashboard /Pro-ActiveMonitorDashboard localhost
+
+21 Sep 2023 09:41:24,539 [14] ERROR 
+IP: ::1
+URL: http://localhost:1228/Pro-ActiveMonitorDashboard
+Error Occured
+Message: Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+21 Sep 2023 09:49:49,332 [49] INFO  
+http://localhost:1228/Pro-ActiveMonitorDashboard.aspx /Pro-ActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 09:49:52,180 [49] ERROR 
+IP: ::1
+URL: http://localhost:1228/Pro-ActiveMonitorDashboard.aspx
+Error Occured
+Message: Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+21 Sep 2023 09:50:13,270 [51] INFO  
+http://localhost:1228/Pro-ActiveMonitorDashboard /Pro-ActiveMonitorDashboard localhost
+
+21 Sep 2023 09:50:14,301 [51] ERROR 
+IP: ::1
+URL: http://localhost:1228/Pro-ActiveMonitorDashboard
+Error Occured
+Message: Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'.
+Inner Exception: System.Web.HttpParseException (0x80004005): Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'. ---> System.Web.HttpException (0x80004005): Could not load type 'WebAppForm.Pro-ActiveMonitorDashboard'.
+   at System.Web.UI.TemplateParser.GetType(String typeName, Boolean ignoreCase, Boolean throwOnError)
+   at System.Web.UI.TemplateParser.ProcessInheritsAttribute(String baseTypeName, String codeFileBaseTypeName, String src, Assembly assembly)
+   at System.Web.UI.TemplateParser.PostProcessMainDirectiveAttributes(IDictionary parseData)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+21 Sep 2023 10:11:43,570 [141] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:11:47,500 [141] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard.aspx
+Error Occured
+Message: D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx(140): error CS1061: 'proactivemonitordashboard_aspx' does not contain a definition for 'Menu1_MenuItemClick' and no accessible extension method 'Menu1_MenuItemClick' accepting a first argument of type 'proactivemonitordashboard_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 Sep 2023 10:12:08,589 [140] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:12:11,306 [140] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard
+Error Occured
+Message: D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx(140): error CS1061: 'proactivemonitordashboard_aspx' does not contain a definition for 'Menu1_MenuItemClick' and no accessible extension method 'Menu1_MenuItemClick' accepting a first argument of type 'proactivemonitordashboard_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 Sep 2023 10:12:41,670 [8] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:12:45,934 [8] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard
+Error Occured
+Message: D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx(142): error CS1061: 'proactivemonitordashboard_aspx' does not contain a definition for 'Menu1_MenuItemClick' and no accessible extension method 'Menu1_MenuItemClick' accepting a first argument of type 'proactivemonitordashboard_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 Sep 2023 10:17:21,066 [18] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:17:40,200 [18] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WebAppForm.ProActiveMonitorDashboard.GetISDSystemStatus() in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 907
+   at WebAppForm.ProActiveMonitorDashboard.Page_Load(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+
+21 Sep 2023 10:19:59,716 [18] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:20:03,613 [41] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:20:18,843 [41] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WebAppForm.ProActiveMonitorDashboard.GetISDSystemStatus() in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 907
+   at WebAppForm.ProActiveMonitorDashboard.Page_Load(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+
+21 Sep 2023 10:22:22,227 [19] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:22:37,402 [19] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WebAppForm.ProActiveMonitorDashboard.GetISDSystemStatus() in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 907
+   at WebAppForm.ProActiveMonitorDashboard.Page_Load(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+
+21 Sep 2023 10:30:14,391 [12] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:30:14,407 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:30:29,616 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/ProActiveMonitorDashboard
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WebAppForm.ProActiveMonitorDashboard.GetISDSystemStatus() in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 907
+   at WebAppForm.ProActiveMonitorDashboard.Page_Load(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\ProActiveMonitorDashboard.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+
+21 Sep 2023 10:32:48,272 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:32:51,669 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:34:51,943 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:34:54,588 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:35:10,096 [6] INFO  
+http://localhost:1228/WebResource.axd?d=fqV81KWLWhVg-lLAb4IT617LRdkDp_rZRDkAt_g83s48qVCb0Iw9w-a0QZTPg17EW2Nez8zC-JpI3fy61Ii-KZehlGr1QAYXPhz0mc-nQ8s1&t=637029511449553488 /WebResource.axd localhost
+
+21 Sep 2023 10:35:17,920 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:35:29,834 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:35:38,274 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:35:40,621 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:40:35,541 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:40:38,193 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:42:23,875 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:42:30,365 [14] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:42:40,918 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:42:49,366 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:42:51,240 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:42:57,219 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:43:19,707 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:43:20,409 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:04,523 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:23,257 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:26,826 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:37,806 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:39,614 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:41,103 [16] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:42,725 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:47:48,301 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:48:56,417 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:48:59,052 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:52:10,256 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 10:52:12,906 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:52:43,513 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 10:52:52,876 [10] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:28:24,123 [31] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:30:38,843 [35] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:35:50,904 [35] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:36:26,501 [35] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:47:22,839 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 11:47:28,982 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:47:38,987 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:51:16,171 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 11:51:18,891 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:51:22,912 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:51:38,324 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:51:39,745 [8] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:54:21,368 [9] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 11:54:25,723 [10] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:54:49,931 [11] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:54:51,651 [12] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:54:54,362 [10] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:54:59,403 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:55:01,185 [12] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:55:03,772 [11] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:58:35,701 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:58:40,248 [8] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 11:58:50,414 [16] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:01:13,683 [10] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 12:01:16,396 [11] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:01:20,239 [12] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:03:52,245 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 12:03:54,843 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:04:18,723 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:06:46,323 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 12:06:48,997 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:06:53,027 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:06:55,444 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:06:57,851 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:14:50,666 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 12:14:53,283 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:15:08,235 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:15:32,092 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:15:35,453 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:15:41,123 [14] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:15:44,452 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:15:46,954 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:15:50,156 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:22:02,689 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 12:22:06,515 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:22:30,227 [5] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:24:57,835 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 12:25:00,482 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:25:04,634 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:25:17,107 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:25:26,721 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:26:07,819 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:31:35,922 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 12:31:38,608 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:32:13,874 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:32:17,118 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 12:32:18,929 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:18:00,088 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 13:18:02,981 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:31:10,153 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 13:31:12,793 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:31:27,563 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:31:29,813 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:31:33,092 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:32:53,837 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard.aspx /ProActiveMonitorDashboard.aspx localhost
+
+21 Sep 2023 13:32:56,441 [7] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:33:22,881 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:33:27,101 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:33:30,313 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:34:16,479 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:34:18,727 [6] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:34:20,428 [12] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:52:44,562 [22] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:52:45,852 [33] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:52:47,359 [21] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:53:36,947 [21] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+21 Sep 2023 13:56:01,735 [41] INFO  
+http://localhost:1228/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost

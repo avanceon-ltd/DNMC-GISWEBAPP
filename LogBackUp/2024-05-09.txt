@@ -1,0 +1,312 @@
+
+09 May 2024 08:46:14,836 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary.aspx /SCADALiveDataSummary.aspx localhost
+
+09 May 2024 08:46:23,098 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 08:47:23,583 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+09 May 2024 08:48:24,896 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 08:53:50,058 [12] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 10:30:45,673 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+09 May 2024 10:31:22,584 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+09 May 2024 10:31:34,660 [11] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+09 May 2024 10:52:59,965 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+09 May 2024 10:53:46,161 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 10:54:26,186 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 10:56:12,974 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 10:58:22,036 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 10:58:52,969 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 10:59:22,414 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 10:59:25,012 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary.aspx?hsitename=PS30 /SCADALiveDataSummary.aspx localhost
+
+09 May 2024 10:59:28,629 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:00:05,474 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:00:41,725 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:01:03,425 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:01:22,280 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:01:38,644 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:02:56,942 [9] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:07:12,800 [9] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:07:31,295 [13] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:08:14,076 [11] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:08:32,944 [9] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:08:46,257 [20] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:09:09,354 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:09:49,605 [13] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:10:17,284 [18] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:10:51,243 [11] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:11:16,223 [12] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:23:14,434 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 11:23:21,770 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:23:41,513 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:24:01,810 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:24:24,820 [14] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:25:25,381 [13] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:25:39,305 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:27:39,839 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 11:41:58,109 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 11:42:08,390 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:45:58,631 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 11:45:58,723 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+09 May 2024 11:45:59,023 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:53:30,249 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 11:53:47,593 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:54:00,309 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS40 /SCADALiveDataSummary localhost
+
+09 May 2024 11:55:06,823 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS70 /SCADALiveDataSummary localhost
+
+09 May 2024 11:55:22,535 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS54 /SCADALiveDataSummary localhost
+
+09 May 2024 11:55:25,690 [16] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS54 /SCADALiveDataSummary localhost
+
+09 May 2024 11:55:29,886 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS70 /SCADALiveDataSummary localhost
+
+09 May 2024 11:55:33,132 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS40 /SCADALiveDataSummary localhost
+
+09 May 2024 11:55:37,269 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:57:21,350 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 11:57:32,222 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:57:57,454 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:58:23,264 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 11:58:44,953 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:14:04,589 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 13:14:16,591 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:14:41,403 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:15:15,641 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:16:12,372 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:17:33,677 [18] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:22:31,360 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 13:22:39,420 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:24:55,534 [9] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 13:24:55,622 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:26:54,885 [9] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:27:13,679 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:27:17,956 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS40 /SCADALiveDataSummary localhost
+
+09 May 2024 13:27:21,476 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS70 /SCADALiveDataSummary localhost
+
+09 May 2024 13:27:24,585 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:28:23,575 [11] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:35:42,966 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 13:35:50,933 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:37:32,023 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 13:37:40,499 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:38:21,574 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:39:36,224 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:39:44,648 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:39:55,828 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:40:14,614 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:40:29,575 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:41:10,732 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:42:18,993 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 13:44:31,848 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:06:05,801 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 14:06:05,852 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:06:44,562 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:07:16,817 [8] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:08:53,573 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:09:26,148 [10] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:09:42,694 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:09:57,325 [6] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:11:00,937 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:11:55,493 [7] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:12:14,717 [11] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:14:06,521 [11] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:17:51,507 [12] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost
+
+09 May 2024 14:23:25,055 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+09 May 2024 14:23:49,067 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary?hsitename=PS30 /SCADALiveDataSummary localhost

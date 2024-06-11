@@ -1,0 +1,187 @@
+
+21 May 2023 18:12:49,883 [5] INFO  
+http://localhost:1228/DuplicateComplaints.aspx /DuplicateComplaints.aspx localhost
+
+21 May 2023 18:12:55,387 [5] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints.aspx
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(121): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:13:16,511 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:13:17,881 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(121): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:13:36,585 [5] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:13:42,684 [5] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(121): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:14:28,859 [9] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:14:31,083 [9] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(121): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:16:12,600 [9] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:16:17,342 [9] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(122): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:20:12,631 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:20:16,453 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(122): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:30:53,966 [18] INFO  
+http://localhost:1228/assets /assets localhost
+
+21 May 2023 18:31:11,645 [18] INFO  
+http://localhost:1228/ / localhost
+
+21 May 2023 18:31:19,595 [18] INFO  
+http://localhost:1228/AssetDetail.aspx /AssetDetail.aspx localhost
+
+21 May 2023 18:31:21,076 [21] INFO  
+http://localhost:1228/AssetDetail /AssetDetail localhost
+
+21 May 2023 18:31:24,839 [18] INFO  
+http://localhost:1228/ / localhost
+
+21 May 2023 18:31:32,223 [18] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:31:35,657 [18] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(122): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:46:02,496 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:46:06,441 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(122): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:46:59,762 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:47:03,451 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(122): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:48:06,664 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:48:08,879 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateComplaints
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateComplaints.aspx(122): error CS1061: 'duplicatecomplaints_aspx' does not contain a definition for 'btnAdd_Click' and no accessible extension method 'btnAdd_Click' accepting a first argument of type 'duplicatecomplaints_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+21 May 2023 18:48:37,154 [6] INFO  
+http://localhost:1228/ / localhost
+
+21 May 2023 18:48:52,950 [6] INFO  
+http://localhost:1228/ / localhost
+
+21 May 2023 18:48:55,629 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:49:14,746 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:49:39,619 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:52:32,806 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:53:41,374 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:54:58,946 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:55:13,648 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:55:35,020 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:56:27,531 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:56:51,456 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:58:16,462 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:58:32,249 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:58:46,797 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:59:03,660 [14] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 18:59:15,776 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 19:00:58,172 [8] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 19:01:49,952 [8] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 19:02:55,438 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 19:04:36,394 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 19:04:53,953 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 19:06:55,240 [6] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost
+
+21 May 2023 19:07:53,397 [7] INFO  
+http://localhost:1228/DuplicateComplaints /DuplicateComplaints localhost

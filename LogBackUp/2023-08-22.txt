@@ -1,0 +1,329 @@
+
+22 Aug 2023 17:18:41,838 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs.aspx /ECCWOOwnersKPIs.aspx localhost
+
+22 Aug 2023 17:18:48,444 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:21:18,482 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:24:35,555 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:26:13,464 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:27:49,476 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:28:49,046 [7] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:35:26,746 [8] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:35:32,366 [8] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: There can be only one 'page' directive.
+Inner Exception: System.Web.HttpParseException (0x80004005): There can be only one 'page' directive. ---> System.Web.HttpException (0x80004005): There can be only one 'page' directive.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.PageParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Aug 2023 17:36:43,836 [8] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:36:46,229 [8] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: There can be only one 'page' directive.
+Inner Exception: System.Web.HttpParseException (0x80004005): There can be only one 'page' directive. ---> System.Web.HttpException (0x80004005): There can be only one 'page' directive.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.PageParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Aug 2023 17:38:29,935 [8] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:44:28,184 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:46:55,996 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:48:15,561 [7] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:49:24,098 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:49:26,505 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: Content ('</table>') does not match any properties within a 'System.Web.UI.WebControls.Repeater', make sure it is well-formed.
+Inner Exception: System.Web.HttpParseException (0x80004005): Content ('</table>') does not match any properties within a 'System.Web.UI.WebControls.Repeater', make sure it is well-formed. ---> System.Web.HttpException (0x80004005): Content ('</table>') does not match any properties within a 'System.Web.UI.WebControls.Repeater', make sure it is well-formed.
+   at System.Web.UI.ControlBuilder.AppendLiteralString(String s)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+   at System.Web.UI.TemplateParser.MaybeTerminateControl(String tagName, Match match)
+   at System.Web.UI.TemplateParser.ProcessEndTag(Match match)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Aug 2023 17:50:33,040 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 17:51:24,998 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 18:56:31,302 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 18:56:34,954 [5] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ECCWOOwnersKPIs.aspx(175): error CS1061: 'eccwoownerskpis_aspx' does not contain a definition for 'sqlRepeaterKPI_Load' and no accessible extension method 'sqlRepeaterKPI_Load' accepting a first argument of type 'eccwoownerskpis_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+22 Aug 2023 18:57:29,763 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 18:57:37,089 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ECCWOOwnersKPIs.aspx(175): error CS1061: 'eccwoownerskpis_aspx' does not contain a definition for 'sqlRepeaterKPI_Load' and no accessible extension method 'sqlRepeaterKPI_Load' accepting a first argument of type 'eccwoownerskpis_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+22 Aug 2023 18:58:28,192 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 18:58:29,704 [5] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\ECCWOOwnersKPIs.aspx(175): error CS1061: 'eccwoownerskpis_aspx' does not contain a definition for 'sqlRepeaterKPI_Load' and no accessible extension method 'sqlRepeaterKPI_Load' accepting a first argument of type 'eccwoownerskpis_aspx' could be found (are you missing a using directive or an assembly reference?)
+Inner Exception: 
+
+22 Aug 2023 18:59:16,172 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 18:59:22,215 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 18:59:27,387 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:01:27,752 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:03:11,022 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:04:53,696 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:05:08,017 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:06:09,982 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:06:20,498 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:30:12,665 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:30:19,967 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:30:35,146 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:30:43,313 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:33:05,822 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:35:17,735 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:35:55,254 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:36:09,322 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:36:48,471 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:37:34,520 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:37:49,815 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:37:53,088 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:38:40,162 [15] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:38:41,990 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:41:07,836 [10] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:41:49,758 [13] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:43:26,045 [12] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:43:39,231 [14] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:44:01,124 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:44:28,075 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:45:09,012 [14] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:45:33,327 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:45:42,380 [18] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:45:52,780 [15] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:46:36,720 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:46:46,518 [12] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:47:19,966 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:47:20,929 [11] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: The server tag is not well formed.
+Inner Exception: System.Web.HttpException (0x80004005): The server tag is not well formed.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.DetectSpecialServerTagError(String text, Int32 textPos)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Aug 2023 19:48:52,388 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:48:53,335 [11] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: The server tag is not well formed.
+Inner Exception: System.Web.HttpException (0x80004005): The server tag is not well formed.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.DetectSpecialServerTagError(String text, Int32 textPos)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Aug 2023 19:49:30,684 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:49:31,574 [11] ERROR 
+IP: ::1
+URL: http://localhost:1228/ECCWOOwnersKPIs
+Error Occured
+Message: The server tag is not well formed.
+Inner Exception: System.Web.HttpException (0x80004005): The server tag is not well formed.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.DetectSpecialServerTagError(String text, Int32 textPos)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+22 Aug 2023 19:50:02,804 [15] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:50:13,379 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:50:25,699 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:50:33,083 [11] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:50:56,897 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:51:18,558 [12] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:52:20,106 [7] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:55:43,996 [14] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 19:57:36,692 [8] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:14:48,189 [5] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:16:56,837 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:17:46,239 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:19:57,457 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:20:07,735 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:22:12,970 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:22:34,877 [6] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:22:35,804 [9] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:22:36,468 [8] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost
+
+22 Aug 2023 20:25:22,530 [7] INFO  
+http://localhost:1228/ECCWOOwnersKPIs /ECCWOOwnersKPIs localhost

@@ -1,0 +1,33 @@
+
+23 Nov 2022 10:27:20,467 [5] INFO  
+http://localhost:1228/GridGateway.aspx /GridGateway.aspx localhost
+
+23 Nov 2022 10:27:29,084 [7] INFO  
+http://localhost:1228/GridGateway /GridGateway localhost
+
+23 Nov 2022 10:27:29,269 [8] INFO  
+http://localhost:1228/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZJbXSJv9hdhP4u7CLQ91QpugvjeCSXUuiY21GoeY3IscocvsK0ZYkPrBt4-65HPqpA2&t=637029511449553488 /WebResource.axd localhost
+
+23 Nov 2022 10:27:29,270 [5] INFO  
+http://localhost:1228/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQm3YBt7hh91KRgcXlmW2Fr0FAOYPv3j_3y8X7ATbGyO4_6bY3ANTBRtB_Jwt_sWPWP2Z2otBZKiCAfz87qHGcXJ_-jJQAAPChBxtp6UFSfp1GGEHZZ9xtvnrEZJIG_QLtaEGy0xXiuwl_pIwUeMAB901&t=10c151ff /ScriptResource.axd localhost
+
+23 Nov 2022 10:27:29,272 [7] INFO  
+http://localhost:1228/ScriptResource.axd?d=JnUc-DEDOM5KzzVKtsL1tRc7LVXCLGgN3joaKkW9oHA820AgvnHyMabPqpo4AVBp6CgfctFpyq5lhn5VEqEJcOryc0clUtd2UEKBFTPgfgH62GmfJIXl8Nn768ScrDSxYdgbFpxdnzYXP-eMlVOSESuo0MeoSFJL5XWQqOxSQb-pN9-pxWVJrQfQzrE5AS850&t=10c151ff /ScriptResource.axd localhost
+
+23 Nov 2022 10:27:31,052 [7] INFO  
+http://localhost:1228/GridGateway.aspx?pagename=cssr&id=22112022-0020 /GridGateway.aspx localhost
+
+23 Nov 2022 10:27:31,066 [5] INFO  
+http://localhost:1228/GridGateway?pagename=cssr&id=22112022-0020 /GridGateway localhost
+
+23 Nov 2022 10:27:39,162 [5] INFO  
+http://localhost:1228/GridGateway?pagename=cssr&id=22112022-0020 /GridGateway localhost
+
+23 Nov 2022 10:27:56,562 [7] INFO  
+http://localhost:1228/GridGateway?pagename=CSSR&id=22112022-0020 /GridGateway localhost
+
+23 Nov 2022 10:27:57,290 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail.aspx?ID=22112022-0020&User= /CRMSComplaintDetail.aspx localhost
+
+23 Nov 2022 10:27:59,173 [7] INFO  
+http://localhost:1228/CRMSComplaintDetail?ID=22112022-0020&User= /CRMSComplaintDetail localhost

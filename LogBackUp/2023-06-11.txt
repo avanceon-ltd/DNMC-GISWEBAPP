@@ -1,0 +1,724 @@
+
+11 Jun 2023 09:46:04,403 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:46:29,838 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail.aspx?crmsid=07062023-0007 /CRMSComplaintDetail.aspx localhost
+
+11 Jun 2023 09:46:29,874 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?crmsid=07062023-0007 /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:46:33,208 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=07062023-0007 /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:47:50,946 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:48:02,260 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:49:28,621 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:49:36,605 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:50:31,903 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 09:50:36,163 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 09:50:49,095 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 09:50:49,607 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T09:50:49" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319285</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10319016</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: POQU5xSfVp
+
+11 Jun 2023 09:51:04,774 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 09:51:08,382 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:28:01,906 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 10:29:10,872 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=17042023-0001 /CRMSComplaintDetail localhost
+
+11 Jun 2023 10:29:21,964 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:30:10,179 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 10:30:15,903 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:30:30,203 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.DuplicateSRAssignment.Page_Load(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 26
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+11 Jun 2023 10:30:45,521 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:34:45,595 [5] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 10:34:53,738 [5] INFO  
+http://localhost:1228/ / localhost
+
+11 Jun 2023 10:35:02,456 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:35:20,352 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:35:26,392 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:35:33,141 [5] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:36:06,497 [9] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 10:36:17,706 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:37:14,721 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:37:25,125 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:39:06,306 [6] INFO  
+http://localhost:1228/CRMSComplaintDetail /CRMSComplaintDetail localhost
+
+11 Jun 2023 10:40:02,872 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:40:59,927 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:41:09,127 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:42:30,298 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=20032023-0003 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:42:45,055 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=28032023-0009 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:42:55,321 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:43:16,984 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=02042023-0007 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:43:37,490 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=02042023-0007 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:43:55,926 [22] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=02042023-0007 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:47:14,567 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:47:21,939 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:47:34,799 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=02042023-0007 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:48:27,931 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:48:33,634 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=17042023-0001 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:48:49,766 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=28032023-0009 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:48:57,751 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=07062023-0007 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:49:28,941 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=07062023-0007 /DuplicateSRAssignment localhost
+
+11 Jun 2023 10:50:01,838 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=07062023-0007 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:15:45,125 [10] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:15:58,661 [10] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:16:28,965 [10] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:16:38,389 [10] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:16:38" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319290</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>26032023-0012</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: UnER84LI2Z
+
+11 Jun 2023 11:16:41,065 [10] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: UnER84LI2Z
+
+11 Jun 2023 11:16:56,392 [10] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at WebAppForm.App_Code.ESBServices.UpdateLogRequest(String xml, String jsonText, String WONUM, Int32 ID, RequestType requestType, String ExternalRefID, String ServiceOperation) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1293
+   at WebAppForm.App_Code.ESBServices.CatchException(Exception wex, String oprs, String woSrId, RequestType requestType, String externalRefID, String xml) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1246
+   at WebAppForm.App_Code.ESBServices.ECCDDuplicateSR(ServiceRequest serviceRequest) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1029
+   at WebAppForm.DuplicateSRAssignment.btnDuplicateSR_Click(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 138
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+11 Jun 2023 11:17:21,119 [12] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:17:25,848 [10] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:17:37,352 [10] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:20:11,091 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:20:21,475 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment.aspx?crmsid=26032023-0012 /DuplicateSRAssignment.aspx localhost
+
+11 Jun 2023 11:20:21,513 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:20:27,274 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:20:31,230 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:20:31" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319291</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: 7CKc4hTTDE
+
+11 Jun 2023 11:20:33,752 [6] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: 7CKc4hTTDE
+
+11 Jun 2023 11:20:47,567 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at WebAppForm.App_Code.ESBServices.UpdateLogRequest(String xml, String jsonText, String WONUM, Int32 ID, RequestType requestType, String ExternalRefID, String ServiceOperation) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1293
+   at WebAppForm.App_Code.ESBServices.CatchException(Exception wex, String oprs, String woSrId, RequestType requestType, String externalRefID, String xml) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1246
+   at WebAppForm.App_Code.ESBServices.ECCDDuplicateSR(ServiceRequest serviceRequest) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1029
+   at WebAppForm.DuplicateSRAssignment.btnDuplicateSR_Click(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 140
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+11 Jun 2023 11:21:25,051 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:21:28,603 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:23:15,012 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:23:15,032 [7] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:23:26,547 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:23:35,562 [7] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:23:35" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319291</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10318986</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: jStjo3Kl98
+
+11 Jun 2023 11:23:52,467 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:23:54,599 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:23:59,829 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:24:06,617 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:24:15,827 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:24:20,873 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:24:34,186 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:24:40,122 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:24:44,490 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:25:25,284 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:25:50,401 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:25:50" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319291</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10318986</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: FG4jvttC5d
+
+11 Jun 2023 11:25:52,850 [6] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: FG4jvttC5d
+
+11 Jun 2023 11:25:57,957 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at WebAppForm.App_Code.ESBServices.UpdateLogRequest(String xml, String jsonText, String WONUM, Int32 ID, RequestType requestType, String ExternalRefID, String ServiceOperation) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1293
+   at WebAppForm.App_Code.ESBServices.CatchException(Exception wex, String oprs, String woSrId, RequestType requestType, String externalRefID, String xml) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1246
+   at WebAppForm.App_Code.ESBServices.ECCDDuplicateSR(ServiceRequest serviceRequest) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1029
+   at WebAppForm.DuplicateSRAssignment.btnDuplicateSR_Click(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 140
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+11 Jun 2023 11:26:21,325 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:26:28,957 [19] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:29:03,206 [19] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:27:25" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319291</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10318986</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: IYMf3vLfnO
+
+11 Jun 2023 11:29:43,657 [19] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: IYMf3vLfnO
+
+11 Jun 2023 11:33:00,185 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:33:04,136 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:33:11,715 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:33:18,811 [6] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:33:35,128 [6] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:33:34" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319291</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10318986</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: r9eKs0L5nw
+
+11 Jun 2023 11:33:37,840 [6] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: r9eKs0L5nw
+
+11 Jun 2023 11:33:49,459 [6] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at WebAppForm.App_Code.ESBServices.UpdateLogRequest(String xml, String jsonText, String WONUM, Int32 ID, RequestType requestType, String ExternalRefID, String ServiceOperation) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1293
+   at WebAppForm.App_Code.ESBServices.CatchException(Exception wex, String oprs, String woSrId, RequestType requestType, String externalRefID, String xml) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1246
+   at WebAppForm.App_Code.ESBServices.ECCDDuplicateSR(ServiceRequest serviceRequest) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1029
+   at WebAppForm.DuplicateSRAssignment.btnDuplicateSR_Click(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 141
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+11 Jun 2023 11:36:43,697 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:36:43,779 [9] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:36:56,703 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:37:15,281 [8] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:37:09" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319291</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10318986</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: tVOXH0XnXp
+
+11 Jun 2023 11:37:17,896 [8] INFO  
+IP: ::1
+The remote server returned an error: (500) Internal Server Error.
+External Ref ID: tVOXH0XnXp
+
+11 Jun 2023 11:37:27,309 [8] ERROR 
+IP: ::1
+URL: http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at WebAppForm.App_Code.ESBServices.UpdateLogRequest(String xml, String jsonText, String WONUM, Int32 ID, RequestType requestType, String ExternalRefID, String ServiceOperation) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1293
+   at WebAppForm.App_Code.ESBServices.CatchException(Exception wex, String oprs, String woSrId, RequestType requestType, String externalRefID, String xml) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1246
+   at WebAppForm.App_Code.ESBServices.ECCDDuplicateSR(ServiceRequest serviceRequest) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\BusinessLogic\ESBServices.cs:line 1029
+   at WebAppForm.DuplicateSRAssignment.btnDuplicateSR_Click(Object sender, EventArgs e) in C:\Users\ahtasham.ali\Desktop\Ahtasham\WebApp\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 153
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+11 Jun 2023 11:37:49,332 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:37:56,110 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:38:17,730 [8] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T11:38:02" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319290</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10318986</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: 0YVkZi9O6Z
+
+11 Jun 2023 11:38:24,985 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:38:27,099 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:38:33,625 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 11:48:04,299 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 11:51:13,952 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 11:54:27,700 [27] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 11:56:10,635 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 11:57:56,003 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 12:53:26,580 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 12:53:36,716 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 12:54:09,446 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 12:54:09,519 [8] INFO  
+IP: ::1
+DuplicateSR request: 
+<?xml version="1.0" encoding="UTF-8"?><esb:SyncEXT_SRDUP xmlns:esb="http://www.ibm.com/maximo" baseLanguage="EN" creationDateTime="2023-06-11T12:54:09" maximoVersion="7 6 20141117-2230 V7600-218" messageID="0" transLanguage="EN">
+  <esb:EXT_SRDUPSet>
+    <esb:SR>
+      <esb:TICKETID>10319292</esb:TICKETID>
+      <esb:EXT_DEPARTMENT>DRAINAGE</esb:EXT_DEPARTMENT>
+      <esb:STATUS>DUPLICATE</esb:STATUS>
+      <esb:CLASS>SR</esb:CLASS>
+      <esb:RELATEDRECORD>
+        <esb:RELATEDRECCLASS>SR</esb:RELATEDRECCLASS>
+        <esb:RELATEDRECKEY>10318986</esb:RELATEDRECKEY>
+      </esb:RELATEDRECORD>
+      <esb:TKSTATUS>
+        <esb:STATUS>DUPLICATE</esb:STATUS>
+        <esb:CHANGEBY>DNMC</esb:CHANGEBY>
+        <esb:TKSTATUSID>-1</esb:TKSTATUSID>
+      </esb:TKSTATUS>
+    </esb:SR>
+  </esb:EXT_SRDUPSet>
+</esb:SyncEXT_SRDUP>
+External Ref ID: hbksmcHEs6
+
+11 Jun 2023 12:54:15,759 [53] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 12:54:19,387 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 12:54:30,197 [8] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 12:54:35,579 [62] INFO  
+http://localhost:1228/DuplicateSRAssignment?crmsid=26032023-0012 /DuplicateSRAssignment localhost
+
+11 Jun 2023 12:54:47,260 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 12:56:16,718 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 12:59:08,324 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 12:59:20,120 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 12:59:36,727 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 12:59:58,264 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost
+
+11 Jun 2023 13:00:23,442 [8] INFO  
+http://localhost:1228/CRMSComplaintDetail?id=28032023-0016 /CRMSComplaintDetail localhost

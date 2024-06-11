@@ -1,0 +1,15 @@
+
+10 May 2024 21:55:24,949 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+10 May 2024 22:07:12,673 [9] INFO  
+http://localhost:1229/SCADALiveDataSummary.aspx /SCADALiveDataSummary.aspx localhost
+
+10 May 2024 22:07:15,600 [9] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+10 May 2024 22:18:21,857 [5] INFO  
+http://localhost:1229/SCADALiveDataSummary /SCADALiveDataSummary localhost
+
+10 May 2024 22:19:00,563 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost

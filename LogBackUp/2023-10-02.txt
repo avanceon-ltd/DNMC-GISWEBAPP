@@ -1,0 +1,1147 @@
+
+02 Oct 2023 07:44:21,744 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 07:44:45,969 [5] ERROR 
+IP: ::1
+URL: http://localhost:1229/ProActiveMonitorDashboard
+Error Occured
+Message: Request is not available in this context
+Inner Exception: 
+
+02 Oct 2023 07:45:55,097 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=%22HELLO%22 /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 07:46:07,499 [5] ERROR 
+IP: ::1
+URL: http://localhost:1229/ProActiveMonitorDashboard?auth="HELLO"
+Error Occured
+Message: Request is not available in this context
+Inner Exception: 
+
+02 Oct 2023 07:51:07,752 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=%22HELLO%22 /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 07:57:55,833 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 07:59:10,832 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 07:59:10,837 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 07:59:11,080 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:01:59,751 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=%22Hello%22 /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:16:29,023 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:17:02,688 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:17:02,694 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:17:02,935 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:17:12,272 [6] INFO  
+http://localhost:1229/YourPage.aspx?encryptedKey=ut81mtxv0Y4jd%2BOOWy6J86RdRIZV /YourPage.aspx localhost
+
+02 Oct 2023 08:17:12,312 [6] ERROR 
+IP: ::1
+URL: http://localhost:1229/YourPage.aspx?encryptedKey=ut81mtxv0Y4jd%2BOOWy6J86RdRIZV
+Error Occured
+Message: The file '/YourPage.aspx' does not exist.
+Inner Exception: 
+
+02 Oct 2023 08:17:12,546 [7] INFO  
+http://localhost:1229/YourPage?encryptedKey=ut81mtxv0Y4jd%2BOOWy6J86RdRIZV /YourPage localhost
+
+02 Oct 2023 08:27:03,379 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:19,080 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:19,085 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:19,332 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:19,524 [8] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=%2BC0PBIj%2B6IUvcCsATB%2Fh2NWnomUw /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:19,559 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=%2BC0PBIj%2B6IUvcCsATB%2Fh2NWnomUw /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:28,931 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:28,938 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:29,191 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:29,269 [10] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=BJA6oGTix1UKm9%2B%2BHQr77tGqfhk%2B /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:29,281 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=BJA6oGTix1UKm9%2B%2BHQr77tGqfhk%2B /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:33,396 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:33,403 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:33,628 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:33,699 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=5PaNlvnKdMkPePUS1fTcCWS%2BQfDW /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:33,713 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=5PaNlvnKdMkPePUS1fTcCWS%2BQfDW /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:36,651 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:36,658 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:36,994 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:37,059 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=Vgwu7J33DKgvTFoAM%2FVqD%2BAqOZA5 /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:37,083 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=Vgwu7J33DKgvTFoAM%2FVqD%2BAqOZA5 /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:38,418 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:38,426 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:38,607 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:38,676 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=P6UipoCfdOWxcmgoRnIZzyBxARUB /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:38,694 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=P6UipoCfdOWxcmgoRnIZzyBxARUB /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:40,248 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:40,255 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:40,483 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:40,558 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=ZjBxzqGyjt2qp1N5YyswGVXM8Kr5 /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:40,573 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=ZjBxzqGyjt2qp1N5YyswGVXM8Kr5 /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:47,935 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:47,942 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:48,121 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:48,198 [12] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=QzTo34bO%2BNh2waUhR50Gefzx00xz /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:48,216 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=QzTo34bO%2BNh2waUhR50Gefzx00xz /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:51,624 [7] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:51,632 [7] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:51,836 [7] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:51,913 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=c%2FW3HXNtnBwZ3F77v91uzFtsaTDz /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:51,930 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=c%2FW3HXNtnBwZ3F77v91uzFtsaTDz /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:54,198 [7] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:54,206 [7] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:54,455 [7] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:54,527 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=0kShLkmV6NXv%2Fi1rktMkMEOx1GQG /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:54,545 [8] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=0kShLkmV6NXv%2Fi1rktMkMEOx1GQG /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:27:58,941 [8] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:27:58,948 [8] INFO  
+
+ Table: 
+
+02 Oct 2023 08:27:59,164 [8] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:27:59,235 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=RmxhM0X559R5a04Uv2g%2FOIjfvN24 /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:27:59,256 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=RmxhM0X559R5a04Uv2g%2FOIjfvN24 /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:28:03,104 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:28:03,113 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:28:03,347 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:28:03,418 [10] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=AoK23XHF%2FjFnGdJyg8eT5qvkldr8 /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:28:03,436 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=AoK23XHF%2FjFnGdJyg8eT5qvkldr8 /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:28:08,400 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:28:08,408 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:28:08,620 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:28:08,687 [8] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=faIDCGmmaMzVaWu7q51TUweU%2FJ%2Bx /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:28:08,704 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=faIDCGmmaMzVaWu7q51TUweU%2FJ%2Bx /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:28:10,693 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:28:10,700 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:28:10,914 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:28:10,986 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=EMou%2FaLlFYD7HZ62mD3z6niJWhXT /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:28:11,004 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=EMou%2FaLlFYD7HZ62mD3z6niJWhXT /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:28:13,142 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:28:13,149 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:28:13,370 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:28:13,440 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=bpjUpq%2FrOMJmjMIrQrfE1ALLQQmW /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:28:13,455 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=bpjUpq%2FrOMJmjMIrQrfE1ALLQQmW /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:28:15,496 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:28:15,503 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:28:15,732 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:28:15,805 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=GAoxcXjP2F%2B7HBsPVFVL4EFATUov /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:28:15,822 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=GAoxcXjP2F%2B7HBsPVFVL4EFATUov /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:29:30,464 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:30:46,010 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:30:46,017 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 08:30:46,257 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:30:52,523 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=F5PuKtFDlbceuPsN%2Bbj5xBVTJM61JDGS4g%3D%3D /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:30:52,563 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=F5PuKtFDlbceuPsN%2Bbj5xBVTJM61JDGS4g%3D%3D /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:30:52,731 [7] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:30:52,739 [7] INFO  
+
+ Table: 
+
+02 Oct 2023 08:30:52,957 [7] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:31:58,640 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=B%2BVKxH0PhQU0t9REOncxcxq5QcFHkYtHNA%3D%3D /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:31:58,661 [8] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=B%2BVKxH0PhQU0t9REOncxcxq5QcFHkYtHNA%3D%3D /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:31:58,825 [8] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:31:58,833 [8] INFO  
+
+ Table: 
+
+02 Oct 2023 08:31:59,045 [8] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:32:02,990 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard.aspx?encryptedKey=j3qoNdJu8jmumxFUETbH8B0ozfdKIRtitg%3D%3D /ProActiveMonitorDashboard.aspx localhost
+
+02 Oct 2023 08:32:03,010 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?encryptedKey=j3qoNdJu8jmumxFUETbH8B0ozfdKIRtitg%3D%3D /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 08:32:03,200 [7] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 08:32:03,207 [7] INFO  
+
+ Table: 
+
+02 Oct 2023 08:32:03,414 [7] INFO  
+Email Send Successfully!
+
+02 Oct 2023 08:59:34,728 [9] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:00:03,525 [9] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 09:00:03,532 [9] INFO  
+
+ Table: 
+
+02 Oct 2023 09:00:03,773 [9] INFO  
+Email Send Successfully!
+
+02 Oct 2023 09:00:54,256 [11] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=B+VKxH0PhQU0t9REOncxcxq5QcFHkYtHNA== /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:02:26,392 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:02:57,031 [5] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 09:02:57,038 [5] INFO  
+
+ Table: 
+
+02 Oct 2023 09:02:57,305 [5] INFO  
+Email Send Successfully!
+
+02 Oct 2023 09:03:21,762 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=B+VKxH0PhQU0t9REOncxcxq5QcFHkYtHNA== /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:10:14,875 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:10:29,133 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 09:10:29,141 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 09:10:29,453 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 09:10:47,405 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:10:50,022 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 09:10:50,031 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 09:10:50,165 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 09:11:17,502 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=B+VKxH0PhQU0t9REOncxcxq5QcFHkYtHNA== /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:22:07,133 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:22:36,812 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 09:22:36,820 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 09:22:37,071 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 09:22:58,035 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw= /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 09:23:15,371 [6] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 09:23:15,379 [6] INFO  
+
+ Table: 
+
+02 Oct 2023 09:23:15,594 [6] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:03:56,721 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:04:25,625 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw= /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:04:36,069 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:04:48,872 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:00,638 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:07,079 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:16,578 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:30,779 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:39,098 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:44,081 [10] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:45,898 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:05:47,698 [7] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:10:47,852 [8] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:15:48,005 [9] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:15:48,068 [9] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:15:48,077 [9] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>3</td><td>10/2/2023 10:14:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>15</td><td>10/2/2023 10:14:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>21</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>122</td><td>10/2/2023 10:13:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>20</td><td>10/2/2023 10:14:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>0</td><td>10/2/2023 10:15:00 AM</td></tr></table>
+
+02 Oct 2023 10:15:48,273 [9] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:15:58,945 [9] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:15:59,019 [9] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:15:59,025 [9] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>3</td><td>10/2/2023 10:14:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>15</td><td>10/2/2023 10:14:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>21</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>122</td><td>10/2/2023 10:13:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>20</td><td>10/2/2023 10:14:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>0</td><td>10/2/2023 10:15:00 AM</td></tr></table>
+
+02 Oct 2023 10:15:59,204 [9] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:20:59,369 [26] INFO  
+http://localhost:1229/ProActiveMonitorDashboard?auth=ZK01wUVwctgsbPpdhB2yTlciX3OXt1KBJQcgz2l5vVw%3d /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:20:59,419 [26] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:20:59,425 [26] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 10:19:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>20</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>14</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>349</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 10:20:00 AM</td></tr></table>
+
+02 Oct 2023 10:20:59,574 [26] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:21:49,556 [26] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:21:49,582 [26] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:21:49,589 [26] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 10:19:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>20</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>14</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>349</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 10:20:00 AM</td></tr></table>
+
+02 Oct 2023 10:21:49,734 [26] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:21:55,278 [26] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:21:55,335 [26] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:21:55,341 [26] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 10:19:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>20</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>14</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>349</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 10:20:00 AM</td></tr></table>
+
+02 Oct 2023 10:21:55,517 [26] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:21:58,804 [26] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:21:58,855 [26] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:21:58,862 [26] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 10:19:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>20</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>14</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>349</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 10:20:00 AM</td></tr></table>
+
+02 Oct 2023 10:21:59,035 [26] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:22:00,917 [34] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:22:00,959 [34] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:22:00,965 [34] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 10:19:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>20</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>14</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>349</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 10:20:00 AM</td></tr></table>
+
+02 Oct 2023 10:22:01,107 [34] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:22:02,299 [26] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:22:02,327 [26] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:22:02,334 [26] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 10:19:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>20</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>14</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>349</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 10:20:00 AM</td></tr></table>
+
+02 Oct 2023 10:22:02,503 [26] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:22:03,687 [34] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:22:03,711 [34] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 10:22:03,717 [34] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>EAMS - Attachment - 30 Minutes</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>36</td><td>10/2/2023 9:00:02 AM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 10:19:40 AM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>20</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>48</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>14</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>30</td><td>10/2/2023 10:10:00 AM</td></tr><tr><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>349</td><td>10/2/2023 10:15:00 AM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 10:19:00 AM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 10:20:00 AM</td></tr></table>
+
+02 Oct 2023 10:22:03,896 [34] INFO  
+Email Send Successfully!
+
+02 Oct 2023 10:27:04,022 [24] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:31:21,788 [38] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:32:02,764 [33] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:37:02,883 [36] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 10:38:17,329 [40] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:25:02,150 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:25:14,101 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:25:14,337 [5] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 12:25:14,343 [5] INFO  
+
+ Table: 
+
+02 Oct 2023 12:25:16,210 [5] INFO  
+Email Send Successfully!
+
+02 Oct 2023 12:45:59,867 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:46:15,798 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:49:44,556 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:49:53,088 [6] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:49:58,575 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:50:02,142 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:50:03,853 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:51:57,695 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:51:59,911 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:52:02,003 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:52:03,786 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:52:05,832 [5] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 12:57:05,948 [8] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:02:06,058 [9] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:07:06,175 [17] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:09:55,826 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:10:19,268 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:10:19,325 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:10:19,333 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:10:19,436 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:10:28,916 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:10:55,512 [21] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:10:55,535 [21] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:10:55,542 [21] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:10:55,718 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:10:55,725 [15] INFO  
+
+ Table: 
+
+02 Oct 2023 13:10:55,747 [21] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:10:55,934 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:10:55,953 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:10:55,960 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:10:56,138 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:03,191 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:11:03,239 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:03,246 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:11:03,400 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:05,695 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:11:05,826 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:05,833 [15] INFO  
+
+ Table: 
+
+02 Oct 2023 13:11:06,078 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:06,857 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:06,864 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:11:06,985 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:37,372 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:11:37,401 [18] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:37,408 [18] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:11:37,586 [18] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:39,755 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:11:39,889 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:39,897 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:11:40,015 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:55,356 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:11:55,378 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:55,385 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:11:55,478 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:59,580 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:11:59,713 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:59,720 [15] INFO  
+
+ Table: 
+
+02 Oct 2023 13:11:59,927 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:11:59,946 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:11:59,952 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:12:00,130 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:12:09,280 [18] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:12:09,306 [18] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:12:09,313 [18] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:12:09,504 [18] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:12:39,576 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:12:39,602 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:12:39,609 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:12:39,785 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:13:53,066 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:13:53,093 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:13:53,100 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:13:53,284 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:14:08,696 [18] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:14:08,720 [18] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:14:08,726 [18] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:14:08,904 [18] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:14:23,068 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:14:23,092 [18] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:14:23,099 [18] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:14:23,282 [18] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:14:37,118 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:14:37,144 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:14:37,151 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>2</td><td>10/2/2023 1:09:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>18</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>43</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:05:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>22</td><td>10/2/2023 1:09:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>17</td><td>10/2/2023 1:10:00 PM</td></tr></table>
+
+02 Oct 2023 13:14:37,325 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:15:24,607 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:15:24,672 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:15:24,679 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>7</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>32</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>26</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>31</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:15:00 PM</td></tr></table>
+
+02 Oct 2023 13:15:24,819 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:15:45,998 [18] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:15:46,049 [18] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:15:46,056 [18] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>7</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>32</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>26</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>31</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:15:00 PM</td></tr></table>
+
+02 Oct 2023 13:15:46,230 [18] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:17:27,373 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:17:27,399 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:17:27,406 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>7</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>32</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>26</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>31</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:15:00 PM</td></tr></table>
+
+02 Oct 2023 13:17:27,560 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:18:15,801 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:18:15,848 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:18:15,855 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>7</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>32</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>26</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>31</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:15:00 PM</td></tr></table>
+
+02 Oct 2023 13:18:16,045 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:18:47,995 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:18:48,041 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:18:48,048 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>7</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>32</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>26</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>31</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:15:00 PM</td></tr></table>
+
+02 Oct 2023 13:18:48,219 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:19:14,061 [15] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:19:14,087 [15] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:19:14,095 [15] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>7</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>32</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>26</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>251</td><td>10/2/2023 12:30:01 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>31</td><td>10/2/2023 1:14:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:15:00 PM</td></tr></table>
+
+02 Oct 2023 13:19:14,275 [15] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:21:50,629 [29] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:21:50,655 [29] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:21:50,662 [29] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>6</td><td>10/2/2023 1:20:01 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>16</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>16</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>1540</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>23</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:20:01 PM</td></tr></table>
+
+02 Oct 2023 13:21:50,837 [29] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:22:42,494 [30] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:22:42,534 [30] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:22:42,541 [30] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>6</td><td>10/2/2023 1:20:01 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>16</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>16</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>1540</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>23</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:20:01 PM</td></tr></table>
+
+02 Oct 2023 13:22:42,714 [30] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:22:44,745 [30] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:22:44,767 [30] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:22:44,774 [30] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>6</td><td>10/2/2023 1:20:01 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>16</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>16</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>1540</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>23</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:20:01 PM</td></tr></table>
+
+02 Oct 2023 13:22:44,956 [30] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:22:56,694 [11] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:22:56,719 [11] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:22:56,725 [11] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1058</td><td>10/2/2023 12:59:02 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>6</td><td>10/2/2023 1:20:01 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>16</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>32</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>16</td><td>10/2/2023 1:15:00 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>24</td><td>10/2/2023 1:10:00 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>1540</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>23</td><td>10/2/2023 1:19:01 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:20:01 PM</td></tr></table>
+
+02 Oct 2023 13:22:56,892 [11] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:27:57,004 [14] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 13:27:57,040 [14] INFO  
+--------------- SEND EMAIL PROCESS STARTED ---------------
+
+02 Oct 2023 13:27:57,048 [14] INFO  
+
+ Table: <table border = '1'><tr><th>Job Name</th><th>LastRunOutcome</th><th>LastRunOutcomeMessage</th><th>Run Duration</th><th>Last Run Time</th></tr><tr style='background-color:#FFC7CE'><td>ECC - RelatedRecord & ServiceRequestStatus - 1 Minute</td><td>CANCEL</td><td>The job was stopped prior to completion by User DNOM\dnmc-db-user.  The Job was invoked by Schedule 132 (ECC - job).  The last step to run was step 2 (ECC - ServiceRequestStatus).</td><td>1000</td><td>10/2/2023 1:11:00 PM</td></tr><tr><td>ECC - FR Fact Work Order - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 124 (Run after every 1 minute).  The last step to run was step 3 (Insert FR WO Status).</td><td>3</td><td>10/2/2023 1:24:40 PM</td></tr><tr><td>IMIncident - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 57 (Daily @ 1 Minute).  The last step to run was step 3 (Update IMIncident Dim Table).</td><td>19</td><td>10/2/2023 1:24:00 PM</td></tr><tr><td>Trigger From SP - QMD - City weather - Weather Alert - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 61 (Daily @ 10 Minutes).  The last step to run was step 2 (Weather Alert - 10 Minute).</td><td>34</td><td>10/2/2023 1:20:01 PM</td></tr><tr><td>ECC - ProActive Monitoring Dashboard - 5 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 138 (@ 5 Minutes).  The last step to run was step 7 (ISD Recent Data).</td><td>18</td><td>10/2/2023 1:20:01 PM</td></tr><tr><td>Trigger From SP - QMD - Last Observation - 10 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 62 (Dail @ 10 Minutes).  The last step to run was step 1 (QMD - Last Observation - 10 Minutes).</td><td>27</td><td>10/2/2023 1:20:01 PM</td></tr><tr><td>EAMS - Attachment - 30 Minutes</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 69 (@ 30 min).  The last step to run was step 1 (Attachment).</td><td>1540</td><td>10/2/2023 1:00:00 PM</td></tr><tr><td>ECC - CRMS - Drainage Complaints - 1 Minute</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 136 (Schedule - 1 Minute).  The last step to run was step 3 (Update GIS Drainage Complain).</td><td>25</td><td>10/2/2023 1:24:00 PM</td></tr><tr><td>Trigger From SP - QMD - NWPInfo - 24 Hours</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 63 (Daily @ 8 AM).  The last step to run was step 1 (QMD - NWPInfo).</td><td>114</td><td>10/2/2023 8:10:00 AM</td></tr><tr><td>ECC - FR Fact Service Request - 30 Seconds</td><td>SUCCESS</td><td>The job succeeded.  The Job was invoked by Schedule 123 (Run after every 1 minute).  The last step to run was step 1 (EAMS - FR Service Request - 1 Minute).</td><td>1</td><td>10/2/2023 1:24:40 PM</td></tr></table>
+
+02 Oct 2023 13:27:57,222 [14] INFO  
+Email Send Successfully!
+
+02 Oct 2023 13:29:51,951 [10] INFO  
+http://localhost:1229/ / localhost
+
+02 Oct 2023 14:14:51,376 [6] INFO  
+http://localhost:1229/DuplicateSRAssignment.aspx /DuplicateSRAssignment.aspx localhost
+
+02 Oct 2023 14:14:51,692 [7] INFO  
+http://localhost:1229/DuplicateSRAssignment /DuplicateSRAssignment localhost
+
+02 Oct 2023 14:14:51,751 [7] ERROR 
+IP: ::1
+URL: http://localhost:1229/DuplicateSRAssignment
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.DuplicateSRAssignment.CheckParentComplaint() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 102
+   at WebAppForm.DuplicateSRAssignment.Page_Load(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+02 Oct 2023 14:24:40,003 [26] INFO  
+http://localhost:1229/DuplicateSRAssignment?pCRMSID=21092023-0003 /DuplicateSRAssignment localhost
+
+02 Oct 2023 14:26:30,973 [23] INFO  
+http://localhost:1229/DuplicateSRAssignment?pCRMSID=21092023-0003 /DuplicateSRAssignment localhost
+
+02 Oct 2023 14:26:30,987 [23] ERROR 
+IP: ::1
+URL: http://localhost:1229/DuplicateSRAssignment?pCRMSID=21092023-0003
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.DuplicateSRAssignment.AddCRMSClause() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 146
+   at WebAppForm.DuplicateSRAssignment.CheckChildComplaints() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 69
+   at WebAppForm.DuplicateSRAssignment.DuplicateAssignment() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 164
+   at WebAppForm.DuplicateSRAssignment.btnOK_Click(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 159
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+02 Oct 2023 14:33:44,841 [22] INFO  
+http://localhost:1229/ProActiveMonitorDashboard /ProActiveMonitorDashboard localhost
+
+02 Oct 2023 14:35:51,244 [38] INFO  
+http://localhost:1229/DuplicateSRAssignment?pCRMSID=21092023-0003 /DuplicateSRAssignment localhost
+
+02 Oct 2023 14:35:51,259 [38] ERROR 
+IP: ::1
+URL: http://localhost:1229/DuplicateSRAssignment?pCRMSID=21092023-0003
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.DuplicateSRAssignment.AddCRMSClause() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 146
+   at WebAppForm.DuplicateSRAssignment.CheckChildComplaints() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 69
+   at WebAppForm.DuplicateSRAssignment.DuplicateAssignment() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 164
+   at WebAppForm.DuplicateSRAssignment.btnOK_Click(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 159
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+02 Oct 2023 14:35:57,850 [22] INFO  
+http://localhost:1229/DuplicateSRAssignment?pCRMSID=21092023-0003 /DuplicateSRAssignment localhost
+
+02 Oct 2023 14:35:57,860 [22] ERROR 
+IP: ::1
+URL: http://localhost:1229/DuplicateSRAssignment?pCRMSID=21092023-0003
+Error Occured
+Message: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Inner Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAppForm.DuplicateSRAssignment.AddCRMSClause() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 146
+   at WebAppForm.DuplicateSRAssignment.CheckChildComplaints() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 69
+   at WebAppForm.DuplicateSRAssignment.DuplicateAssignment() in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 164
+   at WebAppForm.DuplicateSRAssignment.btnOK_Click(Object sender, EventArgs e) in D:\UAT\DNMC-GISWebApp\DuplicateSRAssignment.aspx.cs:line 159
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)

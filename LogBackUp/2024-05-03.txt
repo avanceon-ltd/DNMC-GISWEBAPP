@@ -1,0 +1,165 @@
+
+03 May 2024 13:36:01,331 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 13:36:43,790 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 13:37:05,249 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 14:31:48,723 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:32:29,721 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:33:14,332 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:33:58,846 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:38:36,678 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:40:40,643 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:41:26,376 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:41:50,400 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:42:07,851 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:42:31,100 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:44:29,011 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:47:50,990 [10] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:48:29,278 [11] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:53:56,966 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 14:55:41,975 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 15:00:40,056 [6] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 15:07:45,719 [8] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 15:29:16,052 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 15:29:46,894 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 15:30:03,618 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 18:49:27,328 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 18:50:05,310 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 18:54:56,787 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 18:58:43,659 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 18:58:46,087 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 18:59:34,097 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 18:59:44,382 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 19:04:54,052 [7] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:18:53,972 [5] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 20:21:37,862 [7] INFO  
+http://localhost:1229/SCADAEvents /SCADAEvents localhost
+
+03 May 2024 20:37:43,498 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:39:46,001 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:40:04,701 [5] ERROR 
+An error occurred during file creation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDateToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 222
+
+03 May 2024 20:40:22,433 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:40:46,675 [5] ERROR 
+An error occurred during file creation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDateToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 222
+
+03 May 2024 20:41:29,226 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:41:49,444 [6] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:43:05,907 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:43:23,969 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:44:59,120 [5] ERROR 
+An error occurred during file creation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDateToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 222
+
+03 May 2024 20:46:48,322 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:47:08,122 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:47:28,378 [9] ERROR 
+An error occurred during file creation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDateToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 222
+
+03 May 2024 20:56:40,047 [9] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:57:08,215 [9] ERROR 
+An error occurred during file creation.
+System.ComponentModel.Win32Exception (0x80004005): Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again
+   at LCSDMS_Images_Migration.NetworkConnection..ctor(String networkName, NetworkCredential credentials) in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\NetworkConnection.cs:line 50
+   at WebAppForm.SCADAAlarms.DownloadDateToDrive() in D:\GitHub Repositories\DNMC-GISWebApp-UAT\DNMC-GISWebApp\SCADAAlarms.aspx.cs:line 222
+
+03 May 2024 20:58:08,925 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost
+
+03 May 2024 20:58:41,037 [5] INFO  
+http://localhost:1229/SCADAAlarms /SCADAAlarms localhost

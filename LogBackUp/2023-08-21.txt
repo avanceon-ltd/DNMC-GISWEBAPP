@@ -1,0 +1,60 @@
+
+21 Aug 2023 16:20:05,391 [8] INFO  
+http://localhost:1228/AddEditMXLocation /AddEditMXLocation localhost
+
+21 Aug 2023 16:20:34,957 [8] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:20:46,483 [8] INFO  
+http://localhost:1228/AddEditMXLocationAsset.aspx?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset.aspx localhost
+
+21 Aug 2023 16:20:46,527 [9] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:20:55,430 [9] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:20:57,406 [8] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:21:13,323 [8] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:21:14,449 [11] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:21:29,828 [8] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:21:31,160 [10] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&sitename=PSSIC.P01.TT01&isedit=1 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:24:47,301 [5] INFO  
+http://localhost:1228/AddEditMXLocation /AddEditMXLocation localhost
+
+21 Aug 2023 16:24:57,533 [5] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:25:21,359 [9] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:26:43,743 [7] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:26:47,000 [5] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:27:03,000 [5] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:27:09,624 [5] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:29:48,768 [5] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:30:06,088 [5] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
+
+21 Aug 2023 16:30:09,876 [5] INFO  
+http://localhost:1228/AddEditMXLocationAsset?accesslevel=9777&isedit=1&sitename=PSSIC.P01 /AddEditMXLocationAsset localhost
